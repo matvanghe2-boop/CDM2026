@@ -266,9 +266,13 @@ function withTimeout(promise, ms = 8000) {
   ]);
 }
 
-// Tente un fetch via proxy CORS
+// Tente un fetch via proxy CORS (Gère intelligemment l'encodage selon le proxy utilisé)
 async function fetchWithProxy(proxyUrl, targetUrl) {
-  const r = await withTimeout(fetch(proxyUrl + encodeURIComponent(targetUrl)));
+  const finalUrl = proxyUrl.includes('allorigins') 
+    ? proxyUrl + encodeURIComponent(targetUrl) 
+    : proxyUrl + targetUrl;
+
+  const r = await withTimeout(fetch(finalUrl));
   if (!r.ok) throw new Error(`HTTP ${r.status}`);
   return r.json();
 }
@@ -278,6 +282,7 @@ async function fetchDirect(url) {
   const r = await withTimeout(fetch(url));
   if (!r.ok) throw new Error(`HTTP ${r.status}`);
   return r.json();
+}
 }
 
 // ──────────── NORMALIZE worldcup26.ir ────────────
