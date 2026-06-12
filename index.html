@@ -264,6 +264,7 @@ function withTimeout(promise, ms = 8000) {
     promise,
     new Promise((_, reject) => setTimeout(() => reject(new Error(`Timeout ${ms}ms`)), ms))
   ]);
+<<<<<<< HEAD
 async function fetchWithProxy(proxyUrl, targetUrl) {
   // Si c'est allorigins, on utilise leur endpoint standard sans le "/raw" pour éviter la 400
   if (proxyUrl.includes('allorigins')) {
@@ -278,10 +279,24 @@ async function fetchWithProxy(proxyUrl, targetUrl) {
   
   // Si c'est corsproxy ou un autre, on garde la logique normale sans encodage
   const finalUrl = proxyUrl + targetUrl;
+=======
+}
+
+// Tente un fetch via proxy CORS (Gère intelligemment l'encodage selon le proxy utilisé)
+async function fetchWithProxy(proxyUrl, targetUrl) {
+  const finalUrl = proxyUrl.includes('allorigins') 
+    ? proxyUrl + encodeURIComponent(targetUrl) 
+    : proxyUrl + targetUrl;
+
+>>>>>>> 84c6fc4dd910f68757c869a92d205e6c99f3ee4f
   const r = await withTimeout(fetch(finalUrl));
   if (!r.ok) throw new Error(`HTTP ${r.status}`);
   return r.json();
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 84c6fc4dd910f68757c869a92d205e6c99f3ee4f
 // Fetch direct (pas de CORS) — utilisé pour openfootball (GitHub raw)
 async function fetchDirect(url) {
   const r = await withTimeout(fetch(url));
