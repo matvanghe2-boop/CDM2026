@@ -264,7 +264,7 @@ function withTimeout(promise, ms = 8000) {
     promise,
     new Promise((_, reject) => setTimeout(() => reject(new Error(`Timeout ${ms}ms`)), ms))
   ]);
-<<<<<<< HEAD
+
 async function fetchWithProxy(proxyUrl, targetUrl) {
   // Si c'est allorigins, on utilise leur endpoint standard sans le "/raw" pour éviter la 400
   if (proxyUrl.includes('allorigins')) {
