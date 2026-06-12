@@ -283,7 +283,7 @@ async function fetchDirect(url) {
   if (!r.ok) throw new Error(`HTTP ${r.status}`);
   return r.json();
 }
-}
+
 
 // ──────────── NORMALIZE worldcup26.ir ────────────
 // Adapter : convertit la réponse de l'API live vers le format interne {id,group,home,away,hs,as,date,finished,phase}
