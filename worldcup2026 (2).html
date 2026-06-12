@@ -708,6 +708,10 @@ function showTab(name,btn){
   btn.classList.add('active');
 }
 
+  // En local ce sera http://localhost:3000/api/scores, sur Vercel ça s'adapte tout seul
+const response = await fetch('/api/scores');
+const data = await response.json();
+
 // ──────────── BOOT ────────────
 fetchData();
 setInterval(fetchData, POLL);
