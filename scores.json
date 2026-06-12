@@ -4,11 +4,11 @@
     "group": "A",
     "home": "Mexico",
     "away": "South Africa",
-    "hs": null,
-    "as": null,
+    "hs": 2,
+    "as": 0,
     "date": "2026-06-11T17:00:00.000Z",
     "finished": "TRUE",
-    "phase": "PRE",
+    "phase": "FT",
     "type": "group"
   },
   {
@@ -16,11 +16,11 @@
     "group": "A",
     "home": "South Korea",
     "away": "Czechia",
-    "hs": null,
-    "as": null,
+    "hs": 2,
+    "as": 1,
     "date": "2026-06-12T00:00:00.000Z",
     "finished": "TRUE",
-    "phase": "PRE",
+    "phase": "FT",
     "type": "group"
   },
   {
@@ -80,7 +80,7 @@
     "as": null,
     "date": "2026-06-12T17:00:00.000Z",
     "finished": "TRUE",
-    "phase": "PRE",
+    "phase": "FT",
     "type": "group"
   },
   {
