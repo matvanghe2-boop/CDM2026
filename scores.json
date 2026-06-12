@@ -8,7 +8,7 @@
     "as": null,
     "date": "2026-06-11T17:00:00.000Z",
     "finished": "TRUE",
-    "phase": "FT",
+    "phase": "PRE",
     "type": "group"
   },
   {
@@ -20,7 +20,7 @@
     "as": null,
     "date": "2026-06-12T00:00:00.000Z",
     "finished": "TRUE",
-    "phase": "FT",
+    "phase": "PRE",
     "type": "group"
   },
   {
@@ -80,7 +80,7 @@
     "as": null,
     "date": "2026-06-12T17:00:00.000Z",
     "finished": "TRUE",
-    "phase": "FT",
+    "phase": "PRE",
     "type": "group"
   },
   {
