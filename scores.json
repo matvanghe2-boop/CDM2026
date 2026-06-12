@@ -16,11 +16,11 @@
     "group": "A",
     "home": "South Korea",
     "away": "Czechia",
-    "hs": null,
-    "as": null,
+    "hs": 2,
+    "as": 1,
     "date": "2026-06-12T00:00:00.000Z",
     "finished": "TRUE",
-    "phase": "#NAME?",
+    "phase": "FT",
     "type": "group"
   },
   {
@@ -32,7 +32,7 @@
     "as": null,
     "date": "2026-06-18T14:00:00.000Z",
     "finished": "FALSE",
-    "phase": "#NAME?",
+    "phase": "PRE",
     "type": "group"
   },
   {
@@ -44,7 +44,7 @@
     "as": null,
     "date": "2026-06-18T23:00:00.000Z",
     "finished": "FALSE",
-    "phase": "#NAME?",
+    "phase": "PRE",
     "type": "group"
   },
   {
@@ -56,7 +56,7 @@
     "as": null,
     "date": "2026-06-23T23:00:00.000Z",
     "finished": "FALSE",
-    "phase": "#NAME?",
+    "phase": "PRE",
     "type": "group"
   },
   {
@@ -68,7 +68,7 @@
     "as": null,
     "date": "2026-06-23T23:00:00.000Z",
     "finished": "FALSE",
-    "phase": "#NAME?",
+    "phase": "PRE",
     "type": "group"
   },
   {
@@ -224,7 +224,7 @@
     "as": null,
     "date": "2026-06-12T21:00:00.000Z",
     "finished": "FALSE",
-    "phase": "#NAME?",
+    "phase": "PRE",
     "type": "group"
   },
   {
@@ -236,7 +236,7 @@
     "as": null,
     "date": "2026-06-13T20:00:00.000Z",
     "finished": "FALSE",
-    "phase": "#NAME?",
+    "phase": "PRE",
     "type": "group"
   },
   {
@@ -248,7 +248,7 @@
     "as": null,
     "date": "2026-06-19T17:00:00.000Z",
     "finished": "FALSE",
-    "phase": "#NAME?",
+    "phase": "PRE",
     "type": "group"
   },
   {
@@ -260,7 +260,7 @@
     "as": null,
     "date": "2026-06-19T20:00:00.000Z",
     "finished": "FALSE",
-    "phase": "#NAME?",
+    "phase": "PRE",
     "type": "group"
   },
   {
@@ -272,7 +272,7 @@
     "as": null,
     "date": "2026-06-25T20:00:00.000Z",
     "finished": "FALSE",
-    "phase": "#NAME?",
+    "phase": "PRE",
     "type": "group"
   },
   {
@@ -308,7 +308,7 @@
     "as": null,
     "date": "2026-06-14T21:00:00.000Z",
     "finished": "FALSE",
-    "phase": "#NAME?",
+    "phase": "PRE",
     "type": "group"
   },
   {
@@ -320,7 +320,7 @@
     "as": null,
     "date": "2026-06-20T15:00:00.000Z",
     "finished": "FALSE",
-    "phase": "#NAME?",
+    "phase": "PRE",
     "type": "group"
   },
   {
@@ -356,7 +356,7 @@
     "as": null,
     "date": "2026-06-25T20:00:00.000Z",
     "finished": "FALSE",
-    "phase": "#NAME?",
+    "phase": "PRE",
     "type": "group"
   },
   {
@@ -512,7 +512,7 @@
     "as": null,
     "date": "2026-06-15T15:00:00.000Z",
     "finished": "FALSE",
-    "phase": "#NAME?",
+    "phase": "PRE",
     "type": "group"
   },
   {
@@ -548,7 +548,7 @@
     "as": null,
     "date": "2026-06-21T20:00:00.000Z",
     "finished": "FALSE",
-    "phase": "#NAME?",
+    "phase": "PRE",
     "type": "group"
   },
   {
@@ -572,7 +572,7 @@
     "as": null,
     "date": "2026-06-26T20:00:00.000Z",
     "finished": "FALSE",
-    "phase": "#NAME?",
+    "phase": "PRE",
     "type": "group"
   },
   {
@@ -728,7 +728,7 @@
     "as": null,
     "date": "2026-06-17T17:00:00.000Z",
     "finished": "FALSE",
-    "phase": "#NAME?",
+    "phase": "PRE",
     "type": "group"
   },
   {
@@ -764,7 +764,7 @@
     "as": null,
     "date": "2026-06-23T20:00:00.000Z",
     "finished": "FALSE",
-    "phase": "#NAME?",
+    "phase": "PRE",
     "type": "group"
   },
   {
@@ -776,7 +776,7 @@
     "as": null,
     "date": "2026-06-27T20:00:00.000Z",
     "finished": "FALSE",
-    "phase": "#NAME?",
+    "phase": "PRE",
     "type": "group"
   },
   {
