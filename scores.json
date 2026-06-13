@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-[]
-=======
 [
   {
     "id": 1,
@@ -79,8 +76,8 @@
     "group": "B",
     "home": "Canada",
     "away": "Bosnia and Herzegovina",
-    "hs": null,
-    "as": null,
+    "hs": 1,
+    "as": 1,
     "date": "2026-06-12T17:00:00.000Z",
     "finished": "TRUE",
     "phase": "FT",
@@ -223,11 +220,11 @@
     "group": "D",
     "home": "United States",
     "away": "Paraguay",
-    "hs": null,
-    "as": null,
+    "hs": 4,
+    "as": 1,
     "date": "2026-06-12T21:00:00.000Z",
-    "finished": "FALSE",
-    "phase": "PRE",
+    "finished": "TRUE",
+    "phase": "FT",
     "type": "group"
   },
   {
@@ -867,4 +864,3 @@
     "type": "group"
   }
 ]
->>>>>>> 78287cd390bf10a3977580920d08ecf83b5d5f33
