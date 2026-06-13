@@ -548,10 +548,13 @@ const M6_MATCHES = {
 };
 
 // Vérifie si un match est sur M6
-// Priorité : champ "tv" dans scores.json > table M6_MATCHES statique
+// Priorité : 1) admin localStorage  2) champ tv dans scores.json  3) table M6_MATCHES statique
 function isM6(h, a, tvField) {
+  const key = h+'|'+a, keyR = a+'|'+h;
+  if (M6_OVERRIDES && M6_OVERRIDES.hasOwnProperty(key))  return M6_OVERRIDES[key];
+  if (M6_OVERRIDES && M6_OVERRIDES.hasOwnProperty(keyR)) return M6_OVERRIDES[keyR];
   if (tvField !== undefined) return tvField === true || tvField === 'M6' || tvField === 'TRUE';
-  return !!(M6_MATCHES[h+'|'+a] || M6_MATCHES[a+'|'+h]);
+  return !!(M6_MATCHES[key] || M6_MATCHES[keyR]);
 }
 
 function phaseLabel(phase, finished) {
@@ -644,9 +647,51 @@ function buildGroupsFromMatches(ms) {
 }
 
 // ── FETCH ──
+// ── DONNÉES DE DÉMO (utilisées quand ouvert en file://) ──
+// Contient les premiers matchs avec leurs vrais scores pour visualiser le site.
+const DEMO_MATCHES = [
+  {id:1, group:'A', home:'Mexico',       away:'South Africa', hs:2, as:0, date:'2026-06-11T19:00:00Z', finished:'TRUE',  phase:'FT',  type:'group'},
+  {id:2, group:'A', home:'South Korea',  away:'Czechia',      hs:1, as:0, date:'2026-06-12T02:00:00Z', finished:'TRUE',  phase:'FT',  type:'group'},
+  {id:3, group:'B', home:'Canada',       away:'Bosnia and Herzegovina', hs:3, as:0, date:'2026-06-12T19:00:00Z', finished:'TRUE', phase:'FT', type:'group'},
+  {id:4, group:'B', home:'Qatar',        away:'Switzerland',  hs:0, as:3, date:'2026-06-13T19:00:00Z', finished:'TRUE',  phase:'FT',  type:'group'},
+  {id:5, group:'C', home:'Brazil',       away:'Morocco',      hs:null, as:null, date:'2026-06-13T22:00:00Z', finished:'FALSE', phase:'PRE', type:'group'},
+  {id:6, group:'C', home:'Haiti',        away:'Scotland',     hs:null, as:null, date:'2026-06-12T22:00:00Z', finished:'FALSE', phase:'PRE', type:'group'},
+  {id:7, group:'D', home:'United States',away:'Paraguay',     hs:null, as:null, date:'2026-06-12T23:00:00Z', finished:'FALSE', phase:'PRE', type:'group'},
+  {id:8, group:'D', home:'Australia',    away:'Türkiye',      hs:null, as:null, date:'2026-06-13T22:00:00Z', finished:'FALSE', phase:'PRE', type:'group'},
+  {id:9, group:'E', home:'Germany',      away:'Curaçao',      hs:null, as:null, date:'2026-06-14T17:00:00Z', finished:'FALSE', phase:'PRE', type:'group'},
+  {id:10,group:'E', home:'Ivory Coast',  away:'Ecuador',      hs:null, as:null, date:'2026-06-14T23:00:00Z', finished:'FALSE', phase:'PRE', type:'group'},
+  {id:11,group:'F', home:'Netherlands',  away:'Japan',        hs:null, as:null, date:'2026-06-14T20:00:00Z', finished:'FALSE', phase:'PRE', type:'group'},
+  {id:12,group:'F', home:'Sweden',       away:'Tunisia',      hs:null, as:null, date:'2026-06-15T00:00:00Z', finished:'FALSE', phase:'PRE', type:'group'},
+  {id:13,group:'G', home:'Belgium',      away:'Egypt',        hs:null, as:null, date:'2026-06-15T19:00:00Z', finished:'FALSE', phase:'PRE', type:'group'},
+  {id:14,group:'G', home:'Iran',         away:'New Zealand',  hs:null, as:null, date:'2026-06-16T01:00:00Z', finished:'FALSE', phase:'PRE', type:'group'},
+  {id:15,group:'H', home:'Spain',        away:'Cape Verde',   hs:null, as:null, date:'2026-06-15T17:00:00Z', finished:'FALSE', phase:'PRE', type:'group'},
+  {id:16,group:'H', home:'Saudi Arabia', away:'Uruguay',      hs:null, as:null, date:'2026-06-15T22:00:00Z', finished:'FALSE', phase:'PRE', type:'group'},
+  {id:17,group:'I', home:'France',       away:'Senegal',      hs:null, as:null, date:'2026-06-16T19:00:00Z', finished:'FALSE', phase:'PRE', type:'group'},
+  {id:18,group:'I', home:'Iraq',         away:'Norway',       hs:null, as:null, date:'2026-06-16T22:00:00Z', finished:'FALSE', phase:'PRE', type:'group'},
+  {id:19,group:'J', home:'Argentina',    away:'Algeria',      hs:null, as:null, date:'2026-06-17T01:00:00Z', finished:'FALSE', phase:'PRE', type:'group'},
+  {id:20,group:'J', home:'Austria',      away:'Jordan',       hs:null, as:null, date:'2026-06-17T01:00:00Z', finished:'FALSE', phase:'PRE', type:'group'},
+  {id:21,group:'K', home:'Portugal',     away:'DR Congo',     hs:null, as:null, date:'2026-06-17T19:00:00Z', finished:'FALSE', phase:'PRE', type:'group'},
+  {id:22,group:'K', home:'Colombia',     away:'Uzbekistan',   hs:null, as:null, date:'2026-06-17T22:00:00Z', finished:'FALSE', phase:'PRE', type:'group'},
+  {id:23,group:'L', home:'England',      away:'Croatia',      hs:null, as:null, date:'2026-06-17T22:00:00Z', finished:'FALSE', phase:'PRE', type:'group'},
+  {id:24,group:'L', home:'Panama',       away:'Ghana',        hs:null, as:null, date:'2026-06-18T01:00:00Z', finished:'FALSE', phase:'PRE', type:'group'},
+];
+
 async function fetchData() {
   setStatus('spin','Chargement…');
   const now = new Date().toLocaleTimeString('fr-FR',{hour:'2-digit',minute:'2-digit'});
+
+  // ── Détection file:// → données de démo (test local sans serveur) ──
+  if (location.protocol === 'file:') {
+    console.warn('[CDM2026] Ouvert en file:// — utilisation des données de démo statiques.');
+    console.warn('[CDM2026] Pour tester avec les vraies données : npx serve . ou python -m http.server 8080');
+    MATCHES = DEMO_MATCHES;
+    MATCHES.forEach(m => { if (m.date && !m.date.endsWith('Z')) m.date += 'Z'; });
+    GROUPS = buildGroupsFromMatches(MATCHES);
+    setStatus('ok', `📦 Démo · ${now}`);
+    renderAll();
+    return;
+  }
+
   try {
     const res = await fetch('./scores.json');
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
@@ -949,16 +994,6 @@ window.addEventListener('appinstalled', () => {
 const M6_OVERRIDES_KEY = 'cdm2026_m6_overrides';
 let M6_OVERRIDES = JSON.parse(localStorage.getItem(M6_OVERRIDES_KEY) || '{}');
 
-// Surcharge isM6 avec les réglages locaux
-const _isM6Base = isM6;
-function isM6(h, a, tvField) {
-  const key = h+'|'+a;
-  const keyRev = a+'|'+h;
-  if (M6_OVERRIDES.hasOwnProperty(key))    return M6_OVERRIDES[key];
-  if (M6_OVERRIDES.hasOwnProperty(keyRev)) return M6_OVERRIDES[keyRev];
-  return _isM6Base(h, a, tvField);
-}
-
 // Ouvre le panneau admin (double-tap logo)
 let logoTaps = 0;
 document.querySelector('.logo').addEventListener('click', () => {
@@ -971,7 +1006,7 @@ function openAdmin() {
   const list = document.getElementById('adminMatchList');
   list.innerHTML = '';
   const ms = [...MATCHES].sort((a,b) => new Date(a.date||0)-new Date(b.date||0));
-  if (!ms.length) { list.innerHTML = '<p style="color:var(--muted);font-size:.8rem">Chargez d'abord les données.</p>'; }
+  if (!ms.length) { list.innerHTML = `<p style="color:var(--muted);font-size:.8rem">Chargez d&rsquo;abord les donn&eacute;es.</p>`; }
   ms.forEach(m => {
     const key = m.home+'|'+m.away;
     const checked = isM6(m.home, m.away, m.tv);
