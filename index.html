@@ -197,6 +197,13 @@ async function fetchData() {
     const res = await fetch('./scores.json');
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     MATCHES = await res.json();
+    // Sécurité : force le suffixe Z sur toutes les dates pour que le navigateur
+    // les interprète en UTC (et non en heure locale), quelle que soit la source.
+    MATCHES.forEach(m => {
+      if (m.date && typeof m.date === 'string' && !m.date.endsWith('Z') && !m.date.endsWith('z')) {
+        m.date = m.date + 'Z';
+      }
+    });
     GROUPS  = buildGroupsFromMatches(MATCHES);
     setStatus('ok', `🟢 Mis à jour · ${now}`);
     renderAll();
