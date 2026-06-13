@@ -926,10 +926,10 @@ function renderBracket() {
   const br = document.getElementById('bracket');
   br.innerHTML = '';
   const cols = [
-    {title:'Huitièmes', ms: R32},
-    {title:'Quarts',    ms: QF.map(m=>({...m,t1:null,t2:null}))},
-    {title:'Demies',    ms: SF.map(m=>({...m,t1:null,t2:null}))},
-    {title:'Finale',    ms: [...FINAL.map(m=>({...m,t1:null,t2:null})), {id:104,a:101,b:102,_final:true}]},
+    {title:'Seizièmes', ms: R32},
+    {title:'Huitièmes',    ms: QF.map(m=>({...m,t1:null,t2:null}))},
+    {title:'Quart de finales',    ms: SF.map(m=>({...m,t1:null,t2:null}))},
+    {title:'Demies finales',    ms: [...FINAL.map(m=>({...m,t1:null,t2:null})), {id:104,a:101,b:102,_final:true}]},
   ];
   cols.forEach(col => {
     const div = document.createElement('div');
