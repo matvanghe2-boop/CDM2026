@@ -727,7 +727,7 @@ function renderResults() {
     section.className = 'cal-day';
     const liveInDay = dayMs.filter(m=>isLive(m.phase)).length;
     section.innerHTML = `<div class="cal-day-header">
-      ${day} ${liveInDay?`<span style="color:var(--red);animation:pulse .8s infinite;display:inline-block">● ${liveInDay} live</span>`:'<span>${dayMs.length} match${dayMs.length>1?'s':''}</span>'}
+      ${day} ${liveInDay ? `<span style="color:var(--red);animation:pulse .8s infinite;display:inline-block">● ${liveInDay} live</span>` : `<span>${dayMs.length} match${dayMs.length > 1 ? 's' : ''}</span>`}
     </div>`;
 
     dayMs.forEach(m => {
