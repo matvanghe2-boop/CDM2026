@@ -138,17 +138,17 @@
     "group": "D",
     "teams": [
       {
-        "name": "Australia",
-        "mp": 0,
-        "w": 0,
+        "name": "United States",
+        "mp": 1,
+        "w": 1,
         "d": 0,
         "l": 0,
-        "gf": 0,
-        "ga": 0,
-        "pts": 0
+        "gf": 4,
+        "ga": 1,
+        "pts": 3
       },
       {
-        "name": "Paraguay",
+        "name": "Australia",
         "mp": 0,
         "w": 0,
         "d": 0,
@@ -168,13 +168,13 @@
         "pts": 0
       },
       {
-        "name": "United States",
-        "mp": 0,
+        "name": "Paraguay",
+        "mp": 1,
         "w": 0,
         "d": 0,
-        "l": 0,
-        "gf": 0,
-        "ga": 0,
+        "l": 1,
+        "gf": 1,
+        "ga": 4,
         "pts": 0
       }
     ]
