@@ -220,11 +220,11 @@
     "group": "D",
     "home": "United States",
     "away": "Paraguay",
-    "hs": null,
-    "as": null,
+    "hs": 0,
+    "as": 0,
     "date": "2026-06-12T21:00:00.000Z",
     "finished": "FALSE",
-    "phase": "PRE",
+    "phase": "90",
     "type": "group"
   },
   {
