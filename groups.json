@@ -183,27 +183,17 @@
     "group": "E",
     "teams": [
       {
-        "name": "Curaçao",
-        "mp": 0,
-        "w": 0,
+        "name": "Germany",
+        "mp": 1,
+        "w": 1,
         "d": 0,
         "l": 0,
-        "gf": 0,
-        "ga": 0,
-        "pts": 0
+        "gf": 7,
+        "ga": 1,
+        "pts": 3
       },
       {
         "name": "Ecuador",
-        "mp": 0,
-        "w": 0,
-        "d": 0,
-        "l": 0,
-        "gf": 0,
-        "ga": 0,
-        "pts": 0
-      },
-      {
-        "name": "Germany",
         "mp": 0,
         "w": 0,
         "d": 0,
@@ -220,6 +210,16 @@
         "l": 0,
         "gf": 0,
         "ga": 0,
+        "pts": 0
+      },
+      {
+        "name": "Curaçao",
+        "mp": 1,
+        "w": 0,
+        "d": 0,
+        "l": 1,
+        "gf": 1,
+        "ga": 7,
         "pts": 0
       }
     ]
