@@ -229,23 +229,23 @@
     "teams": [
       {
         "name": "Japan",
-        "mp": 0,
+        "mp": 2,
         "w": 0,
-        "d": 0,
+        "d": 2,
         "l": 0,
-        "gf": 0,
-        "ga": 0,
-        "pts": 0
+        "gf": 4,
+        "ga": 4,
+        "pts": 2
       },
       {
         "name": "Netherlands",
-        "mp": 0,
+        "mp": 2,
         "w": 0,
-        "d": 0,
+        "d": 2,
         "l": 0,
-        "gf": 0,
-        "ga": 0,
-        "pts": 0
+        "gf": 4,
+        "ga": 4,
+        "pts": 2
       },
       {
         "name": "Sweden",
