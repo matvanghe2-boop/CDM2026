@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15T22:26:35.806Z",
+  "updatedAt": "2026-06-15T23:26:33.569Z",
   "scorers": [
     {
       "player": {
@@ -200,6 +200,31 @@
       "yellowRedCards": 0,
       "playedMatches": 1,
       "rank": 3
+    },
+    {
+      "player": {
+        "id": 103094,
+        "name": "Abdulelah Al Amri",
+        "firstName": "Abdulelah",
+        "lastName": "Al Amri",
+        "position": "",
+        "nationality": "Saudi Arabia"
+      },
+      "team": {
+        "id": 801,
+        "name": "Saudi Arabia",
+        "shortName": "Saudi Arabia",
+        "tla": "KSA",
+        "crest": "https://crests.football-data.org/saudi_arabia.svg"
+      },
+      "goals": 1,
+      "penalties": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 1,
+      "rank": 4
     },
     {
       "player": {
