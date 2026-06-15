@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15T18:26:39.894Z",
+  "updatedAt": "2026-06-15T19:26:41.477Z",
   "scorers": [
     {
       "player": {
@@ -341,6 +341,31 @@
         "shortName": "Japan",
         "tla": "JPN",
         "crest": "https://crests.football-data.org/766.svg"
+      },
+      "goals": 1,
+      "penalties": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 1,
+      "rank": 4
+    },
+    {
+      "player": {
+        "id": 191972,
+        "name": "Emam Ashour",
+        "firstName": "Emam",
+        "lastName": "Ashour",
+        "position": "",
+        "nationality": "Egypt"
+      },
+      "team": {
+        "id": 825,
+        "name": "Egypt",
+        "shortName": "Egypt",
+        "tla": "EGY",
+        "crest": "https://crests.football-data.org/825.svg"
       },
       "goals": 1,
       "penalties": 0,
