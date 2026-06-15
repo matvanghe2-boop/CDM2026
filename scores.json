@@ -475,8 +475,8 @@
     "hs": 1,
     "as": 1,
     "date": "2026-06-15T19:00:00.000Z",
-    "finished": "FALSE",
-    "phase": "90",
+    "finished": "TRUE",
+    "phase": "FT",
     "type": "group",
     "tv": true
   },
