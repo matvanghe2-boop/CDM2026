@@ -1102,7 +1102,7 @@ fetchData();
     return nameMap[name] || name;
   }
 
-  function renderStats(data) {
+   function renderStats(data) {
     if (!data) {
       container.innerHTML = '<div class="stats-empty">Aucune donnée disponible pour l\'instant.</div>';
       return;
@@ -1111,6 +1111,32 @@ fetchData();
     var scorers = data.scorers || [];
     var assisters = data.assisters || [];
 
+    // --- Recalcul des rangs pour les buteurs (basé sur le nombre de buts) ---
+    // Trier par buts décroissant
+    var sortedScorers = [...scorers].sort(function(a, b) {
+      return b.goals - a.goals;
+    });
+    // Attribuer les rangs avec gestion des ex-aequo
+    var currentRank = 1;
+    for (var i = 0; i < sortedScorers.length; i++) {
+      if (i > 0 && sortedScorers[i].goals < sortedScorers[i-1].goals) {
+        currentRank = i + 1;
+      }
+      sortedScorers[i].calculatedRank = currentRank;
+    }
+
+    // --- Recalcul des rangs pour les passeurs (basé sur le nombre de passes) ---
+    var sortedAssisters = [...assisters].sort(function(a, b) {
+      return b.assists - a.assists;
+    });
+    currentRank = 1;
+    for (var i = 0; i < sortedAssisters.length; i++) {
+      if (i > 0 && sortedAssisters[i].assists < sortedAssisters[i-1].assists) {
+        currentRank = i + 1;
+      }
+      sortedAssisters[i].calculatedRank = currentRank;
+    }
+
     var html = '';
 
     // Section Buteurs
@@ -1118,54 +1144,62 @@ fetchData();
     html += '<div class="stats-card-header">';
     html += '<span class="icon">⚽</span>';
     html += '<h3>Meilleurs Buteurs</h3>';
-    html += '<div class="sub">' + (scorers.length ? '' : 'Aucun but inscrit pour l\'instant') + '</div>';
+    html += '<div class="sub">' + (sortedScorers.length ? '' : 'Aucun but inscrit pour l\'instant') + '</div>';
     html += '</div>';
 
-    if (scorers.length === 0) {
+    if (sortedScorers.length === 0) {
       html += '<div class="stats-empty">Aucun buteur enregistré pour l\'instant.</div>';
     } else {
       html += '<div class="stats-table-wrapper">';
       html += '<table class="table-stats">';
-      html += '<thead><tr>';
+      html += '<thead>';
+      html += '<tr>';
       html += '<th>#</th><th>Joueur</th><th>Équipe</th><th>Buts</th>';
       html += '</tr></thead><tbody>';
 
-      scorers.forEach(function(s) {
+      for (var i = 0; i < sortedScorers.length; i++) {
+        var s = sortedScorers[i];
         var rankClass = 'stats-rank';
-        if (s.rank === 1) rankClass += ' top1';
-        else if (s.rank === 2) rankClass += ' top2';
-        else if (s.rank === 3) rankClass += ' top3';
+        if (s.calculatedRank === 1) rankClass += ' top1';
+        else if (s.calculatedRank === 2) rankClass += ' top2';
+        else if (s.calculatedRank === 3) rankClass += ' top3';
 
         var playerName = s.player.name || '';
-        var teamOriginalName = (s.team && (s.team.shortName || s.team.name)) || '';
         var teamDisplayName = getTeamDisplayName(s.team);
-        var crestUrl = (s.team && s.team.crest) || '';
-        var crestHtml = crestUrl ? '<img class="stats-crest" src="' + crestUrl + '" alt="" loading="lazy">' : flagRect(teamDisplayName);
-        var penInfo = s.penalties > 0 ? '<span class="stats-meta"> (' + s.penalties + ' pen.)</span>' : '';
+        
+        var flagHtml = flagRect(teamDisplayName);
+        
+        var teamNameShort = teamDisplayName;
+        if (teamNameShort === 'United States') teamNameShort = 'USA';
+        else if (teamNameShort === 'South Korea') teamNameShort = 'Korea Rep.';
+        else if (teamNameShort === 'Czechia') teamNameShort = 'Czech Rep.';
+        else if (teamNameShort === 'DR Congo') teamNameShort = 'Congo DR';
+        
+        var penInfo = s.penalties > 0 ? ' <span class="stats-meta">(' + s.penalties + ' pen.)</span>' : '';
 
         html += '<tr>';
-        html += '<td class="' + rankClass + '">' + s.rank + '</td>';
+        html += '<td class="' + rankClass + '">' + s.calculatedRank + '</td>';
         html += '<td class="stats-player">' + escapeHtml(playerName);
         if (s.player.position) html += '<small>' + escapeHtml(s.player.position) + '</small>';
         html += '</td>';
-        html += '<td>' + crestHtml + ' ' + escapeHtml(teamDisplayName || teamOriginalName) + '</td>';
+        html += '<td>' + flagHtml + ' ' + escapeHtml(teamNameShort) + '</td>';
         html += '<td class="stats-value">' + s.goals + penInfo + '</td>';
         html += '</tr>';
-      });
+      }
 
       html += '</tbody></table></div>';
     }
     html += '</div>';
 
-        // Section Passeurs
+    // Section Passeurs
     html += '<div class="stats-card">';
     html += '<div class="stats-card-header">';
     html += '<span class="icon">🎯</span>';
     html += '<h3>Meilleurs Passeurs</h3>';
-    html += '<div class="sub">' + (assisters.length ? '' : 'Aucune passe décisive pour l\'instant') + '</div>';
+    html += '<div class="sub">' + (sortedAssisters.length ? '' : 'Aucune passe décisive pour l\'instant') + '</div>';
     html += '</div>';
 
-    if (assisters.length === 0) {
+    if (sortedAssisters.length === 0) {
       html += '<div class="stats-empty">Aucun passeur enregistré pour l\'instant.</div>';
     } else {
       html += '<div class="stats-table-wrapper">';
@@ -1175,29 +1209,26 @@ fetchData();
       html += '<th>#</th><th>Joueur</th><th>Équipe</th><th>Passes décisives</th>';
       html += '</tr></thead><tbody>';
 
-      for (var i = 0; i < assisters.length; i++) {
-        var a = assisters[i];
+      for (var i = 0; i < sortedAssisters.length; i++) {
+        var a = sortedAssisters[i];
         var rankClass = 'stats-rank';
-        if (a.rank === 1) rankClass += ' top1';
-        else if (a.rank === 2) rankClass += ' top2';
-        else if (a.rank === 3) rankClass += ' top3';
+        if (a.calculatedRank === 1) rankClass += ' top1';
+        else if (a.calculatedRank === 2) rankClass += ' top2';
+        else if (a.calculatedRank === 3) rankClass += ' top3';
 
         var playerName = a.player.name || '';
-        var teamOriginalName = (a.team && (a.team.shortName || a.team.name)) || '';
         var teamDisplayName = getTeamDisplayName(a.team);
         
-        // Utilisation de flagRect pour le drapeau
         var flagHtml = flagRect(teamDisplayName);
         
-        // Affichage du nom d'équipe (ex: "Sweden" au lieu de "🇸🇪 Sweden")
         var teamNameShort = teamDisplayName;
         if (teamNameShort === 'United States') teamNameShort = 'USA';
         else if (teamNameShort === 'South Korea') teamNameShort = 'Korea Rep.';
         else if (teamNameShort === 'Czechia') teamNameShort = 'Czech Rep.';
         else if (teamNameShort === 'DR Congo') teamNameShort = 'Congo DR';
-        
+
         html += '<tr>';
-        html += '<td class="' + rankClass + '">' + a.rank + '</td>';
+        html += '<td class="' + rankClass + '">' + a.calculatedRank + '</td>';
         html += '<td class="stats-player">' + escapeHtml(playerName);
         if (a.player.position) html += '<small>' + escapeHtml(a.player.position) + '</small>';
         html += '</td>';
@@ -1218,6 +1249,15 @@ fetchData();
     }
 
     container.innerHTML = html;
+  }
+
+  function escapeHtml(str) {
+    return String(str || '')
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;')
+      .replace(/'/g, '&#39;');
   }
 
   function escapeHtml(str) {
