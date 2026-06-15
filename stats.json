@@ -1,0 +1,402 @@
+[
+  {
+    "rank": 1,
+    "player": {
+      "id": 131040,
+      "name": "Folarin Balogun",
+      "firstName": "Folarin",
+      "lastName": "Balogun",
+      "position": ""
+    },
+    "team": {
+      "id": 771,
+      "name": "United States",
+      "shortName": "USA",
+      "tla": "USA",
+      "crest": "https://crests.football-data.org/usa.svg"
+    },
+    "goals": 0,
+    "penalties": 0,
+    "playedMatches": 1
+  },
+  {
+    "rank": 2,
+    "player": {
+      "id": 171,
+      "name": "Kai Havertz",
+      "firstName": "Kai",
+      "lastName": "Havertz",
+      "position": ""
+    },
+    "team": {
+      "id": 759,
+      "name": "Germany",
+      "shortName": "Germany",
+      "tla": "GER",
+      "crest": "https://crests.football-data.org/759.svg"
+    },
+    "goals": 0,
+    "penalties": 1,
+    "playedMatches": 1
+  },
+  {
+    "rank": 3,
+    "player": {
+      "id": 145613,
+      "name": "Yasin Ayari",
+      "firstName": "Yasin",
+      "lastName": "Ayari",
+      "position": ""
+    },
+    "team": {
+      "id": 792,
+      "name": "Sweden",
+      "shortName": "Sweden",
+      "tla": "SWE",
+      "crest": "https://crests.football-data.org/792.svg"
+    },
+    "goals": 0,
+    "penalties": 0,
+    "playedMatches": 1
+  },
+  {
+    "rank": 4,
+    "player": {
+      "id": 39237,
+      "name": "Julián Quiñones",
+      "firstName": "Julián",
+      "lastName": "Quiñones",
+      "position": ""
+    },
+    "team": {
+      "id": 769,
+      "name": "Mexico",
+      "shortName": "Mexico",
+      "tla": "MEX",
+      "crest": "https://crests.football-data.org/769.svg"
+    },
+    "goals": 0,
+    "penalties": 0,
+    "playedMatches": 1
+  },
+  {
+    "rank": 5,
+    "player": {
+      "id": 3305,
+      "name": "Raúl Jiménez",
+      "firstName": "Raúl",
+      "lastName": "Jiménez",
+      "position": ""
+    },
+    "team": {
+      "id": 769,
+      "name": "Mexico",
+      "shortName": "Mexico",
+      "tla": "MEX",
+      "crest": "https://crests.football-data.org/769.svg"
+    },
+    "goals": 0,
+    "penalties": 0,
+    "playedMatches": 1
+  },
+  {
+    "rank": 6,
+    "player": {
+      "id": 1878,
+      "name": "Ladislav Krejčí",
+      "firstName": "Ladislav",
+      "lastName": "Krejčí",
+      "position": ""
+    },
+    "team": {
+      "id": 798,
+      "name": "Czechia",
+      "shortName": "Czechia",
+      "tla": "CZE",
+      "crest": "https://crests.football-data.org/798.svg"
+    },
+    "goals": 0,
+    "penalties": 0,
+    "playedMatches": 1
+  },
+  {
+    "rank": 7,
+    "player": {
+      "id": 170561,
+      "name": "In-beom Hwang",
+      "firstName": "In-beom",
+      "lastName": "Hwang",
+      "position": ""
+    },
+    "team": {
+      "id": 772,
+      "name": "South Korea",
+      "shortName": "Korea Republic",
+      "tla": "KOR",
+      "crest": "https://crests.football-data.org/772.png"
+    },
+    "goals": 0,
+    "penalties": 0,
+    "playedMatches": 1
+  },
+  {
+    "rank": 8,
+    "player": {
+      "id": 191295,
+      "name": "Hyun-Gyu Oh",
+      "firstName": "Hyeon-gyu",
+      "lastName": "Oh",
+      "position": ""
+    },
+    "team": {
+      "id": 772,
+      "name": "South Korea",
+      "shortName": "Korea Republic",
+      "tla": "KOR",
+      "crest": "https://crests.football-data.org/772.png"
+    },
+    "goals": 0,
+    "penalties": 0,
+    "playedMatches": 1
+  },
+  {
+    "rank": 9,
+    "player": {
+      "id": 17767,
+      "name": "Jovo Lukić",
+      "firstName": "Jovo",
+      "lastName": "Lukić",
+      "position": ""
+    },
+    "team": {
+      "id": 1060,
+      "name": "Bosnia-Herzegovina",
+      "shortName": "Bosnia-H.",
+      "tla": "BIH",
+      "crest": "https://crests.football-data.org/bosnia.svg"
+    },
+    "goals": 0,
+    "penalties": 0,
+    "playedMatches": 1
+  },
+  {
+    "rank": 10,
+    "player": {
+      "id": 15958,
+      "name": "Cyle Larin",
+      "firstName": "Cyle",
+      "lastName": "Larin",
+      "position": ""
+    },
+    "team": {
+      "id": 828,
+      "name": "Canada",
+      "shortName": "Canada",
+      "tla": "CAN",
+      "crest": "https://crests.football-data.org/canada.svg"
+    },
+    "goals": 0,
+    "penalties": 0,
+    "playedMatches": 1
+  },
+  {
+    "rank": 11,
+    "player": {
+      "id": 119594,
+      "name": "Mauricio",
+      "firstName": "",
+      "lastName": "Mauricio",
+      "position": ""
+    },
+    "team": {
+      "id": 761,
+      "name": "Paraguay",
+      "shortName": "Paraguay",
+      "tla": "PAR",
+      "crest": "https://crests.football-data.org/761.svg"
+    },
+    "goals": 0,
+    "penalties": 0,
+    "playedMatches": 1
+  },
+  {
+    "rank": 12,
+    "player": {
+      "id": 136733,
+      "name": "Gio Reyna",
+      "firstName": "Gio",
+      "lastName": "Reyna",
+      "position": ""
+    },
+    "team": {
+      "id": 771,
+      "name": "United States",
+      "shortName": "USA",
+      "tla": "USA",
+      "crest": "https://crests.football-data.org/usa.svg"
+    },
+    "goals": 0,
+    "penalties": 0,
+    "playedMatches": 1
+  },
+  {
+    "rank": 13,
+    "player": {
+      "id": 3483,
+      "name": "Breel Embolo",
+      "firstName": "Breel",
+      "lastName": "Embolo",
+      "position": ""
+    },
+    "team": {
+      "id": 788,
+      "name": "Switzerland",
+      "shortName": "Switzerland",
+      "tla": "SUI",
+      "crest": "https://crests.football-data.org/788.svg"
+    },
+    "goals": 0,
+    "penalties": 1,
+    "playedMatches": 1
+  },
+  {
+    "rank": 14,
+    "player": {
+      "id": 115828,
+      "name": "Boualem Khoukhi",
+      "firstName": "Boualem",
+      "lastName": "Khoukhi",
+      "position": ""
+    },
+    "team": {
+      "id": 8030,
+      "name": "Qatar",
+      "shortName": "Qatar",
+      "tla": "QAT",
+      "crest": "https://crests.football-data.org/8030.svg"
+    },
+    "goals": 0,
+    "penalties": 0,
+    "playedMatches": 1
+  },
+  {
+    "rank": 15,
+    "player": {
+      "id": 130173,
+      "name": "Ismael Saibari",
+      "firstName": "Ismael",
+      "lastName": "Saibari",
+      "position": ""
+    },
+    "team": {
+      "id": 815,
+      "name": "Morocco",
+      "shortName": "Morocco",
+      "tla": "MAR",
+      "crest": "https://crests.football-data.org/morocco.svg"
+    },
+    "goals": 0,
+    "penalties": 0,
+    "playedMatches": 1
+  },
+  {
+    "rank": 16,
+    "player": {
+      "id": 1556,
+      "name": "Vinicius Junior",
+      "firstName": "",
+      "lastName": "Vinícius Junior",
+      "position": ""
+    },
+    "team": {
+      "id": 764,
+      "name": "Brazil",
+      "shortName": "Brazil",
+      "tla": "BRA",
+      "crest": "https://crests.football-data.org/764.svg"
+    },
+    "goals": 0,
+    "penalties": 0,
+    "playedMatches": 1
+  },
+  {
+    "rank": 17,
+    "player": {
+      "id": 34646,
+      "name": "John McGinn",
+      "firstName": "John",
+      "lastName": "McGinn",
+      "position": ""
+    },
+    "team": {
+      "id": 8873,
+      "name": "Scotland",
+      "shortName": "Scotland",
+      "tla": "SCO",
+      "crest": "https://crests.football-data.org/814.svg"
+    },
+    "goals": 0,
+    "penalties": 0,
+    "playedMatches": 1
+  },
+  {
+    "rank": 18,
+    "player": {
+      "id": 176991,
+      "name": "Nestor Irankunda",
+      "firstName": "Nestory",
+      "lastName": "Irankunda",
+      "position": ""
+    },
+    "team": {
+      "id": 779,
+      "name": "Australia",
+      "shortName": "Australia",
+      "tla": "AUS",
+      "crest": "https://crests.football-data.org/779.svg"
+    },
+    "goals": 0,
+    "penalties": 0,
+    "playedMatches": 1
+  },
+  {
+    "rank": 19,
+    "player": {
+      "id": 4635,
+      "name": "Connor Metcalfe",
+      "firstName": "Connor",
+      "lastName": "Metcalfe",
+      "position": ""
+    },
+    "team": {
+      "id": 779,
+      "name": "Australia",
+      "shortName": "Australia",
+      "tla": "AUS",
+      "crest": "https://crests.football-data.org/779.svg"
+    },
+    "goals": 0,
+    "penalties": 0,
+    "playedMatches": 1
+  },
+  {
+    "rank": 20,
+    "player": {
+      "id": 101074,
+      "name": "Felix Kalu Nmecha",
+      "firstName": "Felix",
+      "lastName": "Nmecha",
+      "position": ""
+    },
+    "team": {
+      "id": 759,
+      "name": "Germany",
+      "shortName": "Germany",
+      "tla": "GER",
+      "crest": "https://crests.football-data.org/759.svg"
+    },
+    "goals": 0,
+    "penalties": 0,
+    "playedMatches": 1
+  }
+]
