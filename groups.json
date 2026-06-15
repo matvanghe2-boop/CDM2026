@@ -193,23 +193,23 @@
         "pts": 3
       },
       {
-        "name": "Ecuador",
-        "mp": 0,
-        "w": 0,
+        "name": "Ivory Coast",
+        "mp": 1,
+        "w": 1,
         "d": 0,
         "l": 0,
-        "gf": 0,
+        "gf": 1,
         "ga": 0,
-        "pts": 0
+        "pts": 3
       },
       {
-        "name": "Ivory Coast",
-        "mp": 0,
+        "name": "Ecuador",
+        "mp": 1,
         "w": 0,
         "d": 0,
-        "l": 0,
+        "l": 1,
         "gf": 0,
-        "ga": 0,
+        "ga": 1,
         "pts": 0
       },
       {
