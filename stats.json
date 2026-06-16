@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-16T00:26:34.624Z",
+  "updatedAt": "2026-06-16T01:26:39.716Z",
   "scorers": [
     {
       "player": {
@@ -366,6 +366,31 @@
         "shortName": "Japan",
         "tla": "JPN",
         "crest": "https://crests.football-data.org/766.svg"
+      },
+      "goals": 1,
+      "penalties": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 1,
+      "rank": 4
+    },
+    {
+      "player": {
+        "id": 118981,
+        "name": "Elijah Just",
+        "firstName": "Elijah",
+        "lastName": "Just",
+        "position": "",
+        "nationality": "New Zealand"
+      },
+      "team": {
+        "id": 783,
+        "name": "New Zealand",
+        "shortName": "New Zealand",
+        "tla": "NZL",
+        "crest": "https://crests.football-data.org/783.svg"
       },
       "goals": 1,
       "penalties": 0,
