@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-16T22:26:49.502Z",
+  "updatedAt": "2026-06-16T23:26:41.051Z",
   "scorers": [
     {
       "player": {
@@ -16,6 +16,31 @@
         "shortName": "New Zealand",
         "tla": "NZL",
         "crest": "https://crests.football-data.org/783.svg"
+      },
+      "goals": 2,
+      "penalties": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 1,
+      "rank": 1
+    },
+    {
+      "player": {
+        "id": 38101,
+        "name": "Erling Haaland",
+        "firstName": "Erling",
+        "lastName": "Haaland",
+        "position": "",
+        "nationality": "Norway"
+      },
+      "team": {
+        "id": 8872,
+        "name": "Norway",
+        "shortName": "Norway",
+        "tla": "NOR",
+        "crest": "https://crests.football-data.org/813.svg"
       },
       "goals": 2,
       "penalties": 0,
@@ -299,7 +324,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 6
+      "rank": 7
     },
     {
       "player": {
@@ -324,7 +349,32 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 0,
-      "rank": 6
+      "rank": 7
+    },
+    {
+      "player": {
+        "id": 117153,
+        "name": "Aymen Hussein",
+        "firstName": "Aymen",
+        "lastName": "Hussein",
+        "position": "",
+        "nationality": "Iraq"
+      },
+      "team": {
+        "id": 8062,
+        "name": "Iraq",
+        "shortName": "Iraq",
+        "tla": "IRQ",
+        "crest": "https://crests.football-data.org/iraq.svg"
+      },
+      "goals": 1,
+      "penalties": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 1,
+      "rank": 7
     },
     {
       "player": {
@@ -349,7 +399,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 6
+      "rank": 7
     },
     {
       "player": {
@@ -374,7 +424,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 6
+      "rank": 7
     },
     {
       "player": {
@@ -399,7 +449,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 6
+      "rank": 7
     },
     {
       "player": {
@@ -424,7 +474,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 6
+      "rank": 7
     },
     {
       "player": {
@@ -449,7 +499,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 6
+      "rank": 7
     },
     {
       "player": {
@@ -474,7 +524,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 6
+      "rank": 7
     },
     {
       "player": {
@@ -499,7 +549,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 6
+      "rank": 7
     },
     {
       "player": {
@@ -524,7 +574,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 6
+      "rank": 7
     },
     {
       "player": {
@@ -549,7 +599,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 6
+      "rank": 7
     },
     {
       "player": {
@@ -574,7 +624,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 6
+      "rank": 7
     },
     {
       "player": {
@@ -599,7 +649,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 6
+      "rank": 7
     },
     {
       "player": {
@@ -624,7 +674,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 6
+      "rank": 7
     },
     {
       "player": {
@@ -649,7 +699,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 6
+      "rank": 7
     },
     {
       "player": {
@@ -674,7 +724,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 6
+      "rank": 7
     },
     {
       "player": {
@@ -699,7 +749,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 6
+      "rank": 7
     },
     {
       "player": {
@@ -724,7 +774,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 6
+      "rank": 7
     },
     {
       "player": {
@@ -749,7 +799,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 6
+      "rank": 7
     },
     {
       "player": {
@@ -774,7 +824,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 6
+      "rank": 7
     },
     {
       "player": {
@@ -799,7 +849,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 6
+      "rank": 7
     },
     {
       "player": {
@@ -824,7 +874,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 6
+      "rank": 7
     },
     {
       "player": {
@@ -849,7 +899,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 6
+      "rank": 7
     },
     {
       "player": {
@@ -874,7 +924,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 6
+      "rank": 7
     },
     {
       "player": {
@@ -899,7 +949,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 6
+      "rank": 7
     },
     {
       "player": {
@@ -924,7 +974,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 6
+      "rank": 7
     },
     {
       "player": {
@@ -949,7 +999,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 6
+      "rank": 7
     },
     {
       "player": {
@@ -974,7 +1024,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 6
+      "rank": 7
     },
     {
       "player": {
@@ -999,7 +1049,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 6
+      "rank": 7
     },
     {
       "player": {
@@ -1024,7 +1074,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 6
+      "rank": 7
     },
     {
       "player": {
@@ -1049,7 +1099,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 6
+      "rank": 7
     },
     {
       "player": {
@@ -1074,7 +1124,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 6
+      "rank": 7
     }
   ],
   "assisters": [
