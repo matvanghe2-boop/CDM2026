@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-16T20:26:36.367Z",
+  "updatedAt": "2026-06-16T20:45:10.551Z",
   "scorers": [
     {
       "player": {
@@ -666,6 +666,31 @@
         "shortName": "Japan",
         "tla": "JPN",
         "crest": "https://crests.football-data.org/766.svg"
+      },
+      "goals": 1,
+      "penalties": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 1,
+      "rank": 5
+    },
+    {
+      "player": {
+        "id": 3374,
+        "name": "Kylian Mbappé",
+        "firstName": "Kylian",
+        "lastName": "Mbappé",
+        "position": "",
+        "nationality": "France"
+      },
+      "team": {
+        "id": 773,
+        "name": "France",
+        "shortName": "France",
+        "tla": "FRA",
+        "crest": "https://crests.football-data.org/773.svg"
       },
       "goals": 1,
       "penalties": 0,
