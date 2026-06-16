@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-16T02:26:41.291Z",
+  "updatedAt": "2026-06-16T03:26:32.730Z",
   "scorers": [
     {
       "player": {
@@ -191,6 +191,31 @@
         "shortName": "Germany",
         "tla": "GER",
         "crest": "https://crests.football-data.org/759.svg"
+      },
+      "goals": 1,
+      "penalties": 0,
+      "assists": 1,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 1,
+      "rank": 3
+    },
+    {
+      "player": {
+        "id": 3804,
+        "name": "Ramin Rezaeian",
+        "firstName": "Ramin",
+        "lastName": "Rezaeian",
+        "position": "",
+        "nationality": "Iran"
+      },
+      "team": {
+        "id": 840,
+        "name": "Iran",
+        "shortName": "Iran",
+        "tla": "IRN",
+        "crest": "https://crests.football-data.org/iran.svg"
       },
       "goals": 1,
       "penalties": 0,
@@ -778,6 +803,31 @@
     },
     {
       "player": {
+        "id": 172641,
+        "name": "Mohammad Mohebi",
+        "firstName": "Mohammad",
+        "lastName": "Mohebi",
+        "position": "",
+        "nationality": "Iran"
+      },
+      "team": {
+        "id": 840,
+        "name": "Iran",
+        "shortName": "Iran",
+        "tla": "IRN",
+        "crest": "https://crests.football-data.org/iran.svg"
+      },
+      "goals": 1,
+      "penalties": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 1,
+      "rank": 5
+    },
+    {
+      "player": {
         "id": 176991,
         "name": "Nestor Irankunda",
         "firstName": "Nestory",
@@ -841,31 +891,6 @@
         "shortName": "Tunisia",
         "tla": "TUN",
         "crest": "https://crests.football-data.org/tunisia.svg"
-      },
-      "goals": 1,
-      "penalties": 0,
-      "assists": 0,
-      "yellowCards": 0,
-      "redCards": 0,
-      "yellowRedCards": 0,
-      "playedMatches": 1,
-      "rank": 5
-    },
-    {
-      "player": {
-        "id": 3804,
-        "name": "Ramin Rezaeian",
-        "firstName": "Ramin",
-        "lastName": "Rezaeian",
-        "position": "",
-        "nationality": "Iran"
-      },
-      "team": {
-        "id": 840,
-        "name": "Iran",
-        "shortName": "Iran",
-        "tla": "IRN",
-        "crest": "https://crests.football-data.org/iran.svg"
       },
       "goals": 1,
       "penalties": 0,
@@ -1068,6 +1093,31 @@
         "shortName": "Germany",
         "tla": "GER",
         "crest": "https://crests.football-data.org/759.svg"
+      },
+      "goals": 1,
+      "penalties": 0,
+      "assists": 1,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 1,
+      "rank": 3
+    },
+    {
+      "player": {
+        "id": 3804,
+        "name": "Ramin Rezaeian",
+        "firstName": "Ramin",
+        "lastName": "Rezaeian",
+        "position": "",
+        "nationality": "Iran"
+      },
+      "team": {
+        "id": 840,
+        "name": "Iran",
+        "shortName": "Iran",
+        "tla": "IRN",
+        "crest": "https://crests.football-data.org/iran.svg"
       },
       "goals": 1,
       "penalties": 0,
