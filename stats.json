@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-16T20:45:10.551Z",
+  "updatedAt": "2026-06-16T21:26:33.385Z",
   "scorers": [
     {
       "player": {
@@ -41,6 +41,31 @@
         "shortName": "USA",
         "tla": "USA",
         "crest": "https://crests.football-data.org/usa.svg"
+      },
+      "goals": 2,
+      "penalties": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 1,
+      "rank": 1
+    },
+    {
+      "player": {
+        "id": 3374,
+        "name": "Kylian Mbappé",
+        "firstName": "Kylian",
+        "lastName": "Mbappé",
+        "position": "",
+        "nationality": "France"
+      },
+      "team": {
+        "id": 773,
+        "name": "France",
+        "shortName": "France",
+        "tla": "FRA",
+        "crest": "https://crests.football-data.org/773.svg"
       },
       "goals": 2,
       "penalties": 0,
@@ -274,7 +299,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 5
+      "rank": 6
     },
     {
       "player": {
@@ -299,7 +324,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 0,
-      "rank": 5
+      "rank": 6
     },
     {
       "player": {
@@ -324,7 +349,32 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 5
+      "rank": 6
+    },
+    {
+      "player": {
+        "id": 172762,
+        "name": "Bradley Barcola",
+        "firstName": "Bradley",
+        "lastName": "Barcola",
+        "position": "",
+        "nationality": "France"
+      },
+      "team": {
+        "id": 773,
+        "name": "France",
+        "shortName": "France",
+        "tla": "FRA",
+        "crest": "https://crests.football-data.org/773.svg"
+      },
+      "goals": 1,
+      "penalties": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 1,
+      "rank": 6
     },
     {
       "player": {
@@ -349,7 +399,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 5
+      "rank": 6
     },
     {
       "player": {
@@ -374,7 +424,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 5
+      "rank": 6
     },
     {
       "player": {
@@ -399,7 +449,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 5
+      "rank": 6
     },
     {
       "player": {
@@ -424,7 +474,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 5
+      "rank": 6
     },
     {
       "player": {
@@ -449,7 +499,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 5
+      "rank": 6
     },
     {
       "player": {
@@ -474,7 +524,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 5
+      "rank": 6
     },
     {
       "player": {
@@ -499,7 +549,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 5
+      "rank": 6
     },
     {
       "player": {
@@ -524,7 +574,32 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 5
+      "rank": 6
+    },
+    {
+      "player": {
+        "id": 265040,
+        "name": "Ibrahim M'Baye",
+        "firstName": "Ibrahim",
+        "lastName": "Mbaye",
+        "position": "",
+        "nationality": "Senegal"
+      },
+      "team": {
+        "id": 804,
+        "name": "Senegal",
+        "shortName": "Senegal",
+        "tla": "SEN",
+        "crest": "https://crests.football-data.org/senegal.svg"
+      },
+      "goals": 1,
+      "penalties": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 1,
+      "rank": 6
     },
     {
       "player": {
@@ -549,7 +624,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 5
+      "rank": 6
     },
     {
       "player": {
@@ -574,7 +649,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 5
+      "rank": 6
     },
     {
       "player": {
@@ -599,7 +674,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 5
+      "rank": 6
     },
     {
       "player": {
@@ -624,7 +699,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 5
+      "rank": 6
     },
     {
       "player": {
@@ -649,7 +724,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 5
+      "rank": 6
     },
     {
       "player": {
@@ -674,32 +749,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 5
-    },
-    {
-      "player": {
-        "id": 3374,
-        "name": "Kylian Mbappé",
-        "firstName": "Kylian",
-        "lastName": "Mbappé",
-        "position": "",
-        "nationality": "France"
-      },
-      "team": {
-        "id": 773,
-        "name": "France",
-        "shortName": "France",
-        "tla": "FRA",
-        "crest": "https://crests.football-data.org/773.svg"
-      },
-      "goals": 1,
-      "penalties": 0,
-      "assists": 0,
-      "yellowCards": 0,
-      "redCards": 0,
-      "yellowRedCards": 0,
-      "playedMatches": 1,
-      "rank": 5
+      "rank": 6
     },
     {
       "player": {
@@ -724,7 +774,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 5
+      "rank": 6
     },
     {
       "player": {
@@ -749,7 +799,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 5
+      "rank": 6
     },
     {
       "player": {
@@ -774,7 +824,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 5
+      "rank": 6
     },
     {
       "player": {
@@ -799,7 +849,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 5
+      "rank": 6
     },
     {
       "player": {
@@ -824,7 +874,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 5
+      "rank": 6
     },
     {
       "player": {
@@ -849,7 +899,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 5
+      "rank": 6
     },
     {
       "player": {
@@ -874,7 +924,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 5
+      "rank": 6
     },
     {
       "player": {
@@ -899,7 +949,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 5
+      "rank": 6
     },
     {
       "player": {
@@ -924,7 +974,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 5
+      "rank": 6
     },
     {
       "player": {
@@ -949,7 +999,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 5
+      "rank": 6
     },
     {
       "player": {
@@ -974,7 +1024,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 5
+      "rank": 6
     },
     {
       "player": {
@@ -999,7 +1049,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 5
+      "rank": 6
     },
     {
       "player": {
@@ -1024,7 +1074,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 5
+      "rank": 6
     }
   ],
   "assisters": [
