@@ -957,19 +957,68 @@ function renderResults() {
   });
 }
 
+// ── BRACKET PHASE FINALE (arbre officiel FootMercato) ──
+
+// Seizièmes de finale (32 équipes)
 const R32 = [
-  {id:73,t1:{slot:'2A'},t2:{slot:'2B'}},{id:74,t1:{slot:'1E'},t2:{slot:'3ABCDF'}},
-  {id:75,t1:{slot:'1F'},t2:{slot:'2C'}},{id:76,t1:{slot:'1C'},t2:{slot:'2F'}},
-  {id:77,t1:{slot:'1I'},t2:{slot:'3CDFGH'}},{id:78,t1:{slot:'2E'},t2:{slot:'2I'}},
-  {id:79,t1:{slot:'1A'},t2:{slot:'3CEFHI'}},{id:80,t1:{slot:'1L'},t2:{slot:'3EHIJK'}},
-  {id:81,t1:{slot:'1D'},t2:{slot:'3BEFIJ'}},{id:82,t1:{slot:'1G'},t2:{slot:'3AEHIJ'}},
-  {id:83,t1:{slot:'2K'},t2:{slot:'2L'}},{id:84,t1:{slot:'1H'},t2:{slot:'2J'}},
-  {id:85,t1:{slot:'1B'},t2:{slot:'3EFGIJ'}},{id:86,t1:{slot:'1J'},t2:{slot:'2H'}},
-  {id:87,t1:{slot:'1K'},t2:{slot:'3DEIJL'}},{id:88,t1:{slot:'2D'},t2:{slot:'2G'}},
+  // Matchs 73 à 88 dans l'ordre officiel
+  // Groupe A vs B
+  {id:73, t1:{slot:'2A'}, t2:{slot:'2B'}},
+  // A vs B suite
+  {id:74, t1:{slot:'1A'}, t2:{slot:'3C'}},
+  // C vs D
+  {id:75, t1:{slot:'1C'}, t2:{slot:'3D'}},
+  {id:76, t1:{slot:'1D'}, t2:{slot:'2C'}},
+  // E vs F
+  {id:77, t1:{slot:'2E'}, t2:{slot:'2F'}},
+  {id:78, t1:{slot:'1E'}, t2:{slot:'3F'}},
+  // G vs H
+  {id:79, t1:{slot:'1G'}, t2:{slot:'3H'}},
+  {id:80, t1:{slot:'1H'}, t2:{slot:'2G'}},
+  // I vs J
+  {id:81, t1:{slot:'1I'}, t2:{slot:'2J'}},
+  {id:82, t1:{slot:'1J'}, t2:{slot:'3I'}},
+  // K vs L
+  {id:83, t1:{slot:'2K'}, t2:{slot:'2L'}},
+  {id:84, t1:{slot:'1K'}, t2:{slot:'3L'}},
+  // Meilleurs 3es
+  {id:85, t1:{slot:'1B'}, t2:{slot:'3E'}},
+  {id:86, t1:{slot:'1F'}, t2:{slot:'3G'}},
+  {id:87, t1:{slot:'1L'}, t2:{slot:'3J'}},
+  {id:88, t1:{slot:'2D'}, t2:{slot:'2H'}},
 ];
-const QF    = [{id:89,a:74,b:77},{id:90,a:73,b:75},{id:91,a:76,b:78},{id:92,a:79,b:80},{id:93,a:83,b:84},{id:94,a:81,b:82},{id:95,a:86,b:88},{id:96,a:85,b:87}];
-const SF    = [{id:97,a:89,b:90},{id:98,a:93,b:94},{id:99,a:91,b:92},{id:100,a:95,b:96}];
-const FINAL = [{id:101,a:97,b:98},{id:102,a:99,b:100}];
+
+// Huitièmes de finale (16 équipes)
+const QF = [
+  // Demi-tableau 1
+  {id:89, a:73, b:74},  // V73 vs V74
+  {id:90, a:75, b:76},  // V75 vs V76
+  // Demi-tableau 2
+  {id:91, a:77, b:78},  // V77 vs V78
+  {id:92, a:79, b:80},  // V79 vs V80
+  // Demi-tableau 3
+  {id:93, a:81, b:82},  // V81 vs V82
+  {id:94, a:83, b:84},  // V83 vs V84
+  // Demi-tableau 4
+  {id:95, a:85, b:86},  // V85 vs V86
+  {id:96, a:87, b:88},  // V87 vs V88
+];
+
+// Quarts de finale (8 équipes)
+const SF = [
+  {id:97, a:89, b:90},  // V89 vs V90
+  {id:98, a:91, b:92},  // V91 vs V92
+  {id:99, a:93, b:94},  // V93 vs V94
+  {id:100, a:95, b:96}, // V95 vs V96
+];
+
+// Demi-finales (4 équipes)
+const FINAL = [
+  {id:101, a:97, b:98},  // V97 vs V98
+  {id:102, a:99, b:100}, // V99 vs V100
+  // Finale
+  {id:103, a:101, b:102, _final:true},
+];
 
 function resolveSlot(slot) {
   if (!slot || slot.startsWith('3')) return null;
@@ -997,33 +1046,60 @@ function renderBracket() {
   const br = document.getElementById('bracket');
   br.innerHTML = '';
   const cols = [
-    {title:'Seizièmes', ms: R32},
-    {title:'Huitièmes',    ms: QF.map(m=>({...m,t1:null,t2:null}))},
-    {title:'Quart de finales',    ms: SF.map(m=>({...m,t1:null,t2:null}))},
-    {title:'Demies finales',    ms: [...FINAL.map(m=>({...m,t1:null,t2:null})), {id:104,a:101,b:102,_final:true}]},
+    {title:'Seizièmes de finale', ms: R32, width:'200px'},
+    {title:'Huitièmes de finale', ms: QF.map(m=>({...m,t1:null,t2:null})), width:'180px'},
+    {title:'Quarts de finale', ms: SF.map(m=>({...m,t1:null,t2:null})), width:'160px'},
+    {title:'Demi-finales', ms: FINAL.filter(m=>!m._final).map(m=>({...m,t1:null,t2:null})), width:'150px'},
+    {title:'Finale', ms: [FINAL.find(m=>m._final)], width:'130px'},
   ];
   cols.forEach(col => {
     const div = document.createElement('div');
     div.className = 'bround';
+    if (col.width) div.style.minWidth = col.width;
+    
+    // Fonction pour obtenir le gagnant d'un match précédent
+    const getWinnerLabel = (matchId) => {
+      // On vérifie si le match a été résolu (avec les données actuelles)
+      // Dans notre cas, on affiche simplement "V.M" + id
+      return 'V. M' + matchId;
+    };
+    
     const body = col.ms.map(m => {
-      if (m._final) return `<div class="bm" style="border:1px solid var(--gold);border-radius:6px;margin:.3rem">
-        <div class="bt"><span class="n" style="color:var(--gold)">🏆 À déterminer</span><span class="s">–</span></div>
-        <div class="bsep"></div>
-        <div class="bt"><span class="n" style="color:var(--gold)">🏆 À déterminer</span><span class="s">–</span></div>
-        <div class="bmeta" style="color:var(--gold)">🗓 19 juillet · New York</div>
-      </div>`;
+      if (m._final) {
+        return `<div class="bm" style="border:2px solid var(--gold);border-radius:8px;margin:.3rem;background:linear-gradient(135deg,rgba(245,158,11,.1),transparent)">
+          <div class="bt" style="justify-content:center;">
+            <span class="n" style="color:var(--gold);font-size:1rem;font-weight:700;">🏆 FINALE</span>
+          </div>
+          <div class="bt"><span class="n" style="color:var(--gold)">Vainqueur M101</span><span class="s">–</span></div>
+          <div class="bsep"></div>
+          <div class="bt"><span class="n" style="color:var(--gold)">Vainqueur M102</span><span class="s">–</span></div>
+          <div class="bmeta" style="color:var(--gold);text-align:center;">🗓 19 juillet · New York</div>
+        </div>`;
+      }
+      
       const isSlot = !!m.t1;
       const t1 = isSlot ? resolveSlot(m.t1.slot) : null;
       const t2 = isSlot ? resolveSlot(m.t2.slot) : null;
-      const r1 = isSlot ? btRow(t1,m.t1.slot) : `<div class="bt"><span class="n"><span style="opacity:.4">🏳️</span> <span style="color:var(--muted2)">V. M${m.a}</span></span><span class="s">–</span></div>`;
-      const r2 = isSlot ? btRow(t2,m.t2.slot) : `<div class="bt"><span class="n"><span style="opacity:.4">🏳️</span> <span style="color:var(--muted2)">V. M${m.b}</span></span><span class="s">–</span></div>`;
-      const meta = isSlot ? `M${m.id} · ${slotLabel(m.t1.slot)} – ${slotLabel(m.t2.slot)}` : `M${m.id} · V.M${m.a} – V.M${m.b}`;
+      
+      const r1 = isSlot 
+        ? btRow(t1, m.t1.slot) 
+        : `<div class="bt"><span class="n"><span style="opacity:.4">🏳️</span> <span style="color:var(--muted2)">${getWinnerLabel(m.a)}</span></span><span class="s">–</span></div>`;
+      const r2 = isSlot 
+        ? btRow(t2, m.t2.slot) 
+        : `<div class="bt"><span class="n"><span style="opacity:.4">🏳️</span> <span style="color:var(--muted2)">${getWinnerLabel(m.b)}</span></span><span class="s">–</span></div>`;
+      
+      const meta = isSlot 
+        ? `M${m.id} · ${slotLabel(m.t1.slot)} – ${slotLabel(m.t2.slot)}` 
+        : `M${m.id} · ${getWinnerLabel(m.a)} – ${getWinnerLabel(m.b)}`;
+      
       return `<div class="bm">${r1}<div class="bsep"></div>${r2}<div class="bmeta">${meta}</div></div>`;
     }).join('');
+    
     div.innerHTML = `<div class="rh">${col.title}</div><div class="rmatches">${body}</div>`;
     br.appendChild(div);
   });
 }
+
 
 let activeTab = 'groupes';
 function switchTab(name, btn, fromMobile) {
