@@ -957,30 +957,30 @@ function renderResults() {
   });
 }
 
-// ── BRACKET PHASE FINALE (arbre officiel FootMercato) ──
+// ── BRACKET PHASE FINALE (arbre officiel complet) ──
 
 // Seizièmes de finale (32 équipes) - Matchs 73 à 88
 // Ordre exact selon l'arbre officiel FootMercato
 const R32 = [
-  // Quarts de tableau 1 - M73 à M76
+  // Colonne 1 - Quarts de tableau 1
   {id:73, t1:{slot:'2A'}, t2:{slot:'2B'}},      // 2A vs 2B
   {id:74, t1:{slot:'1E'}, t2:{slot:'3ABCDF'}},  // 1E vs Meilleur 3e (ABCDF)
   {id:75, t1:{slot:'1F'}, t2:{slot:'2C'}},      // 1F vs 2C
   {id:76, t1:{slot:'1C'}, t2:{slot:'2F'}},      // 1C vs 2F
   
-  // Quarts de tableau 2 - M77 à M80
+  // Colonne 2 - Quarts de tableau 2
   {id:77, t1:{slot:'1I'}, t2:{slot:'3CDFGH'}},  // 1I vs Meilleur 3e (CDFGH)
   {id:78, t1:{slot:'2E'}, t2:{slot:'2I'}},      // 2E vs 2I
   {id:79, t1:{slot:'1A'}, t2:{slot:'3CEFHI'}},  // 1A vs Meilleur 3e (CEFHI)
   {id:80, t1:{slot:'1L'}, t2:{slot:'3EHIJK'}},  // 1L vs Meilleur 3e (EHIJK)
   
-  // Quarts de tableau 3 - M81 à M84
+  // Colonne 3 - Quarts de tableau 3
   {id:81, t1:{slot:'1D'}, t2:{slot:'3BEFIJ'}},  // 1D vs Meilleur 3e (BEFIJ)
   {id:82, t1:{slot:'1G'}, t2:{slot:'3AEHIJ'}},  // 1G vs Meilleur 3e (AEHIJ)
   {id:83, t1:{slot:'2K'}, t2:{slot:'2L'}},      // 2K vs 2L
   {id:84, t1:{slot:'1H'}, t2:{slot:'2J'}},      // 1H vs 2J
   
-  // Quarts de tableau 4 - M85 à M88
+  // Colonne 4 - Quarts de tableau 4
   {id:85, t1:{slot:'1B'}, t2:{slot:'3EFGIJ'}},  // 1B vs Meilleur 3e (EFGIJ)
   {id:86, t1:{slot:'1J'}, t2:{slot:'2H'}},      // 1J vs 2H
   {id:87, t1:{slot:'1K'}, t2:{slot:'3DEIJL'}},  // 1K vs Meilleur 3e (DEIJL)
@@ -988,34 +988,33 @@ const R32 = [
 ];
 
 // Huitièmes de finale (16 équipes) - Matchs 89 à 96
+// Appariements selon l'arbre : 89=74-77, 90=73-75, 91=76-78, 92=79-80, 93=83-84, 94=81-82, 95=86-88, 96=85-87
 const QF = [
-  // Demi-tableau 1
-  {id:89, a:73, b:74},  // V73 vs V74
-  {id:90, a:75, b:76},  // V75 vs V76
-  // Demi-tableau 2
-  {id:91, a:77, b:78},  // V77 vs V78
+  {id:89, a:74, b:77},  // V74 vs V77
+  {id:90, a:73, b:75},  // V73 vs V75
+  {id:91, a:76, b:78},  // V76 vs V78
   {id:92, a:79, b:80},  // V79 vs V80
-  // Demi-tableau 3
-  {id:93, a:81, b:82},  // V81 vs V82
-  {id:94, a:83, b:84},  // V83 vs V84
-  // Demi-tableau 4
-  {id:95, a:85, b:86},  // V85 vs V86
-  {id:96, a:87, b:88},  // V87 vs V88
+  {id:93, a:83, b:84},  // V83 vs V84
+  {id:94, a:81, b:82},  // V81 vs V82
+  {id:95, a:86, b:88},  // V86 vs V88
+  {id:96, a:85, b:87},  // V85 vs V87
 ];
 
 // Quarts de finale (8 équipes) - Matchs 97 à 100
+// Appariements selon l'arbre : 97=89-90, 98=93-94, 99=91-92, 100=95-96
 const SF = [
   {id:97, a:89, b:90},  // V89 vs V90
-  {id:98, a:91, b:92},  // V91 vs V92
-  {id:99, a:93, b:94},  // V93 vs V94
+  {id:98, a:93, b:94},  // V93 vs V94
+  {id:99, a:91, b:92},  // V91 vs V92
   {id:100, a:95, b:96}, // V95 vs V96
 ];
 
-// Demi-finales (4 équipes) + Finale
+// Demi-finales (4 équipes) + Finale + Match pour la 3e place
 const FINAL = [
   {id:101, a:97, b:98},  // Demi-finale 1
   {id:102, a:99, b:100}, // Demi-finale 2
-  {id:103, a:101, b:102, _final:true}, // Finale
+  {id:103, a:101, b:102, _third:true}, // Match pour la 3e place
+  {id:104, a:101, b:102, _final:true}, // Finale
 ];
 
 // Fonction pour obtenir le libellé du meilleur 3e
@@ -1027,7 +1026,7 @@ function getBestThirdLabel(slot) {
 
 function resolveSlot(slot) {
   if (!slot) return null;
-  if (slot.startsWith('3')) return null; // Les meilleurs 3es sont déterminés plus tard
+  if (slot.startsWith('3')) return null;
   const rank = parseInt(slot[0]) - 1;
   const letter = slot[1];
   const grp = GROUPS.find(g => g.letter === letter);
@@ -1059,13 +1058,12 @@ function renderBracket() {
   const br = document.getElementById('bracket');
   br.innerHTML = '';
   
-  // Définition des colonnes avec leurs largeurs
   const cols = [
     {title: 'Seizièmes de finale', ms: R32, width: '200px'},
     {title: 'Huitièmes de finale', ms: QF.map(m => ({...m, t1: null, t2: null})), width: '180px'},
     {title: 'Quarts de finale', ms: SF.map(m => ({...m, t1: null, t2: null})), width: '160px'},
-    {title: 'Demi-finales', ms: FINAL.filter(m => !m._final).map(m => ({...m, t1: null, t2: null})), width: '150px'},
-    {title: 'Finale', ms: [FINAL.find(m => m._final)], width: '130px'},
+    {title: 'Demi-finales', ms: FINAL.filter(m => !m._final && !m._third).map(m => ({...m, t1: null, t2: null})), width: '150px'},
+    {title: 'Finale & 3e place', ms: FINAL.filter(m => m._final || m._third).map(m => ({...m, t1: null, t2: null})), width: '140px'},
   ];
 
   cols.forEach((col, colIndex) => {
@@ -1073,7 +1071,6 @@ function renderBracket() {
     div.className = 'bround';
     if (col.width) div.style.minWidth = col.width;
     
-    // Pour les colonnes après les seizièmes, on utilise "V.Mxx" pour les vainqueurs
     const getWinnerLabel = (matchId) => {
       return 'V. M' + matchId;
     };
@@ -1092,20 +1089,32 @@ function renderBracket() {
           <div class="bmeta" style="color:var(--gold);text-align:center;">🗓 19 juillet · New York</div>
         </div>`;
       }
+      
+      // Match pour la 3e place
+      if (m._third) {
+        return `<div class="bm" style="border:1px solid var(--orange);border-radius:8px;margin:.3rem;background:linear-gradient(135deg,rgba(249,115,22,.1),transparent)">
+          <div class="bt" style="justify-content:center;">
+            <span class="n" style="color:var(--orange);font-size:0.9rem;font-weight:700;">🥉 3e PLACE</span>
+          </div>
+          <div class="bsep"></div>
+          <div class="bt"><span class="n" style="color:var(--orange)">Perdant M101</span><span class="s">–</span></div>
+          <div class="bsep"></div>
+          <div class="bt"><span class="n" style="color:var(--orange)">Perdant M102</span><span class="s">–</span></div>
+          <div class="bmeta" style="color:var(--orange);text-align:center;">🗓 18 juillet · Miami</div>
+        </div>`;
+      }
 
       const isSlot = !!m.t1;
       
       let r1, r2, meta;
       
       if (isSlot) {
-        // Seizièmes de finale - affichage des slots
         const t1 = resolveSlot(m.t1.slot);
         const t2 = resolveSlot(m.t2.slot);
         r1 = btRow(t1, m.t1.slot);
         r2 = btRow(t2, m.t2.slot);
         meta = `M${m.id} · ${slotLabel(m.t1.slot)} – ${slotLabel(m.t2.slot)}`;
       } else {
-        // Tours suivants - affichage "Vainqueur Mxx"
         r1 = `<div class="bt"><span class="n"><span style="opacity:.4">🏳️</span> <span style="color:var(--muted2)">${getWinnerLabel(m.a)}</span></span><span class="s">–</span></div>`;
         r2 = `<div class="bt"><span class="n"><span style="opacity:.4">🏳️</span> <span style="color:var(--muted2)">${getWinnerLabel(m.b)}</span></span><span class="s">–</span></div>`;
         meta = `M${m.id} · ${getWinnerLabel(m.a)} – ${getWinnerLabel(m.b)}`;
@@ -1118,7 +1127,6 @@ function renderBracket() {
     br.appendChild(div);
   });
 }
-
 
 let activeTab = 'groupes';
 function switchTab(name, btn, fromMobile) {
