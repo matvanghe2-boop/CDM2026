@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15T23:26:33.569Z",
+  "updatedAt": "2026-06-16T00:26:34.624Z",
   "scorers": [
     {
       "player": {
@@ -716,6 +716,31 @@
         "shortName": "Paraguay",
         "tla": "PAR",
         "crest": "https://crests.football-data.org/761.svg"
+      },
+      "goals": 1,
+      "penalties": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 1,
+      "rank": 4
+    },
+    {
+      "player": {
+        "id": 28770,
+        "name": "Maximiliano Araújo",
+        "firstName": "Maxi",
+        "lastName": "Araújo",
+        "position": "",
+        "nationality": "Uruguay"
+      },
+      "team": {
+        "id": 758,
+        "name": "Uruguay",
+        "shortName": "Uruguay",
+        "tla": "URU",
+        "crest": "https://crests.football-data.org/758.svg"
       },
       "goals": 1,
       "penalties": 0,
