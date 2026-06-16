@@ -318,6 +318,26 @@
     "group": "H",
     "teams": [
       {
+        "name": "Saudi Arabia",
+        "mp": 1,
+        "w": 0,
+        "d": 1,
+        "l": 0,
+        "gf": 1,
+        "ga": 1,
+        "pts": 1
+      },
+      {
+        "name": "Uruguay",
+        "mp": 1,
+        "w": 0,
+        "d": 1,
+        "l": 0,
+        "gf": 1,
+        "ga": 1,
+        "pts": 1
+      },
+      {
         "name": "Cape Verde",
         "mp": 1,
         "w": 0,
@@ -336,26 +356,6 @@
         "gf": 0,
         "ga": 0,
         "pts": 1
-      },
-      {
-        "name": "Saudi Arabia",
-        "mp": 0,
-        "w": 0,
-        "d": 0,
-        "l": 0,
-        "gf": 0,
-        "ga": 0,
-        "pts": 0
-      },
-      {
-        "name": "Uruguay",
-        "mp": 0,
-        "w": 0,
-        "d": 0,
-        "l": 0,
-        "gf": 0,
-        "ga": 0,
-        "pts": 0
       }
     ]
   },
