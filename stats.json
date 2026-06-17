@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-16T23:26:41.051Z",
+  "updatedAt": "2026-06-17T00:26:34.106Z",
   "scorers": [
     {
       "player": {
@@ -816,6 +816,31 @@
         "shortName": "Czechia",
         "tla": "CZE",
         "crest": "https://crests.football-data.org/798.svg"
+      },
+      "goals": 1,
+      "penalties": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 1,
+      "rank": 7
+    },
+    {
+      "player": {
+        "id": 44032,
+        "name": "Leo Østigård",
+        "firstName": "Leo",
+        "lastName": "Østigård",
+        "position": "",
+        "nationality": "Norway"
+      },
+      "team": {
+        "id": 8872,
+        "name": "Norway",
+        "shortName": "Norway",
+        "tla": "NOR",
+        "crest": "https://crests.football-data.org/813.svg"
       },
       "goals": 1,
       "penalties": 0,
