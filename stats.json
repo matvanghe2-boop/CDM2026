@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-17T01:26:38.441Z",
+  "updatedAt": "2026-06-17T02:26:34.935Z",
   "scorers": [
     {
       "player": {
@@ -91,6 +91,31 @@
         "shortName": "France",
         "tla": "FRA",
         "crest": "https://crests.football-data.org/773.svg"
+      },
+      "goals": 2,
+      "penalties": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 1,
+      "rank": 1
+    },
+    {
+      "player": {
+        "id": 3218,
+        "name": "Lionel Messi",
+        "firstName": "Lionel",
+        "lastName": "Messi",
+        "position": "",
+        "nationality": "Argentina"
+      },
+      "team": {
+        "id": 762,
+        "name": "Argentina",
+        "shortName": "Argentina",
+        "tla": "ARG",
+        "crest": "https://crests.football-data.org/762.png"
       },
       "goals": 2,
       "penalties": 0,
@@ -324,7 +349,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 7
+      "rank": 8
     },
     {
       "player": {
@@ -349,7 +374,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 0,
-      "rank": 7
+      "rank": 8
     },
     {
       "player": {
@@ -374,7 +399,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 7
+      "rank": 8
     },
     {
       "player": {
@@ -399,7 +424,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 7
+      "rank": 8
     },
     {
       "player": {
@@ -424,7 +449,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 7
+      "rank": 8
     },
     {
       "player": {
@@ -449,7 +474,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 7
+      "rank": 8
     },
     {
       "player": {
@@ -474,7 +499,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 7
+      "rank": 8
     },
     {
       "player": {
@@ -499,7 +524,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 7
+      "rank": 8
     },
     {
       "player": {
@@ -524,7 +549,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 7
+      "rank": 8
     },
     {
       "player": {
@@ -549,7 +574,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 7
+      "rank": 8
     },
     {
       "player": {
@@ -574,7 +599,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 7
+      "rank": 8
     },
     {
       "player": {
@@ -599,7 +624,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 7
+      "rank": 8
     },
     {
       "player": {
@@ -624,7 +649,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 7
+      "rank": 8
     },
     {
       "player": {
@@ -649,7 +674,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 7
+      "rank": 8
     },
     {
       "player": {
@@ -674,7 +699,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 7
+      "rank": 8
     },
     {
       "player": {
@@ -699,7 +724,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 7
+      "rank": 8
     },
     {
       "player": {
@@ -724,7 +749,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 7
+      "rank": 8
     },
     {
       "player": {
@@ -749,7 +774,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 7
+      "rank": 8
     },
     {
       "player": {
@@ -774,7 +799,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 7
+      "rank": 8
     },
     {
       "player": {
@@ -799,7 +824,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 7
+      "rank": 8
     },
     {
       "player": {
@@ -824,7 +849,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 7
+      "rank": 8
     },
     {
       "player": {
@@ -849,32 +874,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 7
-    },
-    {
-      "player": {
-        "id": 3218,
-        "name": "Lionel Messi",
-        "firstName": "Lionel",
-        "lastName": "Messi",
-        "position": "",
-        "nationality": "Argentina"
-      },
-      "team": {
-        "id": 762,
-        "name": "Argentina",
-        "shortName": "Argentina",
-        "tla": "ARG",
-        "crest": "https://crests.football-data.org/762.png"
-      },
-      "goals": 1,
-      "penalties": 0,
-      "assists": 0,
-      "yellowCards": 0,
-      "redCards": 0,
-      "yellowRedCards": 0,
-      "playedMatches": 1,
-      "rank": 7
+      "rank": 8
     },
     {
       "player": {
@@ -899,7 +899,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 7
+      "rank": 8
     },
     {
       "player": {
@@ -924,7 +924,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 7
+      "rank": 8
     },
     {
       "player": {
@@ -949,7 +949,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 7
+      "rank": 8
     },
     {
       "player": {
@@ -974,7 +974,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 7
+      "rank": 8
     },
     {
       "player": {
@@ -999,7 +999,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 7
+      "rank": 8
     },
     {
       "player": {
@@ -1024,7 +1024,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 7
+      "rank": 8
     },
     {
       "player": {
@@ -1049,7 +1049,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 7
+      "rank": 8
     },
     {
       "player": {
@@ -1074,7 +1074,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 7
+      "rank": 8
     },
     {
       "player": {
@@ -1099,7 +1099,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 7
+      "rank": 8
     },
     {
       "player": {
@@ -1124,7 +1124,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 7
+      "rank": 8
     },
     {
       "player": {
@@ -1149,7 +1149,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 7
+      "rank": 8
     },
     {
       "player": {
@@ -1174,7 +1174,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 7
+      "rank": 8
     }
   ],
   "assisters": [
