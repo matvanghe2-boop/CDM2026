@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-17T05:26:46.070Z",
+  "updatedAt": "2026-06-17T06:26:34.893Z",
   "scorers": [
     {
       "player": {
@@ -1216,6 +1216,31 @@
         "shortName": "Switzerland",
         "tla": "SUI",
         "crest": "https://crests.football-data.org/788.svg"
+      },
+      "goals": 1,
+      "penalties": 1,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 1,
+      "rank": 8
+    },
+    {
+      "player": {
+        "id": 8223,
+        "name": "Marko Arnautovic",
+        "firstName": "Marko",
+        "lastName": "Arnautović",
+        "position": "",
+        "nationality": "Austria"
+      },
+      "team": {
+        "id": 816,
+        "name": "Austria",
+        "shortName": "Austria",
+        "tla": "AUT",
+        "crest": "https://crests.football-data.org/816.svg"
       },
       "goals": 1,
       "penalties": 1,
