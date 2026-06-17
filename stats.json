@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-17T17:48:56.263Z",
+  "updatedAt": "2026-06-17T18:23:31.798Z",
   "scorers": [
     {
       "player": {
@@ -1216,6 +1216,31 @@
         "shortName": "Netherlands",
         "tla": "NED",
         "crest": "https://crests.football-data.org/8601.svg"
+      },
+      "goals": 1,
+      "penalties": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 1,
+      "rank": 8
+    },
+    {
+      "player": {
+        "id": 612,
+        "name": "Yoane Wissa",
+        "firstName": "Yoane",
+        "lastName": "Wissa",
+        "position": "",
+        "nationality": "Congo DR"
+      },
+      "team": {
+        "id": 1934,
+        "name": "Congo DR",
+        "shortName": "Congo DR",
+        "tla": "COD",
+        "crest": "https://crests.football-data.org/congo_dr.svg"
       },
       "goals": 1,
       "penalties": 0,
