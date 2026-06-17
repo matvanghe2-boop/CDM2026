@@ -408,24 +408,14 @@
     "group": "J",
     "teams": [
       {
-        "name": "Algeria",
-        "mp": 0,
-        "w": 0,
-        "d": 0,
-        "l": 0,
-        "gf": 0,
-        "ga": 0,
-        "pts": 0
-      },
-      {
         "name": "Argentina",
-        "mp": 0,
-        "w": 0,
+        "mp": 1,
+        "w": 1,
         "d": 0,
         "l": 0,
-        "gf": 0,
+        "gf": 3,
         "ga": 0,
-        "pts": 0
+        "pts": 3
       },
       {
         "name": "Austria",
@@ -445,6 +435,16 @@
         "l": 0,
         "gf": 0,
         "ga": 0,
+        "pts": 0
+      },
+      {
+        "name": "Algeria",
+        "mp": 1,
+        "w": 0,
+        "d": 0,
+        "l": 1,
+        "gf": 0,
+        "ga": 3,
         "pts": 0
       }
     ]
