@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-18T02:26:40.425Z",
+  "updatedAt": "2026-06-18T03:26:47.444Z",
   "scorers": [
     {
       "player": {
@@ -353,6 +353,31 @@
     },
     {
       "player": {
+        "id": 214531,
+        "name": "Abbosbek Fayzullaev",
+        "firstName": "Abbosbek",
+        "lastName": "Fayzullaev",
+        "position": "",
+        "nationality": "Uzbekistan"
+      },
+      "team": {
+        "id": 8070,
+        "name": "Uzbekistan",
+        "shortName": "Uzbekistan",
+        "tla": "UZB",
+        "crest": "https://crests.football-data.org/8070.png"
+      },
+      "goals": 1,
+      "penalties": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 1,
+      "rank": 9
+    },
+    {
+      "player": {
         "id": 103094,
         "name": "Abdulelah Al Amri",
         "firstName": "Abdulelah",
@@ -616,6 +641,31 @@
         "shortName": "Japan",
         "tla": "JPN",
         "crest": "https://crests.football-data.org/766.svg"
+      },
+      "goals": 1,
+      "penalties": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 1,
+      "rank": 9
+    },
+    {
+      "player": {
+        "id": 22010,
+        "name": "Daniel Muñoz",
+        "firstName": "Daniel",
+        "lastName": "Muñoz",
+        "position": "",
+        "nationality": "Colombia"
+      },
+      "team": {
+        "id": 818,
+        "name": "Colombia",
+        "shortName": "Colombia",
+        "tla": "COL",
+        "crest": "https://crests.football-data.org/818.svg"
       },
       "goals": 1,
       "penalties": 0,
