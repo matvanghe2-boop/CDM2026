@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-18T00:27:05.047Z",
+  "updatedAt": "2026-06-18T01:26:37.420Z",
   "scorers": [
     {
       "player": {
@@ -491,6 +491,31 @@
         "shortName": "France",
         "tla": "FRA",
         "crest": "https://crests.football-data.org/773.svg"
+      },
+      "goals": 1,
+      "penalties": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 1,
+      "rank": 9
+    },
+    {
+      "player": {
+        "id": 262187,
+        "name": "Caleb Yirenkyi",
+        "firstName": "Caleb",
+        "lastName": "Yirenkyi",
+        "position": "",
+        "nationality": "Ghana"
+      },
+      "team": {
+        "id": 763,
+        "name": "Ghana",
+        "shortName": "Ghana",
+        "tla": "GHA",
+        "crest": "https://crests.football-data.org/ghana.svg"
       },
       "goals": 1,
       "penalties": 0,
