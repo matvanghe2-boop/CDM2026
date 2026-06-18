@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-18T19:55:57.985Z",
+  "updatedAt": "2026-06-18T20:45:23.776Z",
   "scorers": [
     {
       "player": {
@@ -928,6 +928,31 @@
     },
     {
       "player": {
+        "id": 212309,
+        "name": "Johan Manzambi",
+        "firstName": "Johan",
+        "lastName": "Manzambi",
+        "position": "",
+        "nationality": "Switzerland"
+      },
+      "team": {
+        "id": 788,
+        "name": "Switzerland",
+        "shortName": "Switzerland",
+        "tla": "SUI",
+        "crest": "https://crests.football-data.org/788.svg"
+      },
+      "goals": 1,
+      "penalties": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 2,
+      "rank": 9
+    },
+    {
+      "player": {
         "id": 34646,
         "name": "John McGinn",
         "firstName": "John",
@@ -1453,6 +1478,31 @@
     },
     {
       "player": {
+        "id": 31913,
+        "name": "Ruben Vargas",
+        "firstName": "Rubén",
+        "lastName": "Vargas",
+        "position": "",
+        "nationality": "Switzerland"
+      },
+      "team": {
+        "id": 788,
+        "name": "Switzerland",
+        "shortName": "Switzerland",
+        "tla": "SUI",
+        "crest": "https://crests.football-data.org/788.svg"
+      },
+      "goals": 1,
+      "penalties": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 2,
+      "rank": 9
+    },
+    {
+      "player": {
         "id": 1556,
         "name": "Vinicius Junior",
         "firstName": "",
@@ -1544,12 +1594,12 @@
       },
       "goals": 1,
       "penalties": 1,
-      "assists": 0,
+      "assists": 1,
       "yellowCards": 0,
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 9
+      "rank": 3
     },
     {
       "player": {
@@ -1652,6 +1702,31 @@
       "yellowRedCards": 0,
       "playedMatches": 1,
       "rank": 1
+    },
+    {
+      "player": {
+        "id": 3483,
+        "name": "Breel Embolo",
+        "firstName": "Breel",
+        "lastName": "Embolo",
+        "position": "",
+        "nationality": "Switzerland"
+      },
+      "team": {
+        "id": 788,
+        "name": "Switzerland",
+        "shortName": "Switzerland",
+        "tla": "SUI",
+        "crest": "https://crests.football-data.org/788.svg"
+      },
+      "goals": 1,
+      "penalties": 1,
+      "assists": 1,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 2,
+      "rank": 3
     },
     {
       "player": {
