@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-18T17:26:42.940Z",
+  "updatedAt": "2026-06-18T17:48:53.128Z",
   "scorers": [
     {
       "player": {
@@ -1548,7 +1548,7 @@
       "yellowCards": 0,
       "redCards": 0,
       "yellowRedCards": 0,
-      "playedMatches": 1,
+      "playedMatches": 2,
       "rank": 9
     },
     {
@@ -1574,6 +1574,31 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
+      "rank": 9
+    },
+    {
+      "player": {
+        "id": 34012,
+        "name": "Teboho Mokoena",
+        "firstName": "Teboho",
+        "lastName": "Mokoena",
+        "position": "",
+        "nationality": "South Africa"
+      },
+      "team": {
+        "id": 774,
+        "name": "South Africa",
+        "shortName": "South Africa",
+        "tla": "RSA",
+        "crest": "https://crests.football-data.org/9396.svg"
+      },
+      "goals": 1,
+      "penalties": 1,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 2,
       "rank": 9
     }
   ],
