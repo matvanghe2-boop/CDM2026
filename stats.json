@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-18T20:45:23.776Z",
+  "updatedAt": "2026-06-18T20:55:55.585Z",
   "scorers": [
     {
       "player": {
@@ -99,6 +99,31 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
+      "rank": 2
+    },
+    {
+      "player": {
+        "id": 212309,
+        "name": "Johan Manzambi",
+        "firstName": "Johan",
+        "lastName": "Manzambi",
+        "position": "",
+        "nationality": "Switzerland"
+      },
+      "team": {
+        "id": 788,
+        "name": "Switzerland",
+        "shortName": "Switzerland",
+        "tla": "SUI",
+        "crest": "https://crests.football-data.org/788.svg"
+      },
+      "goals": 2,
+      "penalties": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 2,
       "rank": 2
     },
     {
@@ -353,6 +378,31 @@
     },
     {
       "player": {
+        "id": 31913,
+        "name": "Ruben Vargas",
+        "firstName": "Rubén",
+        "lastName": "Vargas",
+        "position": "",
+        "nationality": "Switzerland"
+      },
+      "team": {
+        "id": 788,
+        "name": "Switzerland",
+        "shortName": "Switzerland",
+        "tla": "SUI",
+        "crest": "https://crests.football-data.org/788.svg"
+      },
+      "goals": 1,
+      "penalties": 0,
+      "assists": 1,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 2,
+      "rank": 3
+    },
+    {
+      "player": {
         "id": 8279,
         "name": "Viktor Gyökeres",
         "firstName": "Viktor",
@@ -399,7 +449,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 9
+      "rank": 10
     },
     {
       "player": {
@@ -424,7 +474,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 9
+      "rank": 10
     },
     {
       "player": {
@@ -449,7 +499,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 9
+      "rank": 10
     },
     {
       "player": {
@@ -474,7 +524,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 0,
-      "rank": 9
+      "rank": 10
     },
     {
       "player": {
@@ -499,7 +549,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 9
+      "rank": 10
     },
     {
       "player": {
@@ -524,7 +574,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 9
+      "rank": 10
     },
     {
       "player": {
@@ -549,7 +599,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 9
+      "rank": 10
     },
     {
       "player": {
@@ -574,7 +624,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 9
+      "rank": 10
     },
     {
       "player": {
@@ -599,7 +649,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 9
+      "rank": 10
     },
     {
       "player": {
@@ -624,7 +674,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 9
+      "rank": 10
     },
     {
       "player": {
@@ -649,7 +699,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 9
+      "rank": 10
     },
     {
       "player": {
@@ -674,7 +724,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 9
+      "rank": 10
     },
     {
       "player": {
@@ -699,7 +749,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 9
+      "rank": 10
     },
     {
       "player": {
@@ -724,7 +774,32 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 9
+      "rank": 10
+    },
+    {
+      "player": {
+        "id": 221764,
+        "name": "Ermin Mahmic",
+        "firstName": "Ermin",
+        "lastName": "Mahmić",
+        "position": "",
+        "nationality": "Bosnia and Herzegovina"
+      },
+      "team": {
+        "id": 1060,
+        "name": "Bosnia-Herzegovina",
+        "shortName": "Bosnia-H.",
+        "tla": "BIH",
+        "crest": "https://crests.football-data.org/bosnia.svg"
+      },
+      "goals": 1,
+      "penalties": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 2,
+      "rank": 10
     },
     {
       "player": {
@@ -749,7 +824,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 9
+      "rank": 10
     },
     {
       "player": {
@@ -774,7 +849,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 9
+      "rank": 10
     },
     {
       "player": {
@@ -799,7 +874,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 9
+      "rank": 10
     },
     {
       "player": {
@@ -824,7 +899,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 9
+      "rank": 10
     },
     {
       "player": {
@@ -849,7 +924,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 9
+      "rank": 10
     },
     {
       "player": {
@@ -874,7 +949,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 9
+      "rank": 10
     },
     {
       "player": {
@@ -899,7 +974,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 9
+      "rank": 10
     },
     {
       "player": {
@@ -924,32 +999,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 9
-    },
-    {
-      "player": {
-        "id": 212309,
-        "name": "Johan Manzambi",
-        "firstName": "Johan",
-        "lastName": "Manzambi",
-        "position": "",
-        "nationality": "Switzerland"
-      },
-      "team": {
-        "id": 788,
-        "name": "Switzerland",
-        "shortName": "Switzerland",
-        "tla": "SUI",
-        "crest": "https://crests.football-data.org/788.svg"
-      },
-      "goals": 1,
-      "penalties": 0,
-      "assists": 0,
-      "yellowCards": 0,
-      "redCards": 0,
-      "yellowRedCards": 0,
-      "playedMatches": 2,
-      "rank": 9
+      "rank": 10
     },
     {
       "player": {
@@ -974,7 +1024,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 9
+      "rank": 10
     },
     {
       "player": {
@@ -999,7 +1049,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 9
+      "rank": 10
     },
     {
       "player": {
@@ -1024,7 +1074,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 9
+      "rank": 10
     },
     {
       "player": {
@@ -1049,7 +1099,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 9
+      "rank": 10
     },
     {
       "player": {
@@ -1074,7 +1124,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 9
+      "rank": 10
     },
     {
       "player": {
@@ -1099,7 +1149,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 9
+      "rank": 10
     },
     {
       "player": {
@@ -1124,7 +1174,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 9
+      "rank": 10
     },
     {
       "player": {
@@ -1149,7 +1199,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 9
+      "rank": 10
     },
     {
       "player": {
@@ -1174,7 +1224,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 9
+      "rank": 10
     },
     {
       "player": {
@@ -1199,7 +1249,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 9
+      "rank": 10
     },
     {
       "player": {
@@ -1224,7 +1274,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 9
+      "rank": 10
     },
     {
       "player": {
@@ -1249,7 +1299,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 9
+      "rank": 10
     },
     {
       "player": {
@@ -1274,7 +1324,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 9
+      "rank": 10
     },
     {
       "player": {
@@ -1299,7 +1349,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 9
+      "rank": 10
     },
     {
       "player": {
@@ -1324,7 +1374,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 9
+      "rank": 10
     },
     {
       "player": {
@@ -1349,7 +1399,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 9
+      "rank": 10
     },
     {
       "player": {
@@ -1374,7 +1424,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 9
+      "rank": 10
     },
     {
       "player": {
@@ -1399,7 +1449,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 9
+      "rank": 10
     },
     {
       "player": {
@@ -1424,7 +1474,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 9
+      "rank": 10
     },
     {
       "player": {
@@ -1449,7 +1499,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 9
+      "rank": 10
     },
     {
       "player": {
@@ -1474,32 +1524,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 9
-    },
-    {
-      "player": {
-        "id": 31913,
-        "name": "Ruben Vargas",
-        "firstName": "Rubén",
-        "lastName": "Vargas",
-        "position": "",
-        "nationality": "Switzerland"
-      },
-      "team": {
-        "id": 788,
-        "name": "Switzerland",
-        "shortName": "Switzerland",
-        "tla": "SUI",
-        "crest": "https://crests.football-data.org/788.svg"
-      },
-      "goals": 1,
-      "penalties": 0,
-      "assists": 0,
-      "yellowCards": 0,
-      "redCards": 0,
-      "yellowRedCards": 0,
-      "playedMatches": 2,
-      "rank": 9
+      "rank": 10
     },
     {
       "player": {
@@ -1524,7 +1549,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 9
+      "rank": 10
     },
     {
       "player": {
@@ -1549,7 +1574,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 9
+      "rank": 10
     },
     {
       "player": {
@@ -1574,7 +1599,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 9
+      "rank": 10
     },
     {
       "player": {
@@ -1624,7 +1649,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 9
+      "rank": 10
     },
     {
       "player": {
@@ -1649,7 +1674,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 9
+      "rank": 10
     }
   ],
   "assisters": [
@@ -1826,6 +1851,31 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
+      "rank": 3
+    },
+    {
+      "player": {
+        "id": 31913,
+        "name": "Ruben Vargas",
+        "firstName": "Rubén",
+        "lastName": "Vargas",
+        "position": "",
+        "nationality": "Switzerland"
+      },
+      "team": {
+        "id": 788,
+        "name": "Switzerland",
+        "shortName": "Switzerland",
+        "tla": "SUI",
+        "crest": "https://crests.football-data.org/788.svg"
+      },
+      "goals": 1,
+      "penalties": 0,
+      "assists": 1,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 2,
       "rank": 3
     },
     {
