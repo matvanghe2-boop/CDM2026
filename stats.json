@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-18T22:56:15.160Z",
+  "updatedAt": "2026-06-18T23:55:56.435Z",
   "scorers": [
+    {
+      "player": {
+        "id": 8924,
+        "name": "Jonathan David",
+        "firstName": "Jonathan",
+        "lastName": "David",
+        "position": "",
+        "nationality": "Canada"
+      },
+      "team": {
+        "id": 828,
+        "name": "Canada",
+        "shortName": "Canada",
+        "tla": "CAN",
+        "crest": "https://crests.football-data.org/canada.svg"
+      },
+      "goals": 3,
+      "penalties": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 2,
+      "rank": 1
+    },
     {
       "player": {
         "id": 3218,
@@ -49,7 +74,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 2
+      "rank": 3
     },
     {
       "player": {
@@ -74,7 +99,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 2
+      "rank": 3
     },
     {
       "player": {
@@ -99,7 +124,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 2
+      "rank": 3
     },
     {
       "player": {
@@ -124,7 +149,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 2
+      "rank": 3
     },
     {
       "player": {
@@ -149,32 +174,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 2
-    },
-    {
-      "player": {
-        "id": 8924,
-        "name": "Jonathan David",
-        "firstName": "Jonathan",
-        "lastName": "David",
-        "position": "",
-        "nationality": "Canada"
-      },
-      "team": {
-        "id": 828,
-        "name": "Canada",
-        "shortName": "Canada",
-        "tla": "CAN",
-        "crest": "https://crests.football-data.org/canada.svg"
-      },
-      "goals": 2,
-      "penalties": 0,
-      "assists": 0,
-      "yellowCards": 0,
-      "redCards": 0,
-      "yellowRedCards": 0,
-      "playedMatches": 2,
-      "rank": 2
+      "rank": 3
     },
     {
       "player": {
@@ -199,7 +199,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 2
+      "rank": 3
     },
     {
       "player": {
@@ -224,7 +224,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 2
+      "rank": 3
     },
     {
       "player": {
@@ -249,7 +249,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 2
+      "rank": 3
     },
     {
       "player": {
@@ -274,7 +274,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 2
+      "rank": 3
     },
     {
       "player": {
@@ -1399,6 +1399,31 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
+      "rank": 12
+    },
+    {
+      "player": {
+        "id": 171216,
+        "name": "Nathan-Dylan Saliba",
+        "firstName": "Nathan",
+        "lastName": "Saliba",
+        "position": "",
+        "nationality": "Canada"
+      },
+      "team": {
+        "id": 828,
+        "name": "Canada",
+        "shortName": "Canada",
+        "tla": "CAN",
+        "crest": "https://crests.football-data.org/canada.svg"
+      },
+      "goals": 1,
+      "penalties": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 2,
       "rank": 12
     },
     {
