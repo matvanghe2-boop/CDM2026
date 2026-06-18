@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-18T03:26:47.444Z",
+  "updatedAt": "2026-06-18T04:26:34.666Z",
   "scorers": [
     {
       "player": {
@@ -266,6 +266,31 @@
         "shortName": "Korea Republic",
         "tla": "KOR",
         "crest": "https://crests.football-data.org/772.png"
+      },
+      "goals": 1,
+      "penalties": 0,
+      "assists": 1,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 1,
+      "rank": 3
+    },
+    {
+      "player": {
+        "id": 22396,
+        "name": "Luis Díaz",
+        "firstName": "Luis",
+        "lastName": "Díaz",
+        "position": "",
+        "nationality": "Colombia"
+      },
+      "team": {
+        "id": 818,
+        "name": "Colombia",
+        "shortName": "Colombia",
+        "tla": "COL",
+        "crest": "https://crests.football-data.org/818.svg"
       },
       "goals": 1,
       "penalties": 0,
@@ -841,6 +866,31 @@
         "shortName": "Germany",
         "tla": "GER",
         "crest": "https://crests.football-data.org/759.svg"
+      },
+      "goals": 1,
+      "penalties": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 1,
+      "rank": 9
+    },
+    {
+      "player": {
+        "id": 170245,
+        "name": "Jaminton Campaz",
+        "firstName": "Jaminton",
+        "lastName": "Campaz",
+        "position": "",
+        "nationality": "Colombia"
+      },
+      "team": {
+        "id": 818,
+        "name": "Colombia",
+        "shortName": "Colombia",
+        "tla": "COL",
+        "crest": "https://crests.football-data.org/818.svg"
       },
       "goals": 1,
       "penalties": 0,
@@ -1568,6 +1618,31 @@
         "shortName": "Korea Republic",
         "tla": "KOR",
         "crest": "https://crests.football-data.org/772.png"
+      },
+      "goals": 1,
+      "penalties": 0,
+      "assists": 1,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 1,
+      "rank": 3
+    },
+    {
+      "player": {
+        "id": 22396,
+        "name": "Luis Díaz",
+        "firstName": "Luis",
+        "lastName": "Díaz",
+        "position": "",
+        "nationality": "Colombia"
+      },
+      "team": {
+        "id": 818,
+        "name": "Colombia",
+        "shortName": "Colombia",
+        "tla": "COL",
+        "crest": "https://crests.football-data.org/818.svg"
       },
       "goals": 1,
       "penalties": 0,
