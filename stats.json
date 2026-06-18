@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-18T15:26:48.637Z",
+  "updatedAt": "2026-06-18T16:26:37.770Z",
   "scorers": [
     {
       "player": {
@@ -1249,6 +1249,31 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
+      "rank": 9
+    },
+    {
+      "player": {
+        "id": 67970,
+        "name": "Michal Sadílek",
+        "firstName": "Michal",
+        "lastName": "Sadílek",
+        "position": "",
+        "nationality": "Czech Republic"
+      },
+      "team": {
+        "id": 798,
+        "name": "Czechia",
+        "shortName": "Czechia",
+        "tla": "CZE",
+        "crest": "https://crests.football-data.org/798.svg"
+      },
+      "goals": 1,
+      "penalties": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 2,
       "rank": 9
     },
     {
