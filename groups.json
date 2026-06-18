@@ -453,6 +453,16 @@
     "group": "K",
     "teams": [
       {
+        "name": "Colombia",
+        "mp": 1,
+        "w": 1,
+        "d": 0,
+        "l": 0,
+        "gf": 3,
+        "ga": 1,
+        "pts": 3
+      },
+      {
         "name": "DR Congo",
         "mp": 1,
         "w": 0,
@@ -473,23 +483,13 @@
         "pts": 1
       },
       {
-        "name": "Colombia",
-        "mp": 0,
-        "w": 0,
-        "d": 0,
-        "l": 0,
-        "gf": 0,
-        "ga": 0,
-        "pts": 0
-      },
-      {
         "name": "Uzbekistan",
-        "mp": 0,
+        "mp": 1,
         "w": 0,
         "d": 0,
-        "l": 0,
-        "gf": 0,
-        "ga": 0,
+        "l": 1,
+        "gf": 1,
+        "ga": 3,
         "pts": 0
       }
     ]
