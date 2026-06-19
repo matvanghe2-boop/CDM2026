@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T01:55:55.104Z",
+  "updatedAt": "2026-06-19T02:56:32.579Z",
   "scorers": [
     {
       "player": {
@@ -1224,6 +1224,31 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
+      "rank": 12
+    },
+    {
+      "player": {
+        "id": 39927,
+        "name": "Luis Romo",
+        "firstName": "Luis",
+        "lastName": "Romo",
+        "position": "",
+        "nationality": "Mexico"
+      },
+      "team": {
+        "id": 769,
+        "name": "Mexico",
+        "shortName": "Mexico",
+        "tla": "MEX",
+        "crest": "https://crests.football-data.org/769.svg"
+      },
+      "goals": 1,
+      "penalties": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 2,
       "rank": 12
     },
     {
