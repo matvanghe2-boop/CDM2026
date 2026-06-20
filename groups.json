@@ -93,27 +93,27 @@
     "group": "C",
     "teams": [
       {
+        "name": "Morocco",
+        "mp": 2,
+        "w": 1,
+        "d": 1,
+        "l": 0,
+        "gf": 2,
+        "ga": 1,
+        "pts": 4
+      },
+      {
         "name": "Scotland",
-        "mp": 1,
+        "mp": 2,
         "w": 1,
         "d": 0,
-        "l": 0,
+        "l": 1,
         "gf": 1,
-        "ga": 0,
+        "ga": 1,
         "pts": 3
       },
       {
         "name": "Brazil",
-        "mp": 1,
-        "w": 0,
-        "d": 1,
-        "l": 0,
-        "gf": 1,
-        "ga": 1,
-        "pts": 1
-      },
-      {
-        "name": "Morocco",
         "mp": 1,
         "w": 0,
         "d": 1,
