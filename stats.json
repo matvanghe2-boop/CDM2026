@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T02:55:55.037Z",
+  "updatedAt": "2026-06-20T03:55:54.467Z",
   "scorers": [
     {
       "player": {
@@ -1374,6 +1374,31 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
+      "rank": 15
+    },
+    {
+      "player": {
+        "id": 165622,
+        "name": "Matías Galarza",
+        "firstName": "Matías",
+        "lastName": "Galarza Fonda",
+        "position": "",
+        "nationality": "Paraguay"
+      },
+      "team": {
+        "id": 761,
+        "name": "Paraguay",
+        "shortName": "Paraguay",
+        "tla": "PAR",
+        "crest": "https://crests.football-data.org/761.svg"
+      },
+      "goals": 1,
+      "penalties": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 2,
       "rank": 15
     },
     {
