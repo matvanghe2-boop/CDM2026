@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T17:55:57.855Z",
+  "updatedAt": "2026-06-20T18:23:15.747Z",
   "scorers": [
     {
       "player": {
@@ -74,7 +74,32 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 1
+      "rank": 2
+    },
+    {
+      "player": {
+        "id": 7459,
+        "name": "Cody Gakpo",
+        "firstName": "Cody",
+        "lastName": "Gakpo",
+        "position": "",
+        "nationality": "Netherlands"
+      },
+      "team": {
+        "id": 8601,
+        "name": "Netherlands",
+        "shortName": "Netherlands",
+        "tla": "NED",
+        "crest": "https://crests.football-data.org/8601.svg"
+      },
+      "goals": 2,
+      "penalties": 0,
+      "assists": 1,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 2,
+      "rank": 4
     },
     {
       "player": {
@@ -394,7 +419,7 @@
       },
       "goals": 1,
       "penalties": 0,
-      "assists": 2,
+      "assists": 3,
       "yellowCards": 0,
       "redCards": 0,
       "yellowRedCards": 0,
@@ -424,7 +449,32 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 1
+      "rank": 2
+    },
+    {
+      "player": {
+        "id": 102193,
+        "name": "Crysencio Summerville",
+        "firstName": "Crysencio",
+        "lastName": "Summerville",
+        "position": "",
+        "nationality": "Netherlands"
+      },
+      "team": {
+        "id": 8601,
+        "name": "Netherlands",
+        "shortName": "Netherlands",
+        "tla": "NED",
+        "crest": "https://crests.football-data.org/8601.svg"
+      },
+      "goals": 1,
+      "penalties": 0,
+      "assists": 1,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 2,
+      "rank": 4
     },
     {
       "player": {
@@ -599,7 +649,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 16
+      "rank": 17
     },
     {
       "player": {
@@ -624,7 +674,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 16
+      "rank": 17
     },
     {
       "player": {
@@ -649,7 +699,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 16
+      "rank": 17
     },
     {
       "player": {
@@ -674,7 +724,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 16
+      "rank": 17
     },
     {
       "player": {
@@ -699,7 +749,32 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 0,
-      "rank": 16
+      "rank": 17
+    },
+    {
+      "player": {
+        "id": 166376,
+        "name": "Anthony Elanga",
+        "firstName": "Anthony",
+        "lastName": "Elanga",
+        "position": "",
+        "nationality": "Sweden"
+      },
+      "team": {
+        "id": 792,
+        "name": "Sweden",
+        "shortName": "Sweden",
+        "tla": "SWE",
+        "crest": "https://crests.football-data.org/792.svg"
+      },
+      "goals": 1,
+      "penalties": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 2,
+      "rank": 17
     },
     {
       "player": {
@@ -724,7 +799,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 16
+      "rank": 17
     },
     {
       "player": {
@@ -749,7 +824,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 16
+      "rank": 17
     },
     {
       "player": {
@@ -774,7 +849,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 16
+      "rank": 17
     },
     {
       "player": {
@@ -799,7 +874,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 16
+      "rank": 17
     },
     {
       "player": {
@@ -824,32 +899,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 16
-    },
-    {
-      "player": {
-        "id": 102193,
-        "name": "Crysencio Summerville",
-        "firstName": "Crysencio",
-        "lastName": "Summerville",
-        "position": "",
-        "nationality": "Netherlands"
-      },
-      "team": {
-        "id": 8601,
-        "name": "Netherlands",
-        "shortName": "Netherlands",
-        "tla": "NED",
-        "crest": "https://crests.football-data.org/8601.svg"
-      },
-      "goals": 1,
-      "penalties": 0,
-      "assists": 0,
-      "yellowCards": 0,
-      "redCards": 0,
-      "yellowRedCards": 0,
-      "playedMatches": 2,
-      "rank": 16
+      "rank": 17
     },
     {
       "player": {
@@ -874,7 +924,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 16
+      "rank": 17
     },
     {
       "player": {
@@ -899,7 +949,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 16
+      "rank": 17
     },
     {
       "player": {
@@ -924,7 +974,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 16
+      "rank": 17
     },
     {
       "player": {
@@ -949,7 +999,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 16
+      "rank": 17
     },
     {
       "player": {
@@ -974,7 +1024,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 16
+      "rank": 17
     },
     {
       "player": {
@@ -999,7 +1049,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 16
+      "rank": 17
     },
     {
       "player": {
@@ -1024,7 +1074,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 16
+      "rank": 17
     },
     {
       "player": {
@@ -1049,7 +1099,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 16
+      "rank": 17
     },
     {
       "player": {
@@ -1074,7 +1124,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 16
+      "rank": 17
     },
     {
       "player": {
@@ -1099,7 +1149,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 16
+      "rank": 17
     },
     {
       "player": {
@@ -1124,7 +1174,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 16
+      "rank": 17
     },
     {
       "player": {
@@ -1149,7 +1199,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 16
+      "rank": 17
     },
     {
       "player": {
@@ -1174,7 +1224,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 16
+      "rank": 17
     },
     {
       "player": {
@@ -1199,7 +1249,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 16
+      "rank": 17
     },
     {
       "player": {
@@ -1224,7 +1274,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 16
+      "rank": 17
     },
     {
       "player": {
@@ -1249,7 +1299,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 16
+      "rank": 17
     },
     {
       "player": {
@@ -1274,7 +1324,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 16
+      "rank": 17
     },
     {
       "player": {
@@ -1299,7 +1349,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 16
+      "rank": 17
     },
     {
       "player": {
@@ -1324,7 +1374,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 16
+      "rank": 17
     },
     {
       "player": {
@@ -1349,7 +1399,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 16
+      "rank": 17
     },
     {
       "player": {
@@ -1374,7 +1424,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 16
+      "rank": 17
     },
     {
       "player": {
@@ -1399,7 +1449,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 16
+      "rank": 17
     },
     {
       "player": {
@@ -1424,7 +1474,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 16
+      "rank": 17
     },
     {
       "player": {
@@ -1449,7 +1499,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 16
+      "rank": 17
     },
     {
       "player": {
@@ -1474,7 +1524,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 16
+      "rank": 17
     },
     {
       "player": {
@@ -1499,7 +1549,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 16
+      "rank": 17
     },
     {
       "player": {
@@ -1524,7 +1574,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 16
+      "rank": 17
     },
     {
       "player": {
@@ -1549,7 +1599,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 16
+      "rank": 17
     },
     {
       "player": {
@@ -1574,7 +1624,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 16
+      "rank": 17
     },
     {
       "player": {
@@ -1599,7 +1649,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 16
+      "rank": 17
     },
     {
       "player": {
@@ -1624,7 +1674,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 16
+      "rank": 17
     },
     {
       "player": {
@@ -1649,7 +1699,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 16
+      "rank": 17
     },
     {
       "player": {
@@ -1674,7 +1724,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 16
+      "rank": 17
     },
     {
       "player": {
@@ -1699,7 +1749,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 16
+      "rank": 17
     },
     {
       "player": {
@@ -1724,7 +1774,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 16
+      "rank": 17
     },
     {
       "player": {
@@ -1749,7 +1799,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 16
+      "rank": 17
     },
     {
       "player": {
@@ -1774,7 +1824,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 16
+      "rank": 17
     },
     {
       "player": {
@@ -1824,7 +1874,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 16
+      "rank": 17
     },
     {
       "player": {
@@ -1849,7 +1899,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 16
+      "rank": 17
     },
     {
       "player": {
@@ -1874,10 +1924,35 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 16
+      "rank": 17
     }
   ],
   "assisters": [
+    {
+      "player": {
+        "id": 6486,
+        "name": "Alexander Isak",
+        "firstName": "Alexander",
+        "lastName": "Isak",
+        "position": "",
+        "nationality": "Sweden"
+      },
+      "team": {
+        "id": 792,
+        "name": "Sweden",
+        "shortName": "Sweden",
+        "tla": "SWE",
+        "crest": "https://crests.football-data.org/792.svg"
+      },
+      "goals": 1,
+      "penalties": 0,
+      "assists": 3,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 2,
+      "rank": 1
+    },
     {
       "player": {
         "id": 1556,
@@ -1901,32 +1976,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 1
-    },
-    {
-      "player": {
-        "id": 6486,
-        "name": "Alexander Isak",
-        "firstName": "Alexander",
-        "lastName": "Isak",
-        "position": "",
-        "nationality": "Sweden"
-      },
-      "team": {
-        "id": 792,
-        "name": "Sweden",
-        "shortName": "Sweden",
-        "tla": "SWE",
-        "crest": "https://crests.football-data.org/792.svg"
-      },
-      "goals": 1,
-      "penalties": 0,
-      "assists": 2,
-      "yellowCards": 0,
-      "redCards": 0,
-      "yellowRedCards": 0,
-      "playedMatches": 2,
-      "rank": 1
+      "rank": 2
     },
     {
       "player": {
@@ -1951,7 +2001,32 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 1
+      "rank": 2
+    },
+    {
+      "player": {
+        "id": 7459,
+        "name": "Cody Gakpo",
+        "firstName": "Cody",
+        "lastName": "Gakpo",
+        "position": "",
+        "nationality": "Netherlands"
+      },
+      "team": {
+        "id": 8601,
+        "name": "Netherlands",
+        "shortName": "Netherlands",
+        "tla": "NED",
+        "crest": "https://crests.football-data.org/8601.svg"
+      },
+      "goals": 2,
+      "penalties": 0,
+      "assists": 1,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 2,
+      "rank": 4
     },
     {
       "player": {
@@ -1971,6 +2046,31 @@
       },
       "goals": 1,
       "penalties": 1,
+      "assists": 1,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 2,
+      "rank": 4
+    },
+    {
+      "player": {
+        "id": 102193,
+        "name": "Crysencio Summerville",
+        "firstName": "Crysencio",
+        "lastName": "Summerville",
+        "position": "",
+        "nationality": "Netherlands"
+      },
+      "team": {
+        "id": 8601,
+        "name": "Netherlands",
+        "shortName": "Netherlands",
+        "tla": "NED",
+        "crest": "https://crests.football-data.org/8601.svg"
+      },
+      "goals": 1,
+      "penalties": 0,
       "assists": 1,
       "yellowCards": 0,
       "redCards": 0,
