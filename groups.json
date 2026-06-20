@@ -158,23 +158,23 @@
         "pts": 3
       },
       {
-        "name": "Türkiye",
-        "mp": 1,
-        "w": 0,
+        "name": "Paraguay",
+        "mp": 2,
+        "w": 1,
         "d": 0,
         "l": 1,
-        "gf": 0,
-        "ga": 2,
-        "pts": 0
+        "gf": 2,
+        "ga": 4,
+        "pts": 3
       },
       {
-        "name": "Paraguay",
-        "mp": 1,
+        "name": "Türkiye",
+        "mp": 2,
         "w": 0,
         "d": 0,
-        "l": 1,
-        "gf": 1,
-        "ga": 4,
+        "l": 2,
+        "gf": 0,
+        "ga": 3,
         "pts": 0
       }
     ]
