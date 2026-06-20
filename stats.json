@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T18:23:15.747Z",
+  "updatedAt": "2026-06-20T18:55:56.069Z",
   "scorers": [
     {
       "player": {
@@ -53,6 +53,31 @@
     },
     {
       "player": {
+        "id": 7459,
+        "name": "Cody Gakpo",
+        "firstName": "Cody",
+        "lastName": "Gakpo",
+        "position": "",
+        "nationality": "Netherlands"
+      },
+      "team": {
+        "id": 8601,
+        "name": "Netherlands",
+        "shortName": "Netherlands",
+        "tla": "NED",
+        "crest": "https://crests.football-data.org/8601.svg"
+      },
+      "goals": 2,
+      "penalties": 0,
+      "assists": 2,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 2,
+      "rank": 2
+    },
+    {
+      "player": {
         "id": 1556,
         "name": "Vinicius Junior",
         "firstName": "",
@@ -75,31 +100,6 @@
       "yellowRedCards": 0,
       "playedMatches": 2,
       "rank": 2
-    },
-    {
-      "player": {
-        "id": 7459,
-        "name": "Cody Gakpo",
-        "firstName": "Cody",
-        "lastName": "Gakpo",
-        "position": "",
-        "nationality": "Netherlands"
-      },
-      "team": {
-        "id": 8601,
-        "name": "Netherlands",
-        "shortName": "Netherlands",
-        "tla": "NED",
-        "crest": "https://crests.football-data.org/8601.svg"
-      },
-      "goals": 2,
-      "penalties": 0,
-      "assists": 1,
-      "yellowCards": 0,
-      "redCards": 0,
-      "yellowRedCards": 0,
-      "playedMatches": 2,
-      "rank": 4
     },
     {
       "player": {
@@ -398,7 +398,7 @@
       "yellowCards": 0,
       "redCards": 0,
       "yellowRedCards": 0,
-      "playedMatches": 1,
+      "playedMatches": 2,
       "rank": 3
     },
     {
@@ -448,7 +448,7 @@
       "yellowCards": 0,
       "redCards": 0,
       "yellowRedCards": 0,
-      "playedMatches": 1,
+      "playedMatches": 2,
       "rank": 2
     },
     {
@@ -474,7 +474,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 4
+      "rank": 5
     },
     {
       "player": {
@@ -499,7 +499,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 4
+      "rank": 5
     },
     {
       "player": {
@@ -524,7 +524,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 4
+      "rank": 5
     },
     {
       "player": {
@@ -548,8 +548,8 @@
       "yellowCards": 0,
       "redCards": 0,
       "yellowRedCards": 0,
-      "playedMatches": 1,
-      "rank": 4
+      "playedMatches": 2,
+      "rank": 5
     },
     {
       "player": {
@@ -574,7 +574,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 4
+      "rank": 5
     },
     {
       "player": {
@@ -599,7 +599,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 4
+      "rank": 5
     },
     {
       "player": {
@@ -624,7 +624,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 4
+      "rank": 5
     },
     {
       "player": {
@@ -748,7 +748,7 @@
       "yellowCards": 0,
       "redCards": 0,
       "yellowRedCards": 0,
-      "playedMatches": 0,
+      "playedMatches": 1,
       "rank": 17
     },
     {
@@ -1023,7 +1023,7 @@
       "yellowCards": 0,
       "redCards": 0,
       "yellowRedCards": 0,
-      "playedMatches": 1,
+      "playedMatches": 2,
       "rank": 17
     },
     {
@@ -1123,7 +1123,7 @@
       "yellowCards": 0,
       "redCards": 0,
       "yellowRedCards": 0,
-      "playedMatches": 1,
+      "playedMatches": 2,
       "rank": 17
     },
     {
@@ -1553,6 +1553,31 @@
     },
     {
       "player": {
+        "id": 8472,
+        "name": "Memphis Depay",
+        "firstName": "Memphis",
+        "lastName": "Depay",
+        "position": "",
+        "nationality": "Netherlands"
+      },
+      "team": {
+        "id": 8601,
+        "name": "Netherlands",
+        "shortName": "Netherlands",
+        "tla": "NED",
+        "crest": "https://crests.football-data.org/8601.svg"
+      },
+      "goals": 1,
+      "penalties": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 2,
+      "rank": 17
+    },
+    {
+      "player": {
         "id": 67970,
         "name": "Michal Sadílek",
         "firstName": "Michal",
@@ -1673,7 +1698,7 @@
       "yellowCards": 0,
       "redCards": 0,
       "yellowRedCards": 0,
-      "playedMatches": 1,
+      "playedMatches": 2,
       "rank": 17
     },
     {
@@ -1849,7 +1874,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 4
+      "rank": 5
     },
     {
       "player": {
@@ -1955,6 +1980,31 @@
     },
     {
       "player": {
+        "id": 7459,
+        "name": "Cody Gakpo",
+        "firstName": "Cody",
+        "lastName": "Gakpo",
+        "position": "",
+        "nationality": "Netherlands"
+      },
+      "team": {
+        "id": 8601,
+        "name": "Netherlands",
+        "shortName": "Netherlands",
+        "tla": "NED",
+        "crest": "https://crests.football-data.org/8601.svg"
+      },
+      "goals": 2,
+      "penalties": 0,
+      "assists": 2,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 2,
+      "rank": 2
+    },
+    {
+      "player": {
         "id": 1556,
         "name": "Vinicius Junior",
         "firstName": "",
@@ -2000,33 +2050,8 @@
       "yellowCards": 0,
       "redCards": 0,
       "yellowRedCards": 0,
-      "playedMatches": 1,
-      "rank": 2
-    },
-    {
-      "player": {
-        "id": 7459,
-        "name": "Cody Gakpo",
-        "firstName": "Cody",
-        "lastName": "Gakpo",
-        "position": "",
-        "nationality": "Netherlands"
-      },
-      "team": {
-        "id": 8601,
-        "name": "Netherlands",
-        "shortName": "Netherlands",
-        "tla": "NED",
-        "crest": "https://crests.football-data.org/8601.svg"
-      },
-      "goals": 2,
-      "penalties": 0,
-      "assists": 1,
-      "yellowCards": 0,
-      "redCards": 0,
-      "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 4
+      "rank": 2
     },
     {
       "player": {
@@ -2051,7 +2076,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 4
+      "rank": 5
     },
     {
       "player": {
@@ -2076,7 +2101,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 4
+      "rank": 5
     },
     {
       "player": {
@@ -2101,7 +2126,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 4
+      "rank": 5
     },
     {
       "player": {
@@ -2126,7 +2151,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 4
+      "rank": 5
     },
     {
       "player": {
@@ -2150,8 +2175,8 @@
       "yellowCards": 0,
       "redCards": 0,
       "yellowRedCards": 0,
-      "playedMatches": 1,
-      "rank": 4
+      "playedMatches": 2,
+      "rank": 5
     },
     {
       "player": {
@@ -2176,7 +2201,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 4
+      "rank": 5
     },
     {
       "player": {
@@ -2201,7 +2226,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 4
+      "rank": 5
     },
     {
       "player": {
@@ -2226,7 +2251,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 4
+      "rank": 5
     }
   ],
   "carded": []
