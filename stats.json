@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T19:55:54.273Z",
+  "updatedAt": "2026-06-20T20:45:15.866Z",
   "scorers": [
     {
       "player": {
@@ -1024,6 +1024,31 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
+      "rank": 17
+    },
+    {
+      "player": {
+        "id": 1747,
+        "name": "Franck Kessié",
+        "firstName": "Franck",
+        "lastName": "Kessié",
+        "position": "",
+        "nationality": "Ivory Coast"
+      },
+      "team": {
+        "id": 1935,
+        "name": "Ivory Coast",
+        "shortName": "Ivory Coast",
+        "tla": "CIV",
+        "crest": "https://crests.football-data.org/787.svg"
+      },
+      "goals": 1,
+      "penalties": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 1,
       "rank": 17
     },
     {
