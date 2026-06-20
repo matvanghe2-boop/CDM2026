@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-20T21:55:55.471Z",
+  "updatedAt": "2026-06-20T22:55:54.741Z",
   "scorers": [
+    {
+      "player": {
+        "id": 6928,
+        "name": "Deniz Undav",
+        "firstName": "Deniz",
+        "lastName": "Undav",
+        "position": "",
+        "nationality": "Germany"
+      },
+      "team": {
+        "id": 759,
+        "name": "Germany",
+        "shortName": "Germany",
+        "tla": "GER",
+        "crest": "https://crests.football-data.org/759.svg"
+      },
+      "goals": 3,
+      "penalties": 0,
+      "assists": 2,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 2,
+      "rank": 2
+    },
     {
       "player": {
         "id": 8924,
@@ -78,31 +103,6 @@
     },
     {
       "player": {
-        "id": 6928,
-        "name": "Deniz Undav",
-        "firstName": "Deniz",
-        "lastName": "Undav",
-        "position": "",
-        "nationality": "Germany"
-      },
-      "team": {
-        "id": 759,
-        "name": "Germany",
-        "shortName": "Germany",
-        "tla": "GER",
-        "crest": "https://crests.football-data.org/759.svg"
-      },
-      "goals": 2,
-      "penalties": 0,
-      "assists": 2,
-      "yellowCards": 0,
-      "redCards": 0,
-      "yellowRedCards": 0,
-      "playedMatches": 2,
-      "rank": 2
-    },
-    {
-      "player": {
         "id": 1556,
         "name": "Vinicius Junior",
         "firstName": "",
@@ -149,7 +149,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 3
+      "rank": 4
     },
     {
       "player": {
@@ -174,7 +174,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 3
+      "rank": 4
     },
     {
       "player": {
@@ -199,7 +199,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 3
+      "rank": 4
     },
     {
       "player": {
@@ -224,7 +224,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 3
+      "rank": 4
     },
     {
       "player": {
@@ -249,7 +249,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 3
+      "rank": 4
     },
     {
       "player": {
@@ -274,7 +274,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 3
+      "rank": 4
     },
     {
       "player": {
@@ -299,7 +299,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 3
+      "rank": 4
     },
     {
       "player": {
@@ -324,7 +324,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 3
+      "rank": 4
     },
     {
       "player": {
@@ -349,7 +349,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 3
+      "rank": 4
     },
     {
       "player": {
@@ -374,7 +374,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 3
+      "rank": 4
     },
     {
       "player": {
@@ -399,7 +399,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 3
+      "rank": 4
     },
     {
       "player": {
@@ -424,7 +424,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 3
+      "rank": 4
     },
     {
       "player": {
@@ -466,6 +466,31 @@
         "shortName": "Netherlands",
         "tla": "NED",
         "crest": "https://crests.football-data.org/8601.svg"
+      },
+      "goals": 1,
+      "penalties": 0,
+      "assists": 1,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 2,
+      "rank": 5
+    },
+    {
+      "player": {
+        "id": 101074,
+        "name": "Felix Kalu Nmecha",
+        "firstName": "Felix",
+        "lastName": "Nmecha",
+        "position": "",
+        "nationality": "Germany"
+      },
+      "team": {
+        "id": 759,
+        "name": "Germany",
+        "shortName": "Germany",
+        "tla": "GER",
+        "crest": "https://crests.football-data.org/759.svg"
       },
       "goals": 1,
       "penalties": 0,
@@ -1003,31 +1028,6 @@
     },
     {
       "player": {
-        "id": 101074,
-        "name": "Felix Kalu Nmecha",
-        "firstName": "Felix",
-        "lastName": "Nmecha",
-        "position": "",
-        "nationality": "Germany"
-      },
-      "team": {
-        "id": 759,
-        "name": "Germany",
-        "shortName": "Germany",
-        "tla": "GER",
-        "crest": "https://crests.football-data.org/759.svg"
-      },
-      "goals": 1,
-      "penalties": 0,
-      "assists": 0,
-      "yellowCards": 0,
-      "redCards": 0,
-      "yellowRedCards": 0,
-      "playedMatches": 2,
-      "rank": 18
-    },
-    {
-      "player": {
         "id": 1747,
         "name": "Franck Kessié",
         "firstName": "Franck",
@@ -1398,7 +1398,7 @@
       "yellowCards": 0,
       "redCards": 0,
       "yellowRedCards": 0,
-      "playedMatches": 1,
+      "playedMatches": 2,
       "rank": 18
     },
     {
@@ -2005,31 +2005,6 @@
     },
     {
       "player": {
-        "id": 7459,
-        "name": "Cody Gakpo",
-        "firstName": "Cody",
-        "lastName": "Gakpo",
-        "position": "",
-        "nationality": "Netherlands"
-      },
-      "team": {
-        "id": 8601,
-        "name": "Netherlands",
-        "shortName": "Netherlands",
-        "tla": "NED",
-        "crest": "https://crests.football-data.org/8601.svg"
-      },
-      "goals": 2,
-      "penalties": 0,
-      "assists": 2,
-      "yellowCards": 0,
-      "redCards": 0,
-      "yellowRedCards": 0,
-      "playedMatches": 2,
-      "rank": 2
-    },
-    {
-      "player": {
         "id": 6928,
         "name": "Deniz Undav",
         "firstName": "Deniz",
@@ -2043,6 +2018,31 @@
         "shortName": "Germany",
         "tla": "GER",
         "crest": "https://crests.football-data.org/759.svg"
+      },
+      "goals": 3,
+      "penalties": 0,
+      "assists": 2,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 2,
+      "rank": 2
+    },
+    {
+      "player": {
+        "id": 7459,
+        "name": "Cody Gakpo",
+        "firstName": "Cody",
+        "lastName": "Gakpo",
+        "position": "",
+        "nationality": "Netherlands"
+      },
+      "team": {
+        "id": 8601,
+        "name": "Netherlands",
+        "shortName": "Netherlands",
+        "tla": "NED",
+        "crest": "https://crests.football-data.org/8601.svg"
       },
       "goals": 2,
       "penalties": 0,
@@ -2118,6 +2118,31 @@
         "shortName": "Netherlands",
         "tla": "NED",
         "crest": "https://crests.football-data.org/8601.svg"
+      },
+      "goals": 1,
+      "penalties": 0,
+      "assists": 1,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 2,
+      "rank": 5
+    },
+    {
+      "player": {
+        "id": 101074,
+        "name": "Felix Kalu Nmecha",
+        "firstName": "Felix",
+        "lastName": "Nmecha",
+        "position": "",
+        "nationality": "Germany"
+      },
+      "team": {
+        "id": 759,
+        "name": "Germany",
+        "shortName": "Germany",
+        "tla": "GER",
+        "crest": "https://crests.football-data.org/759.svg"
       },
       "goals": 1,
       "penalties": 0,
