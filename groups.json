@@ -318,14 +318,14 @@
     "group": "H",
     "teams": [
       {
-        "name": "Saudi Arabia",
-        "mp": 1,
-        "w": 0,
+        "name": "Spain",
+        "mp": 2,
+        "w": 1,
         "d": 1,
         "l": 0,
-        "gf": 1,
-        "ga": 1,
-        "pts": 1
+        "gf": 5,
+        "ga": 0,
+        "pts": 4
       },
       {
         "name": "Uruguay",
@@ -348,13 +348,13 @@
         "pts": 1
       },
       {
-        "name": "Spain",
-        "mp": 1,
+        "name": "Saudi Arabia",
+        "mp": 2,
         "w": 0,
         "d": 1,
-        "l": 0,
-        "gf": 0,
-        "ga": 0,
+        "l": 1,
+        "gf": 1,
+        "ga": 6,
         "pts": 1
       }
     ]
