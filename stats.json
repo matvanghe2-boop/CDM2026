@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-21T05:21:01.554Z",
+  "updatedAt": "2026-06-21T05:55:54.124Z",
   "scorers": [
     {
       "player": {
@@ -125,6 +125,31 @@
       "yellowRedCards": 0,
       "playedMatches": 2,
       "rank": 2
+    },
+    {
+      "player": {
+        "id": 119460,
+        "name": "Ayase Ueda",
+        "firstName": "Ayase",
+        "lastName": "Ueda",
+        "position": "",
+        "nationality": "Japan"
+      },
+      "team": {
+        "id": 766,
+        "name": "Japan",
+        "shortName": "Japan",
+        "tla": "JPN",
+        "crest": "https://crests.football-data.org/766.svg"
+      },
+      "goals": 2,
+      "penalties": 0,
+      "assists": 1,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 2,
+      "rank": 5
     },
     {
       "player": {
@@ -724,7 +749,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 19
+      "rank": 20
     },
     {
       "player": {
@@ -749,7 +774,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 19
+      "rank": 20
     },
     {
       "player": {
@@ -774,7 +799,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 19
+      "rank": 20
     },
     {
       "player": {
@@ -799,7 +824,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 19
+      "rank": 20
     },
     {
       "player": {
@@ -824,7 +849,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 19
+      "rank": 20
     },
     {
       "player": {
@@ -849,32 +874,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 19
-    },
-    {
-      "player": {
-        "id": 119460,
-        "name": "Ayase Ueda",
-        "firstName": "Ayase",
-        "lastName": "Ueda",
-        "position": "",
-        "nationality": "Japan"
-      },
-      "team": {
-        "id": 766,
-        "name": "Japan",
-        "shortName": "Japan",
-        "tla": "JPN",
-        "crest": "https://crests.football-data.org/766.svg"
-      },
-      "goals": 1,
-      "penalties": 0,
-      "assists": 0,
-      "yellowCards": 0,
-      "redCards": 0,
-      "yellowRedCards": 0,
-      "playedMatches": 2,
-      "rank": 19
+      "rank": 20
     },
     {
       "player": {
@@ -899,7 +899,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 19
+      "rank": 20
     },
     {
       "player": {
@@ -924,7 +924,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 19
+      "rank": 20
     },
     {
       "player": {
@@ -949,7 +949,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 19
+      "rank": 20
     },
     {
       "player": {
@@ -974,7 +974,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 19
+      "rank": 20
     },
     {
       "player": {
@@ -999,7 +999,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 19
+      "rank": 20
     },
     {
       "player": {
@@ -1024,7 +1024,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 19
+      "rank": 20
     },
     {
       "player": {
@@ -1049,7 +1049,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 19
+      "rank": 20
     },
     {
       "player": {
@@ -1074,7 +1074,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 19
+      "rank": 20
     },
     {
       "player": {
@@ -1099,7 +1099,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 19
+      "rank": 20
     },
     {
       "player": {
@@ -1124,7 +1124,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 19
+      "rank": 20
     },
     {
       "player": {
@@ -1149,7 +1149,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 19
+      "rank": 20
     },
     {
       "player": {
@@ -1174,7 +1174,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 19
+      "rank": 20
     },
     {
       "player": {
@@ -1199,7 +1199,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 19
+      "rank": 20
     },
     {
       "player": {
@@ -1224,7 +1224,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 19
+      "rank": 20
     },
     {
       "player": {
@@ -1249,7 +1249,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 19
+      "rank": 20
     },
     {
       "player": {
@@ -1274,7 +1274,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 19
+      "rank": 20
     },
     {
       "player": {
@@ -1299,7 +1299,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 19
+      "rank": 20
     },
     {
       "player": {
@@ -1324,7 +1324,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 19
+      "rank": 20
     },
     {
       "player": {
@@ -1349,7 +1349,32 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 19
+      "rank": 20
+    },
+    {
+      "player": {
+        "id": 49080,
+        "name": "Junya Ito",
+        "firstName": "Junya",
+        "lastName": "Itō",
+        "position": "",
+        "nationality": "Japan"
+      },
+      "team": {
+        "id": 766,
+        "name": "Japan",
+        "shortName": "Japan",
+        "tla": "JPN",
+        "crest": "https://crests.football-data.org/766.svg"
+      },
+      "goals": 1,
+      "penalties": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 2,
+      "rank": 20
     },
     {
       "player": {
@@ -1374,7 +1399,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 19
+      "rank": 20
     },
     {
       "player": {
@@ -1399,7 +1424,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 19
+      "rank": 20
     },
     {
       "player": {
@@ -1424,7 +1449,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 19
+      "rank": 20
     },
     {
       "player": {
@@ -1449,7 +1474,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 19
+      "rank": 20
     },
     {
       "player": {
@@ -1474,7 +1499,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 19
+      "rank": 20
     },
     {
       "player": {
@@ -1499,7 +1524,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 19
+      "rank": 20
     },
     {
       "player": {
@@ -1524,7 +1549,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 19
+      "rank": 20
     },
     {
       "player": {
@@ -1549,7 +1574,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 19
+      "rank": 20
     },
     {
       "player": {
@@ -1574,7 +1599,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 19
+      "rank": 20
     },
     {
       "player": {
@@ -1599,7 +1624,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 19
+      "rank": 20
     },
     {
       "player": {
@@ -1624,7 +1649,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 19
+      "rank": 20
     },
     {
       "player": {
@@ -1649,7 +1674,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 19
+      "rank": 20
     },
     {
       "player": {
@@ -1674,7 +1699,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 19
+      "rank": 20
     },
     {
       "player": {
@@ -1699,7 +1724,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 19
+      "rank": 20
     },
     {
       "player": {
@@ -1724,7 +1749,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 19
+      "rank": 20
     },
     {
       "player": {
@@ -1749,7 +1774,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 19
+      "rank": 20
     },
     {
       "player": {
@@ -1774,7 +1799,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 19
+      "rank": 20
     },
     {
       "player": {
@@ -1799,7 +1824,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 19
+      "rank": 20
     },
     {
       "player": {
@@ -1824,7 +1849,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 19
+      "rank": 20
     },
     {
       "player": {
@@ -1849,7 +1874,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 19
+      "rank": 20
     },
     {
       "player": {
@@ -1874,7 +1899,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 19
+      "rank": 20
     },
     {
       "player": {
@@ -1899,7 +1924,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 19
+      "rank": 20
     },
     {
       "player": {
@@ -1949,7 +1974,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 19
+      "rank": 20
     },
     {
       "player": {
@@ -1974,7 +1999,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 19
+      "rank": 20
     },
     {
       "player": {
@@ -1999,7 +2024,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 19
+      "rank": 20
     }
   ],
   "assisters": [
@@ -2102,6 +2127,31 @@
       "yellowRedCards": 0,
       "playedMatches": 2,
       "rank": 2
+    },
+    {
+      "player": {
+        "id": 119460,
+        "name": "Ayase Ueda",
+        "firstName": "Ayase",
+        "lastName": "Ueda",
+        "position": "",
+        "nationality": "Japan"
+      },
+      "team": {
+        "id": 766,
+        "name": "Japan",
+        "shortName": "Japan",
+        "tla": "JPN",
+        "crest": "https://crests.football-data.org/766.svg"
+      },
+      "goals": 2,
+      "penalties": 0,
+      "assists": 1,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 2,
+      "rank": 5
     },
     {
       "player": {
