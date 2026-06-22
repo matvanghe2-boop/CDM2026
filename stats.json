@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-22T00:55:57.712Z",
+  "updatedAt": "2026-06-22T01:55:55.769Z",
   "scorers": [
     {
       "player": {
@@ -1141,6 +1141,31 @@
         "shortName": "Bosnia-H.",
         "tla": "BIH",
         "crest": "https://crests.football-data.org/bosnia.svg"
+      },
+      "goals": 1,
+      "penalties": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 2,
+      "rank": 22
+    },
+    {
+      "player": {
+        "id": 176993,
+        "name": "Finn Surman",
+        "firstName": "Finn",
+        "lastName": "Surman",
+        "position": "",
+        "nationality": "New Zealand"
+      },
+      "team": {
+        "id": 783,
+        "name": "New Zealand",
+        "shortName": "New Zealand",
+        "tla": "NZL",
+        "crest": "https://crests.football-data.org/783.svg"
       },
       "goals": 1,
       "penalties": 0,
