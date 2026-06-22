@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-22T20:56:05.464Z",
+  "updatedAt": "2026-06-22T21:55:53.722Z",
   "scorers": [
     {
       "player": {
@@ -66,6 +66,31 @@
         "shortName": "Canada",
         "tla": "CAN",
         "crest": "https://crests.football-data.org/canada.svg"
+      },
+      "goals": 3,
+      "penalties": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 2,
+      "rank": 2
+    },
+    {
+      "player": {
+        "id": 3374,
+        "name": "Kylian Mbappé",
+        "firstName": "Kylian",
+        "lastName": "Mbappé",
+        "position": "",
+        "nationality": "France"
+      },
+      "team": {
+        "id": 773,
+        "name": "France",
+        "shortName": "France",
+        "tla": "FRA",
+        "crest": "https://crests.football-data.org/773.svg"
       },
       "goals": 3,
       "penalties": 0,
@@ -224,7 +249,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 4
+      "rank": 5
     },
     {
       "player": {
@@ -249,7 +274,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 4
+      "rank": 5
     },
     {
       "player": {
@@ -274,7 +299,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 4
+      "rank": 5
     },
     {
       "player": {
@@ -299,7 +324,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 4
+      "rank": 5
     },
     {
       "player": {
@@ -324,7 +349,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 4
+      "rank": 5
     },
     {
       "player": {
@@ -349,7 +374,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 4
+      "rank": 5
     },
     {
       "player": {
@@ -374,7 +399,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 4
+      "rank": 5
     },
     {
       "player": {
@@ -399,32 +424,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 4
-    },
-    {
-      "player": {
-        "id": 3374,
-        "name": "Kylian Mbappé",
-        "firstName": "Kylian",
-        "lastName": "Mbappé",
-        "position": "",
-        "nationality": "France"
-      },
-      "team": {
-        "id": 773,
-        "name": "France",
-        "shortName": "France",
-        "tla": "FRA",
-        "crest": "https://crests.football-data.org/773.svg"
-      },
-      "goals": 2,
-      "penalties": 0,
-      "assists": 0,
-      "yellowCards": 0,
-      "redCards": 0,
-      "yellowRedCards": 0,
-      "playedMatches": 2,
-      "rank": 4
+      "rank": 5
     },
     {
       "player": {
@@ -449,7 +449,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 4
+      "rank": 5
     },
     {
       "player": {
@@ -474,7 +474,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 4
+      "rank": 5
     },
     {
       "player": {
@@ -499,7 +499,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 4
+      "rank": 5
     },
     {
       "player": {
@@ -524,7 +524,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 4
+      "rank": 5
     },
     {
       "player": {
