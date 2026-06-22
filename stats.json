@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-22T22:55:58.894Z",
+  "updatedAt": "2026-06-22T23:55:59.212Z",
   "scorers": [
     {
       "player": {
@@ -348,7 +348,7 @@
       "yellowCards": 0,
       "redCards": 0,
       "yellowRedCards": 0,
-      "playedMatches": 1,
+      "playedMatches": 2,
       "rank": 5
     },
     {
@@ -1348,7 +1348,7 @@
       "yellowCards": 0,
       "redCards": 0,
       "yellowRedCards": 0,
-      "playedMatches": 1,
+      "playedMatches": 2,
       "rank": 22
     },
     {
@@ -1648,7 +1648,7 @@
       "yellowCards": 0,
       "redCards": 0,
       "yellowRedCards": 0,
-      "playedMatches": 1,
+      "playedMatches": 2,
       "rank": 22
     },
     {
