@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-22T01:55:55.769Z",
+  "updatedAt": "2026-06-22T02:56:02.764Z",
   "scorers": [
     {
       "player": {
@@ -149,7 +149,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 5
+      "rank": 6
     },
     {
       "player": {
@@ -174,7 +174,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 5
+      "rank": 6
     },
     {
       "player": {
@@ -199,7 +199,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 5
+      "rank": 6
     },
     {
       "player": {
@@ -553,6 +553,31 @@
     },
     {
       "player": {
+        "id": 3754,
+        "name": "Mohamed Salah",
+        "firstName": "Mohamed",
+        "lastName": "Salah",
+        "position": "",
+        "nationality": "Egypt"
+      },
+      "team": {
+        "id": 825,
+        "name": "Egypt",
+        "shortName": "Egypt",
+        "tla": "EGY",
+        "crest": "https://crests.football-data.org/825.svg"
+      },
+      "goals": 1,
+      "penalties": 0,
+      "assists": 2,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 2,
+      "rank": 2
+    },
+    {
+      "player": {
         "id": 102193,
         "name": "Crysencio Summerville",
         "firstName": "Crysencio",
@@ -574,7 +599,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 5
+      "rank": 6
     },
     {
       "player": {
@@ -599,7 +624,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 5
+      "rank": 6
     },
     {
       "player": {
@@ -624,7 +649,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 5
+      "rank": 6
     },
     {
       "player": {
@@ -649,7 +674,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 5
+      "rank": 6
     },
     {
       "player": {
@@ -674,7 +699,32 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 5
+      "rank": 6
+    },
+    {
+      "player": {
+        "id": 295848,
+        "name": "Mostafa Ziko",
+        "firstName": "Mostafa",
+        "lastName": "Ziko",
+        "position": "",
+        "nationality": "Egypt"
+      },
+      "team": {
+        "id": 825,
+        "name": "Egypt",
+        "shortName": "Egypt",
+        "tla": "EGY",
+        "crest": "https://crests.football-data.org/825.svg"
+      },
+      "goals": 1,
+      "penalties": 0,
+      "assists": 1,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 2,
+      "rank": 6
     },
     {
       "player": {
@@ -699,7 +749,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 5
+      "rank": 6
     },
     {
       "player": {
@@ -724,7 +774,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 5
+      "rank": 6
     },
     {
       "player": {
@@ -749,7 +799,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 5
+      "rank": 6
     },
     {
       "player": {
@@ -774,7 +824,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 5
+      "rank": 6
     },
     {
       "player": {
@@ -2028,6 +2078,31 @@
     },
     {
       "player": {
+        "id": 180952,
+        "name": "Trezeguet",
+        "firstName": "",
+        "lastName": "Trézéguet",
+        "position": "",
+        "nationality": "Egypt"
+      },
+      "team": {
+        "id": 825,
+        "name": "Egypt",
+        "shortName": "Egypt",
+        "tla": "EGY",
+        "crest": "https://crests.football-data.org/825.svg"
+      },
+      "goals": 1,
+      "penalties": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 2,
+      "rank": 22
+    },
+    {
+      "player": {
         "id": 7869,
         "name": "Virgil van Dijk",
         "firstName": "Virgil",
@@ -2099,7 +2174,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 5
+      "rank": 6
     },
     {
       "player": {
@@ -2280,6 +2355,31 @@
     },
     {
       "player": {
+        "id": 3754,
+        "name": "Mohamed Salah",
+        "firstName": "Mohamed",
+        "lastName": "Salah",
+        "position": "",
+        "nationality": "Egypt"
+      },
+      "team": {
+        "id": 825,
+        "name": "Egypt",
+        "shortName": "Egypt",
+        "tla": "EGY",
+        "crest": "https://crests.football-data.org/825.svg"
+      },
+      "goals": 1,
+      "penalties": 0,
+      "assists": 2,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 2,
+      "rank": 2
+    },
+    {
+      "player": {
         "id": 119460,
         "name": "Ayase Ueda",
         "firstName": "Ayase",
@@ -2301,7 +2401,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 5
+      "rank": 6
     },
     {
       "player": {
@@ -2326,7 +2426,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 5
+      "rank": 6
     },
     {
       "player": {
@@ -2351,7 +2451,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 5
+      "rank": 6
     },
     {
       "player": {
@@ -2376,7 +2476,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 5
+      "rank": 6
     },
     {
       "player": {
@@ -2401,7 +2501,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 5
+      "rank": 6
     },
     {
       "player": {
@@ -2426,7 +2526,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 5
+      "rank": 6
     },
     {
       "player": {
@@ -2451,7 +2551,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 5
+      "rank": 6
     },
     {
       "player": {
@@ -2476,7 +2576,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 5
+      "rank": 6
     },
     {
       "player": {
@@ -2501,7 +2601,32 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 5
+      "rank": 6
+    },
+    {
+      "player": {
+        "id": 295848,
+        "name": "Mostafa Ziko",
+        "firstName": "Mostafa",
+        "lastName": "Ziko",
+        "position": "",
+        "nationality": "Egypt"
+      },
+      "team": {
+        "id": 825,
+        "name": "Egypt",
+        "shortName": "Egypt",
+        "tla": "EGY",
+        "crest": "https://crests.football-data.org/825.svg"
+      },
+      "goals": 1,
+      "penalties": 0,
+      "assists": 1,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 2,
+      "rank": 6
     },
     {
       "player": {
@@ -2526,7 +2651,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 5
+      "rank": 6
     },
     {
       "player": {
@@ -2551,7 +2676,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 5
+      "rank": 6
     },
     {
       "player": {
@@ -2576,7 +2701,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 5
+      "rank": 6
     },
     {
       "player": {
@@ -2601,7 +2726,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 5
+      "rank": 6
     }
   ],
   "carded": []
