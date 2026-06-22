@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-22T16:55:54.372Z",
+  "updatedAt": "2026-06-22T17:48:55.908Z",
   "scorers": [
+    {
+      "player": {
+        "id": 3218,
+        "name": "Lionel Messi",
+        "firstName": "Lionel",
+        "lastName": "Messi",
+        "position": "",
+        "nationality": "Argentina"
+      },
+      "team": {
+        "id": 762,
+        "name": "Argentina",
+        "shortName": "Argentina",
+        "tla": "ARG",
+        "crest": "https://crests.football-data.org/762.png"
+      },
+      "goals": 4,
+      "penalties": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 2,
+      "rank": 1
+    },
     {
       "player": {
         "id": 6928,
@@ -49,32 +74,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 1
-    },
-    {
-      "player": {
-        "id": 3218,
-        "name": "Lionel Messi",
-        "firstName": "Lionel",
-        "lastName": "Messi",
-        "position": "",
-        "nationality": "Argentina"
-      },
-      "team": {
-        "id": 762,
-        "name": "Argentina",
-        "shortName": "Argentina",
-        "tla": "ARG",
-        "crest": "https://crests.football-data.org/762.png"
-      },
-      "goals": 3,
-      "penalties": 0,
-      "assists": 0,
-      "yellowCards": 0,
-      "redCards": 0,
-      "yellowRedCards": 0,
-      "playedMatches": 2,
-      "rank": 1
+      "rank": 2
     },
     {
       "player": {
