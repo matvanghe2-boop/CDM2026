@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T03:55:55.276Z",
+  "updatedAt": "2026-06-23T04:55:56.035Z",
   "scorers": [
     {
       "player": {
@@ -1028,6 +1028,31 @@
     },
     {
       "player": {
+        "id": 8476,
+        "name": "Amine Gouiri",
+        "firstName": "Amine",
+        "lastName": "Gouiri",
+        "position": "",
+        "nationality": "Algeria"
+      },
+      "team": {
+        "id": 778,
+        "name": "Algeria",
+        "shortName": "Algeria",
+        "tla": "ALG",
+        "crest": "https://crests.football-data.org/algeria.svg"
+      },
+      "goals": 1,
+      "penalties": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 2,
+      "rank": 23
+    },
+    {
+      "player": {
         "id": 166376,
         "name": "Anthony Elanga",
         "firstName": "Anthony",
@@ -1966,6 +1991,31 @@
         "shortName": "Iran",
         "tla": "IRN",
         "crest": "https://crests.football-data.org/iran.svg"
+      },
+      "goals": 1,
+      "penalties": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 2,
+      "rank": 23
+    },
+    {
+      "player": {
+        "id": 192676,
+        "name": "Nadhir Benbouali",
+        "firstName": "Nadhir",
+        "lastName": "Benbouali",
+        "position": "",
+        "nationality": "Algeria"
+      },
+      "team": {
+        "id": 778,
+        "name": "Algeria",
+        "shortName": "Algeria",
+        "tla": "ALG",
+        "crest": "https://crests.football-data.org/algeria.svg"
       },
       "goals": 1,
       "penalties": 0,
