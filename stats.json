@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T02:55:57.233Z",
+  "updatedAt": "2026-06-23T03:55:55.276Z",
   "scorers": [
     {
       "player": {
@@ -2041,6 +2041,31 @@
         "shortName": "Germany",
         "tla": "GER",
         "crest": "https://crests.football-data.org/759.svg"
+      },
+      "goals": 1,
+      "penalties": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 2,
+      "rank": 23
+    },
+    {
+      "player": {
+        "id": 231890,
+        "name": "Nizar Al Rashdan",
+        "firstName": "Nizar",
+        "lastName": "Al Rashdan",
+        "position": "",
+        "nationality": "Jordan"
+      },
+      "team": {
+        "id": 8049,
+        "name": "Jordan",
+        "shortName": "Jordan",
+        "tla": "JOR",
+        "crest": "https://crests.football-data.org/8049.png"
       },
       "goals": 1,
       "penalties": 0,
