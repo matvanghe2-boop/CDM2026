@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T18:23:23.378Z",
+  "updatedAt": "2026-06-23T18:55:55.977Z",
   "scorers": [
     {
       "player": {
@@ -2199,6 +2199,31 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
+      "rank": 25
+    },
+    {
+      "player": {
+        "id": 15892,
+        "name": "Rafael Leão",
+        "firstName": "",
+        "lastName": "Rafael Leão",
+        "position": "",
+        "nationality": "Portugal"
+      },
+      "team": {
+        "id": 765,
+        "name": "Portugal",
+        "shortName": "Portugal",
+        "tla": "POR",
+        "crest": "https://crests.football-data.org/765.svg"
+      },
+      "goals": 1,
+      "penalties": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 2,
       "rank": 25
     },
     {
