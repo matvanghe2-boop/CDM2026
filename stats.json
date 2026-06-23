@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-22T23:55:59.212Z",
+  "updatedAt": "2026-06-23T00:55:55.484Z",
   "scorers": [
     {
       "player": {
@@ -25,6 +25,31 @@
       "yellowRedCards": 0,
       "playedMatches": 2,
       "rank": 1
+    },
+    {
+      "player": {
+        "id": 3374,
+        "name": "Kylian Mbappé",
+        "firstName": "Kylian",
+        "lastName": "Mbappé",
+        "position": "",
+        "nationality": "France"
+      },
+      "team": {
+        "id": 773,
+        "name": "France",
+        "shortName": "France",
+        "tla": "FRA",
+        "crest": "https://crests.football-data.org/773.svg"
+      },
+      "goals": 4,
+      "penalties": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 2,
+      "rank": 2
     },
     {
       "player": {
@@ -74,32 +99,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 2
-    },
-    {
-      "player": {
-        "id": 3374,
-        "name": "Kylian Mbappé",
-        "firstName": "Kylian",
-        "lastName": "Mbappé",
-        "position": "",
-        "nationality": "France"
-      },
-      "team": {
-        "id": 773,
-        "name": "France",
-        "shortName": "France",
-        "tla": "FRA",
-        "crest": "https://crests.football-data.org/773.svg"
-      },
-      "goals": 3,
-      "penalties": 0,
-      "assists": 0,
-      "yellowCards": 0,
-      "redCards": 0,
-      "yellowRedCards": 0,
-      "playedMatches": 2,
-      "rank": 2
+      "rank": 3
     },
     {
       "player": {
@@ -741,6 +741,31 @@
         "shortName": "Germany",
         "tla": "GER",
         "crest": "https://crests.football-data.org/759.svg"
+      },
+      "goals": 1,
+      "penalties": 0,
+      "assists": 1,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 2,
+      "rank": 6
+    },
+    {
+      "player": {
+        "id": 3373,
+        "name": "Ousmane Dembélé",
+        "firstName": "Ousmane",
+        "lastName": "Dembélé",
+        "position": "",
+        "nationality": "France"
+      },
+      "team": {
+        "id": 773,
+        "name": "France",
+        "shortName": "France",
+        "tla": "FRA",
+        "crest": "https://crests.football-data.org/773.svg"
       },
       "goals": 1,
       "penalties": 0,
@@ -1703,6 +1728,31 @@
     },
     {
       "player": {
+        "id": 38548,
+        "name": "Marcus Pedersen",
+        "firstName": "Marcus",
+        "lastName": "Pedersen",
+        "position": "",
+        "nationality": "Norway"
+      },
+      "team": {
+        "id": 8872,
+        "name": "Norway",
+        "shortName": "Norway",
+        "tla": "NOR",
+        "crest": "https://crests.football-data.org/813.svg"
+      },
+      "goals": 1,
+      "penalties": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 2,
+      "rank": 22
+    },
+    {
+      "player": {
         "id": 3331,
         "name": "Marcus Rashford",
         "firstName": "Marcus",
@@ -2643,6 +2693,31 @@
         "shortName": "Germany",
         "tla": "GER",
         "crest": "https://crests.football-data.org/759.svg"
+      },
+      "goals": 1,
+      "penalties": 0,
+      "assists": 1,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 2,
+      "rank": 6
+    },
+    {
+      "player": {
+        "id": 3373,
+        "name": "Ousmane Dembélé",
+        "firstName": "Ousmane",
+        "lastName": "Dembélé",
+        "position": "",
+        "nationality": "France"
+      },
+      "team": {
+        "id": 773,
+        "name": "France",
+        "shortName": "France",
+        "tla": "FRA",
+        "crest": "https://crests.football-data.org/773.svg"
       },
       "goals": 1,
       "penalties": 0,
