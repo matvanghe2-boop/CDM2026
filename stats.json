@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T17:56:31.463Z",
+  "updatedAt": "2026-06-23T18:23:23.378Z",
   "scorers": [
     {
       "player": {
@@ -128,31 +128,6 @@
     },
     {
       "player": {
-        "id": 1556,
-        "name": "Vinicius Junior",
-        "firstName": "",
-        "lastName": "Vinícius Junior",
-        "position": "",
-        "nationality": "Brazil"
-      },
-      "team": {
-        "id": 764,
-        "name": "Brazil",
-        "shortName": "Brazil",
-        "tla": "BRA",
-        "crest": "https://crests.football-data.org/764.svg"
-      },
-      "goals": 2,
-      "penalties": 0,
-      "assists": 2,
-      "yellowCards": 0,
-      "redCards": 0,
-      "yellowRedCards": 0,
-      "playedMatches": 2,
-      "rank": 2
-    },
-    {
-      "player": {
         "id": 119460,
         "name": "Ayase Ueda",
         "firstName": "Ayase",
@@ -174,7 +149,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 5
+      "rank": 4
     },
     {
       "player": {
@@ -199,7 +174,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 5
+      "rank": 4
     },
     {
       "player": {
@@ -224,7 +199,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 5
+      "rank": 4
     },
     {
       "player": {
@@ -249,7 +224,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 5
+      "rank": 4
     },
     {
       "player": {
@@ -274,7 +249,32 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 5
+      "rank": 4
+    },
+    {
+      "player": {
+        "id": 1556,
+        "name": "Vinicius Junior",
+        "firstName": "",
+        "lastName": "Vinícius Junior",
+        "position": "",
+        "nationality": "Brazil"
+      },
+      "team": {
+        "id": 764,
+        "name": "Brazil",
+        "shortName": "Brazil",
+        "tla": "BRA",
+        "crest": "https://crests.football-data.org/764.svg"
+      },
+      "goals": 2,
+      "penalties": 0,
+      "assists": 1,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 2,
+      "rank": 4
     },
     {
       "player": {
@@ -674,7 +674,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 5
+      "rank": 4
     },
     {
       "player": {
@@ -699,7 +699,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 5
+      "rank": 4
     },
     {
       "player": {
@@ -724,7 +724,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 5
+      "rank": 4
     },
     {
       "player": {
@@ -749,7 +749,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 5
+      "rank": 4
     },
     {
       "player": {
@@ -774,7 +774,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 5
+      "rank": 4
     },
     {
       "player": {
@@ -799,7 +799,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 5
+      "rank": 4
     },
     {
       "player": {
@@ -824,7 +824,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 5
+      "rank": 4
     },
     {
       "player": {
@@ -849,7 +849,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 5
+      "rank": 4
     },
     {
       "player": {
@@ -874,7 +874,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 5
+      "rank": 4
     },
     {
       "player": {
@@ -899,7 +899,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 5
+      "rank": 4
     },
     {
       "player": {
@@ -2349,7 +2349,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 5
+      "rank": 4
     },
     {
       "player": {
@@ -2480,31 +2480,6 @@
     },
     {
       "player": {
-        "id": 1556,
-        "name": "Vinicius Junior",
-        "firstName": "",
-        "lastName": "Vinícius Junior",
-        "position": "",
-        "nationality": "Brazil"
-      },
-      "team": {
-        "id": 764,
-        "name": "Brazil",
-        "shortName": "Brazil",
-        "tla": "BRA",
-        "crest": "https://crests.football-data.org/764.svg"
-      },
-      "goals": 2,
-      "penalties": 0,
-      "assists": 2,
-      "yellowCards": 0,
-      "redCards": 0,
-      "yellowRedCards": 0,
-      "playedMatches": 2,
-      "rank": 2
-    },
-    {
-      "player": {
         "id": 3754,
         "name": "Mohamed Salah",
         "firstName": "Mohamed",
@@ -2551,7 +2526,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 5
+      "rank": 4
     },
     {
       "player": {
@@ -2576,7 +2551,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 5
+      "rank": 4
     },
     {
       "player": {
@@ -2601,7 +2576,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 5
+      "rank": 4
     },
     {
       "player": {
@@ -2626,7 +2601,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 5
+      "rank": 4
     },
     {
       "player": {
@@ -2651,7 +2626,32 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 5
+      "rank": 4
+    },
+    {
+      "player": {
+        "id": 1556,
+        "name": "Vinicius Junior",
+        "firstName": "",
+        "lastName": "Vinícius Junior",
+        "position": "",
+        "nationality": "Brazil"
+      },
+      "team": {
+        "id": 764,
+        "name": "Brazil",
+        "shortName": "Brazil",
+        "tla": "BRA",
+        "crest": "https://crests.football-data.org/764.svg"
+      },
+      "goals": 2,
+      "penalties": 0,
+      "assists": 1,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 2,
+      "rank": 4
     },
     {
       "player": {
@@ -2676,7 +2676,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 5
+      "rank": 4
     },
     {
       "player": {
@@ -2701,7 +2701,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 5
+      "rank": 4
     },
     {
       "player": {
@@ -2726,7 +2726,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 5
+      "rank": 4
     },
     {
       "player": {
@@ -2751,7 +2751,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 5
+      "rank": 4
     },
     {
       "player": {
@@ -2776,7 +2776,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 5
+      "rank": 4
     },
     {
       "player": {
@@ -2801,7 +2801,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 5
+      "rank": 4
     },
     {
       "player": {
@@ -2826,7 +2826,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 5
+      "rank": 4
     },
     {
       "player": {
@@ -2851,7 +2851,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 5
+      "rank": 4
     },
     {
       "player": {
@@ -2876,7 +2876,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 5
+      "rank": 4
     },
     {
       "player": {
@@ -2901,7 +2901,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 5
+      "rank": 4
     },
     {
       "player": {
@@ -2926,7 +2926,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 5
+      "rank": 4
     }
   ],
   "carded": []
