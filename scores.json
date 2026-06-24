@@ -137,8 +137,8 @@
     "hs": 2,
     "as": 1,
     "date": "2026-06-24T22:00:00.000Z",
-    "finished": "FALSE",
-    "phase": "90",
+    "finished": "TRUE",
+    "phase": "FT",
     "type": "group",
     "tv": true
   },
@@ -150,8 +150,8 @@
     "hs": 3,
     "as": 1,
     "date": "2026-06-24T22:00:00.000Z",
-    "finished": "FALSE",
-    "phase": "90",
+    "finished": "TRUE",
+    "phase": "FT",
     "type": "group",
     "tv": true
   },
