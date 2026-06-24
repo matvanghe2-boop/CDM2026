@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T07:55:55.490Z",
+  "updatedAt": "2026-06-24T08:55:54.532Z",
   "scorers": [
     {
       "player": {
@@ -966,31 +966,6 @@
         "shortName": "Saudi Arabia",
         "tla": "KSA",
         "crest": "https://crests.football-data.org/saudi_arabia.svg"
-      },
-      "goals": 1,
-      "penalties": 0,
-      "assists": 0,
-      "yellowCards": 0,
-      "redCards": 0,
-      "yellowRedCards": 0,
-      "playedMatches": 2,
-      "rank": 26
-    },
-    {
-      "player": {
-        "id": 243911,
-        "name": "Abduvakhid Nematov",
-        "firstName": "Abduvakhid",
-        "lastName": "Nematov",
-        "position": "",
-        "nationality": "Uzbekistan"
-      },
-      "team": {
-        "id": 765,
-        "name": "Portugal",
-        "shortName": "Portugal",
-        "tla": "POR",
-        "crest": "https://crests.football-data.org/765.svg"
       },
       "goals": 1,
       "penalties": 0,
