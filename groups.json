@@ -518,23 +518,23 @@
         "pts": 4
       },
       {
-        "name": "Panama",
-        "mp": 1,
-        "w": 0,
+        "name": "Croatia",
+        "mp": 2,
+        "w": 1,
         "d": 0,
         "l": 1,
-        "gf": 0,
-        "ga": 1,
-        "pts": 0
+        "gf": 3,
+        "ga": 4,
+        "pts": 3
       },
       {
-        "name": "Croatia",
-        "mp": 1,
+        "name": "Panama",
+        "mp": 2,
         "w": 0,
         "d": 0,
-        "l": 1,
-        "gf": 2,
-        "ga": 4,
+        "l": 2,
+        "gf": 0,
+        "ga": 2,
         "pts": 0
       }
     ]
