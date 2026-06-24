@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T23:55:55.662Z",
+  "updatedAt": "2026-06-24T00:56:32.793Z",
   "scorers": [
     {
       "player": {
@@ -1099,6 +1099,31 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
+      "rank": 25
+    },
+    {
+      "player": {
+        "id": 2237,
+        "name": "Ante Budimir",
+        "firstName": "Ante",
+        "lastName": "Budimir",
+        "position": "",
+        "nationality": "Croatia"
+      },
+      "team": {
+        "id": 799,
+        "name": "Croatia",
+        "shortName": "Croatia",
+        "tla": "CRO",
+        "crest": "https://crests.football-data.org/799.svg"
+      },
+      "goals": 1,
+      "penalties": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 1,
       "rank": 25
     },
     {
