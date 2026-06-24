@@ -902,10 +902,10 @@
     "home": "Panama",
     "away": "Croatia",
     "hs": 0,
-    "as": 0,
+    "as": 1,
     "date": "2026-06-24T01:00:00.000Z",
     "finished": "FALSE",
-    "phase": "HT",
+    "phase": "90",
     "type": "group",
     "tv": false
   },
