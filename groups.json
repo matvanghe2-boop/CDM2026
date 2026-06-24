@@ -453,6 +453,16 @@
     "group": "K",
     "teams": [
       {
+        "name": "Colombia",
+        "mp": 2,
+        "w": 2,
+        "d": 0,
+        "l": 0,
+        "gf": 4,
+        "ga": 1,
+        "pts": 6
+      },
+      {
         "name": "Portugal",
         "mp": 2,
         "w": 1,
@@ -463,23 +473,13 @@
         "pts": 4
       },
       {
-        "name": "Colombia",
-        "mp": 1,
-        "w": 1,
-        "d": 0,
-        "l": 0,
-        "gf": 3,
-        "ga": 1,
-        "pts": 3
-      },
-      {
         "name": "DR Congo",
-        "mp": 1,
+        "mp": 2,
         "w": 0,
         "d": 1,
-        "l": 0,
+        "l": 1,
         "gf": 1,
-        "ga": 1,
+        "ga": 2,
         "pts": 1
       },
       {
