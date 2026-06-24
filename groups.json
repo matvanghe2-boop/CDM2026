@@ -48,43 +48,43 @@
     "group": "B",
     "teams": [
       {
-        "name": "Canada",
-        "mp": 2,
-        "w": 1,
+        "name": "Switzerland",
+        "mp": 3,
+        "w": 2,
         "d": 1,
         "l": 0,
         "gf": 7,
-        "ga": 1,
-        "pts": 4
+        "ga": 3,
+        "pts": 7
       },
       {
-        "name": "Switzerland",
-        "mp": 2,
+        "name": "Canada",
+        "mp": 3,
         "w": 1,
         "d": 1,
-        "l": 0,
-        "gf": 5,
-        "ga": 2,
+        "l": 1,
+        "gf": 8,
+        "ga": 3,
         "pts": 4
       },
       {
         "name": "Bosnia and Herzegovina",
-        "mp": 2,
-        "w": 0,
+        "mp": 3,
+        "w": 1,
         "d": 1,
         "l": 1,
-        "gf": 2,
-        "ga": 5,
-        "pts": 1
+        "gf": 5,
+        "ga": 6,
+        "pts": 4
       },
       {
         "name": "Qatar",
-        "mp": 2,
+        "mp": 3,
         "w": 0,
         "d": 1,
-        "l": 1,
-        "gf": 1,
-        "ga": 7,
+        "l": 2,
+        "gf": 2,
+        "ga": 10,
         "pts": 1
       }
     ]
