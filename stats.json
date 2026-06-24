@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T18:55:58.504Z",
+  "updatedAt": "2026-06-24T19:56:07.038Z",
   "scorers": [
     {
       "player": {
@@ -1674,6 +1674,31 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
+      "rank": 26
+    },
+    {
+      "player": {
+        "id": 272213,
+        "name": "Kerim Alajbegović",
+        "firstName": "Kerim",
+        "lastName": "Alajbegović",
+        "position": "",
+        "nationality": "Bosnia-Herzegovina"
+      },
+      "team": {
+        "id": 1060,
+        "name": "Bosnia-Herzegovina",
+        "shortName": "Bosnia-H.",
+        "tla": "BIH",
+        "crest": "https://crests.football-data.org/bosnia.svg"
+      },
+      "goals": 1,
+      "penalties": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 3,
       "rank": 26
     },
     {
