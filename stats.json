@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T22:55:54.079Z",
+  "updatedAt": "2026-06-24T23:55:54.913Z",
   "scorers": [
     {
       "player": {
@@ -203,6 +203,31 @@
     },
     {
       "player": {
+        "id": 30842,
+        "name": "Matheus Cunha",
+        "firstName": "",
+        "lastName": "Matheus Cunha",
+        "position": "",
+        "nationality": "Brazil"
+      },
+      "team": {
+        "id": 764,
+        "name": "Brazil",
+        "shortName": "Brazil",
+        "tla": "BRA",
+        "crest": "https://crests.football-data.org/764.svg"
+      },
+      "goals": 3,
+      "penalties": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 3,
+      "rank": 5
+    },
+    {
+      "player": {
         "id": 119460,
         "name": "Ayase Ueda",
         "firstName": "Ayase",
@@ -374,7 +399,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 9
+      "rank": 10
     },
     {
       "player": {
@@ -399,7 +424,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 9
+      "rank": 10
     },
     {
       "player": {
@@ -424,7 +449,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 9
+      "rank": 10
     },
     {
       "player": {
@@ -449,7 +474,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 9
+      "rank": 10
     },
     {
       "player": {
@@ -474,7 +499,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 9
+      "rank": 10
     },
     {
       "player": {
@@ -499,7 +524,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 9
+      "rank": 10
     },
     {
       "player": {
@@ -524,7 +549,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 9
+      "rank": 10
     },
     {
       "player": {
@@ -549,7 +574,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 9
+      "rank": 10
     },
     {
       "player": {
@@ -574,32 +599,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 9
-    },
-    {
-      "player": {
-        "id": 30842,
-        "name": "Matheus Cunha",
-        "firstName": "",
-        "lastName": "Matheus Cunha",
-        "position": "",
-        "nationality": "Brazil"
-      },
-      "team": {
-        "id": 764,
-        "name": "Brazil",
-        "shortName": "Brazil",
-        "tla": "BRA",
-        "crest": "https://crests.football-data.org/764.svg"
-      },
-      "goals": 2,
-      "penalties": 0,
-      "assists": 0,
-      "yellowCards": 0,
-      "redCards": 0,
-      "yellowRedCards": 0,
-      "playedMatches": 3,
-      "rank": 9
+      "rank": 10
     },
     {
       "player": {
@@ -624,7 +624,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 9
+      "rank": 10
     },
     {
       "player": {
@@ -649,7 +649,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 9
+      "rank": 10
     },
     {
       "player": {
@@ -674,7 +674,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 9
+      "rank": 10
     },
     {
       "player": {
