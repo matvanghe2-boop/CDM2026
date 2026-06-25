@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25T20:56:10.653Z",
+  "updatedAt": "2026-06-25T21:55:56.394Z",
   "scorers": [
     {
       "player": {
@@ -628,6 +628,31 @@
     },
     {
       "player": {
+        "id": 8412,
+        "name": "Nicolas Pépé",
+        "firstName": "Nicolas",
+        "lastName": "Pépé",
+        "position": "",
+        "nationality": "Ivory Coast"
+      },
+      "team": {
+        "id": 1935,
+        "name": "Ivory Coast",
+        "shortName": "Ivory Coast",
+        "tla": "CIV",
+        "crest": "https://crests.football-data.org/787.svg"
+      },
+      "goals": 2,
+      "penalties": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 2,
+      "rank": 10
+    },
+    {
+      "player": {
         "id": 145613,
         "name": "Yasin Ayari",
         "firstName": "Yasin",
@@ -978,31 +1003,6 @@
     },
     {
       "player": {
-        "id": 260992,
-        "name": "Promise Akinpelu",
-        "firstName": "Promise",
-        "lastName": "David",
-        "position": "",
-        "nationality": "Canada"
-      },
-      "team": {
-        "id": 828,
-        "name": "Canada",
-        "shortName": "Canada",
-        "tla": "CAN",
-        "crest": "https://crests.football-data.org/canada.svg"
-      },
-      "goals": 1,
-      "penalties": 0,
-      "assists": 1,
-      "yellowCards": 0,
-      "redCards": 0,
-      "yellowRedCards": 0,
-      "playedMatches": 3,
-      "rank": 5
-    },
-    {
-      "player": {
         "id": 3804,
         "name": "Ramin Rezaeian",
         "firstName": "Ramin",
@@ -1074,7 +1074,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 29
+      "rank": 30
     },
     {
       "player": {
@@ -1099,7 +1099,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 29
+      "rank": 30
     },
     {
       "player": {
@@ -1124,7 +1124,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 29
+      "rank": 30
     },
     {
       "player": {
@@ -1149,7 +1149,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 29
+      "rank": 30
     },
     {
       "player": {
@@ -1174,7 +1174,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 29
+      "rank": 30
     },
     {
       "player": {
@@ -1199,7 +1199,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 29
+      "rank": 30
     },
     {
       "player": {
@@ -1224,7 +1224,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 29
+      "rank": 30
     },
     {
       "player": {
@@ -1249,7 +1249,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 29
+      "rank": 30
     },
     {
       "player": {
@@ -1274,7 +1274,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 29
+      "rank": 30
     },
     {
       "player": {
@@ -1299,7 +1299,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 29
+      "rank": 30
     },
     {
       "player": {
@@ -1324,7 +1324,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 29
+      "rank": 30
     },
     {
       "player": {
@@ -1349,7 +1349,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 29
+      "rank": 30
     },
     {
       "player": {
@@ -1374,7 +1374,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 29
+      "rank": 30
     },
     {
       "player": {
@@ -1399,7 +1399,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 29
+      "rank": 30
     },
     {
       "player": {
@@ -1424,7 +1424,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 29
+      "rank": 30
     },
     {
       "player": {
@@ -1449,7 +1449,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 29
+      "rank": 30
     },
     {
       "player": {
@@ -1474,7 +1474,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 29
+      "rank": 30
     },
     {
       "player": {
@@ -1499,7 +1499,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 29
+      "rank": 30
     },
     {
       "player": {
@@ -1524,7 +1524,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 29
+      "rank": 30
     },
     {
       "player": {
@@ -1549,7 +1549,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 29
+      "rank": 30
     },
     {
       "player": {
@@ -1574,7 +1574,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 29
+      "rank": 30
     },
     {
       "player": {
@@ -1599,7 +1599,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 29
+      "rank": 30
     },
     {
       "player": {
@@ -1624,7 +1624,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 29
+      "rank": 30
     },
     {
       "player": {
@@ -1649,7 +1649,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 29
+      "rank": 30
     },
     {
       "player": {
@@ -1674,7 +1674,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 29
+      "rank": 30
     },
     {
       "player": {
@@ -1699,7 +1699,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 29
+      "rank": 30
     },
     {
       "player": {
@@ -1724,7 +1724,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 29
+      "rank": 30
     },
     {
       "player": {
@@ -1749,7 +1749,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 29
+      "rank": 30
     },
     {
       "player": {
@@ -1774,7 +1774,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 29
+      "rank": 30
     },
     {
       "player": {
@@ -1799,7 +1799,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 29
+      "rank": 30
     },
     {
       "player": {
@@ -1824,7 +1824,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 29
+      "rank": 30
     },
     {
       "player": {
@@ -1849,7 +1849,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 29
+      "rank": 30
     },
     {
       "player": {
@@ -1874,7 +1874,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 29
+      "rank": 30
     },
     {
       "player": {
@@ -1899,7 +1899,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 29
+      "rank": 30
     },
     {
       "player": {
@@ -1924,7 +1924,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 29
+      "rank": 30
     },
     {
       "player": {
@@ -1949,7 +1949,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 29
+      "rank": 30
     },
     {
       "player": {
@@ -1974,7 +1974,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 29
+      "rank": 30
     },
     {
       "player": {
@@ -1999,7 +1999,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 29
+      "rank": 30
     },
     {
       "player": {
@@ -2024,7 +2024,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 29
+      "rank": 30
     },
     {
       "player": {
@@ -2049,7 +2049,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 29
+      "rank": 30
     },
     {
       "player": {
@@ -2074,7 +2074,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 29
+      "rank": 30
     },
     {
       "player": {
@@ -2099,7 +2099,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 29
+      "rank": 30
     },
     {
       "player": {
@@ -2124,7 +2124,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 29
+      "rank": 30
     },
     {
       "player": {
@@ -2149,7 +2149,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 29
+      "rank": 30
     },
     {
       "player": {
@@ -2174,7 +2174,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 29
+      "rank": 30
     },
     {
       "player": {
@@ -2199,7 +2199,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 29
+      "rank": 30
     },
     {
       "player": {
@@ -2224,7 +2224,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 29
+      "rank": 30
     },
     {
       "player": {
@@ -2249,7 +2249,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 29
+      "rank": 30
     },
     {
       "player": {
@@ -2274,7 +2274,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 29
+      "rank": 30
     },
     {
       "player": {
@@ -2299,7 +2299,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 29
+      "rank": 30
     },
     {
       "player": {
@@ -2324,7 +2324,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 29
+      "rank": 30
     },
     {
       "player": {
@@ -2349,7 +2349,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 29
+      "rank": 30
     },
     {
       "player": {
@@ -2374,7 +2374,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 29
+      "rank": 30
     },
     {
       "player": {
@@ -2399,7 +2399,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 29
+      "rank": 30
     },
     {
       "player": {
@@ -2449,7 +2449,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 29
+      "rank": 30
     },
     {
       "player": {
@@ -2474,7 +2474,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 29
+      "rank": 30
     },
     {
       "player": {
@@ -2499,7 +2499,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 29
+      "rank": 30
     }
   ],
   "assisters": [
@@ -3026,31 +3026,6 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 5
-    },
-    {
-      "player": {
-        "id": 260992,
-        "name": "Promise Akinpelu",
-        "firstName": "Promise",
-        "lastName": "David",
-        "position": "",
-        "nationality": "Canada"
-      },
-      "team": {
-        "id": 828,
-        "name": "Canada",
-        "shortName": "Canada",
-        "tla": "CAN",
-        "crest": "https://crests.football-data.org/canada.svg"
-      },
-      "goals": 1,
-      "penalties": 0,
-      "assists": 1,
-      "yellowCards": 0,
-      "redCards": 0,
-      "yellowRedCards": 0,
-      "playedMatches": 3,
       "rank": 5
     },
     {
