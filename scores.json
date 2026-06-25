@@ -372,7 +372,7 @@
     "as": 1,
     "date": "2026-06-25T22:00:00.000Z",
     "finished": "FALSE",
-    "phase": "90",
+    "phase": "HT",
     "type": "group",
     "tv": false
   },
@@ -385,7 +385,7 @@
     "as": 1,
     "date": "2026-06-25T22:00:00.000Z",
     "finished": "FALSE",
-    "phase": "90",
+    "phase": "HT",
     "type": "group",
     "tv": false
   },
