@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25T22:56:29.683Z",
+  "updatedAt": "2026-06-25T23:55:55.289Z",
   "scorers": [
     {
       "player": {
@@ -145,6 +145,31 @@
       "goals": 3,
       "penalties": 0,
       "assists": 1,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 3,
+      "rank": 5
+    },
+    {
+      "player": {
+        "id": 97535,
+        "name": "Brian Brobbey",
+        "firstName": "Brian",
+        "lastName": "Brobbey",
+        "position": "",
+        "nationality": "Netherlands"
+      },
+      "team": {
+        "id": 8601,
+        "name": "Netherlands",
+        "shortName": "Netherlands",
+        "tla": "NED",
+        "crest": "https://crests.football-data.org/8601.svg"
+      },
+      "goals": 3,
+      "penalties": 0,
+      "assists": 0,
       "yellowCards": 0,
       "redCards": 0,
       "yellowRedCards": 0,
@@ -378,31 +403,6 @@
     },
     {
       "player": {
-        "id": 97535,
-        "name": "Brian Brobbey",
-        "firstName": "Brian",
-        "lastName": "Brobbey",
-        "position": "",
-        "nationality": "Netherlands"
-      },
-      "team": {
-        "id": 8601,
-        "name": "Netherlands",
-        "shortName": "Netherlands",
-        "tla": "NED",
-        "crest": "https://crests.football-data.org/8601.svg"
-      },
-      "goals": 2,
-      "penalties": 0,
-      "assists": 0,
-      "yellowCards": 0,
-      "redCards": 0,
-      "yellowRedCards": 0,
-      "playedMatches": 3,
-      "rank": 10
-    },
-    {
-      "player": {
         "id": 44,
         "name": "Cristiano Ronaldo",
         "firstName": "",
@@ -424,7 +424,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 10
+      "rank": 11
     },
     {
       "player": {
@@ -449,7 +449,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 10
+      "rank": 11
     },
     {
       "player": {
@@ -474,7 +474,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 10
+      "rank": 11
     },
     {
       "player": {
@@ -499,7 +499,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 10
+      "rank": 11
     },
     {
       "player": {
@@ -524,7 +524,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 10
+      "rank": 11
     },
     {
       "player": {
@@ -549,7 +549,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 10
+      "rank": 11
     },
     {
       "player": {
@@ -574,7 +574,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 10
+      "rank": 11
     },
     {
       "player": {
@@ -599,7 +599,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 10
+      "rank": 11
     },
     {
       "player": {
@@ -624,7 +624,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 10
+      "rank": 11
     },
     {
       "player": {
@@ -649,7 +649,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 10
+      "rank": 11
     },
     {
       "player": {
@@ -674,7 +674,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 10
+      "rank": 11
     },
     {
       "player": {
@@ -699,7 +699,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 10
+      "rank": 11
     },
     {
       "player": {
@@ -724,7 +724,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 10
+      "rank": 11
     },
     {
       "player": {
@@ -1041,6 +1041,31 @@
         "shortName": "Sweden",
         "tla": "SWE",
         "crest": "https://crests.football-data.org/792.svg"
+      },
+      "goals": 1,
+      "penalties": 0,
+      "assists": 1,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 3,
+      "rank": 5
+    },
+    {
+      "player": {
+        "id": 7869,
+        "name": "Virgil van Dijk",
+        "firstName": "Virgil",
+        "lastName": "van Dijk",
+        "position": "",
+        "nationality": "Netherlands"
+      },
+      "team": {
+        "id": 8601,
+        "name": "Netherlands",
+        "shortName": "Netherlands",
+        "tla": "NED",
+        "crest": "https://crests.football-data.org/8601.svg"
       },
       "goals": 1,
       "penalties": 0,
@@ -2353,31 +2378,6 @@
     },
     {
       "player": {
-        "id": 7869,
-        "name": "Virgil van Dijk",
-        "firstName": "Virgil",
-        "lastName": "van Dijk",
-        "position": "",
-        "nationality": "Netherlands"
-      },
-      "team": {
-        "id": 8601,
-        "name": "Netherlands",
-        "shortName": "Netherlands",
-        "tla": "NED",
-        "crest": "https://crests.football-data.org/8601.svg"
-      },
-      "goals": 1,
-      "penalties": 0,
-      "assists": 0,
-      "yellowCards": 0,
-      "redCards": 0,
-      "yellowRedCards": 0,
-      "playedMatches": 3,
-      "rank": 30
-    },
-    {
-      "player": {
         "id": 612,
         "name": "Yoane Wissa",
         "firstName": "Yoane",
@@ -3068,6 +3068,31 @@
         "shortName": "Sweden",
         "tla": "SWE",
         "crest": "https://crests.football-data.org/792.svg"
+      },
+      "goals": 1,
+      "penalties": 0,
+      "assists": 1,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 3,
+      "rank": 5
+    },
+    {
+      "player": {
+        "id": 7869,
+        "name": "Virgil van Dijk",
+        "firstName": "Virgil",
+        "lastName": "van Dijk",
+        "position": "",
+        "nationality": "Netherlands"
+      },
+      "team": {
+        "id": 8601,
+        "name": "Netherlands",
+        "shortName": "Netherlands",
+        "tla": "NED",
+        "crest": "https://crests.football-data.org/8601.svg"
       },
       "goals": 1,
       "penalties": 0,
