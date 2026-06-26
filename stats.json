@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-26T18:56:35.918Z",
+  "updatedAt": "2026-06-26T19:56:06.661Z",
   "scorers": [
     {
       "player": {
@@ -28,6 +28,56 @@
     },
     {
       "player": {
+        "id": 3374,
+        "name": "Kylian Mbappé",
+        "firstName": "Kylian",
+        "lastName": "Mbappé",
+        "position": "",
+        "nationality": "France"
+      },
+      "team": {
+        "id": 773,
+        "name": "France",
+        "shortName": "France",
+        "tla": "FRA",
+        "crest": "https://crests.football-data.org/773.svg"
+      },
+      "goals": 4,
+      "penalties": 0,
+      "assists": 2,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 3,
+      "rank": 2
+    },
+    {
+      "player": {
+        "id": 3373,
+        "name": "Ousmane Dembélé",
+        "firstName": "Ousmane",
+        "lastName": "Dembélé",
+        "position": "",
+        "nationality": "France"
+      },
+      "team": {
+        "id": 773,
+        "name": "France",
+        "shortName": "France",
+        "tla": "FRA",
+        "crest": "https://crests.football-data.org/773.svg"
+      },
+      "goals": 4,
+      "penalties": 0,
+      "assists": 1,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 3,
+      "rank": 7
+    },
+    {
+      "player": {
         "id": 1556,
         "name": "Vinicius Junior",
         "firstName": "",
@@ -49,7 +99,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 6
+      "rank": 7
     },
     {
       "player": {
@@ -66,31 +116,6 @@
         "shortName": "Norway",
         "tla": "NOR",
         "crest": "https://crests.football-data.org/813.svg"
-      },
-      "goals": 4,
-      "penalties": 0,
-      "assists": 0,
-      "yellowCards": 0,
-      "redCards": 0,
-      "yellowRedCards": 0,
-      "playedMatches": 3,
-      "rank": 2
-    },
-    {
-      "player": {
-        "id": 3374,
-        "name": "Kylian Mbappé",
-        "firstName": "Kylian",
-        "lastName": "Mbappé",
-        "position": "",
-        "nationality": "France"
-      },
-      "team": {
-        "id": 773,
-        "name": "France",
-        "shortName": "France",
-        "tla": "FRA",
-        "crest": "https://crests.football-data.org/773.svg"
       },
       "goals": 4,
       "penalties": 0,
@@ -149,7 +174,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 6
+      "rank": 7
     },
     {
       "player": {
@@ -174,7 +199,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 5
+      "rank": 6
     },
     {
       "player": {
@@ -199,7 +224,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 5
+      "rank": 6
     },
     {
       "player": {
@@ -224,7 +249,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 5
+      "rank": 6
     },
     {
       "player": {
@@ -249,7 +274,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 5
+      "rank": 6
     },
     {
       "player": {
@@ -274,7 +299,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 6
+      "rank": 7
     },
     {
       "player": {
@@ -299,7 +324,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 6
+      "rank": 7
     },
     {
       "player": {
@@ -324,7 +349,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 6
+      "rank": 7
     },
     {
       "player": {
@@ -349,7 +374,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 6
+      "rank": 7
     },
     {
       "player": {
@@ -374,7 +399,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 6
+      "rank": 7
     },
     {
       "player": {
@@ -399,7 +424,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 6
+      "rank": 7
     },
     {
       "player": {
@@ -424,7 +449,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 11
+      "rank": 12
     },
     {
       "player": {
@@ -449,7 +474,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 11
+      "rank": 12
     },
     {
       "player": {
@@ -474,7 +499,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 11
+      "rank": 12
     },
     {
       "player": {
@@ -499,7 +524,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 11
+      "rank": 12
     },
     {
       "player": {
@@ -524,7 +549,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 11
+      "rank": 12
     },
     {
       "player": {
@@ -549,7 +574,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 11
+      "rank": 12
     },
     {
       "player": {
@@ -574,7 +599,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 11
+      "rank": 12
     },
     {
       "player": {
@@ -599,7 +624,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 11
+      "rank": 12
     },
     {
       "player": {
@@ -624,7 +649,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 11
+      "rank": 12
     },
     {
       "player": {
@@ -649,7 +674,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 11
+      "rank": 12
     },
     {
       "player": {
@@ -674,7 +699,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 11
+      "rank": 12
     },
     {
       "player": {
@@ -699,7 +724,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 11
+      "rank": 12
     },
     {
       "player": {
@@ -724,7 +749,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 11
+      "rank": 12
     },
     {
       "player": {
@@ -749,7 +774,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 11
+      "rank": 12
     },
     {
       "player": {
@@ -849,7 +874,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 6
+      "rank": 7
     },
     {
       "player": {
@@ -874,7 +899,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 6
+      "rank": 7
     },
     {
       "player": {
@@ -899,7 +924,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 6
+      "rank": 7
     },
     {
       "player": {
@@ -924,7 +949,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 6
+      "rank": 7
     },
     {
       "player": {
@@ -949,7 +974,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 6
+      "rank": 7
     },
     {
       "player": {
@@ -974,7 +999,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 6
+      "rank": 7
     },
     {
       "player": {
@@ -999,7 +1024,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 6
+      "rank": 7
     },
     {
       "player": {
@@ -1024,32 +1049,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 6
-    },
-    {
-      "player": {
-        "id": 3373,
-        "name": "Ousmane Dembélé",
-        "firstName": "Ousmane",
-        "lastName": "Dembélé",
-        "position": "",
-        "nationality": "France"
-      },
-      "team": {
-        "id": 773,
-        "name": "France",
-        "shortName": "France",
-        "tla": "FRA",
-        "crest": "https://crests.football-data.org/773.svg"
-      },
-      "goals": 1,
-      "penalties": 0,
-      "assists": 1,
-      "yellowCards": 0,
-      "redCards": 0,
-      "yellowRedCards": 0,
-      "playedMatches": 3,
-      "rank": 6
+      "rank": 7
     },
     {
       "player": {
@@ -1074,7 +1074,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 6
+      "rank": 7
     },
     {
       "player": {
@@ -1099,7 +1099,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 6
+      "rank": 7
     },
     {
       "player": {
@@ -1124,7 +1124,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 31
+      "rank": 32
     },
     {
       "player": {
@@ -1149,7 +1149,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 31
+      "rank": 32
     },
     {
       "player": {
@@ -1174,7 +1174,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 31
+      "rank": 32
     },
     {
       "player": {
@@ -1199,7 +1199,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 31
+      "rank": 32
     },
     {
       "player": {
@@ -1224,7 +1224,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 31
+      "rank": 32
     },
     {
       "player": {
@@ -1249,7 +1249,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 31
+      "rank": 32
     },
     {
       "player": {
@@ -1274,7 +1274,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 31
+      "rank": 32
     },
     {
       "player": {
@@ -1299,7 +1299,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 31
+      "rank": 32
     },
     {
       "player": {
@@ -1324,7 +1324,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 31
+      "rank": 32
     },
     {
       "player": {
@@ -1349,7 +1349,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 31
+      "rank": 32
     },
     {
       "player": {
@@ -1374,7 +1374,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 31
+      "rank": 32
     },
     {
       "player": {
@@ -1399,7 +1399,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 31
+      "rank": 32
     },
     {
       "player": {
@@ -1424,7 +1424,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 31
+      "rank": 32
     },
     {
       "player": {
@@ -1449,7 +1449,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 31
+      "rank": 32
     },
     {
       "player": {
@@ -1474,7 +1474,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 31
+      "rank": 32
     },
     {
       "player": {
@@ -1499,7 +1499,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 31
+      "rank": 32
     },
     {
       "player": {
@@ -1524,7 +1524,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 31
+      "rank": 32
     },
     {
       "player": {
@@ -1549,7 +1549,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 31
+      "rank": 32
     },
     {
       "player": {
@@ -1574,7 +1574,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 31
+      "rank": 32
     },
     {
       "player": {
@@ -1599,7 +1599,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 31
+      "rank": 32
     },
     {
       "player": {
@@ -1624,7 +1624,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 31
+      "rank": 32
     },
     {
       "player": {
@@ -1649,7 +1649,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 31
+      "rank": 32
     },
     {
       "player": {
@@ -1674,7 +1674,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 31
+      "rank": 32
     },
     {
       "player": {
@@ -1699,7 +1699,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 31
+      "rank": 32
     },
     {
       "player": {
@@ -1724,7 +1724,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 31
+      "rank": 32
     },
     {
       "player": {
@@ -1749,7 +1749,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 31
+      "rank": 32
     },
     {
       "player": {
@@ -1774,7 +1774,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 31
+      "rank": 32
     },
     {
       "player": {
@@ -1799,7 +1799,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 31
+      "rank": 32
     },
     {
       "player": {
@@ -1824,7 +1824,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 31
+      "rank": 32
     },
     {
       "player": {
@@ -1849,7 +1849,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 31
+      "rank": 32
     },
     {
       "player": {
@@ -1874,7 +1874,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 31
+      "rank": 32
     },
     {
       "player": {
@@ -1899,7 +1899,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 31
+      "rank": 32
     },
     {
       "player": {
@@ -1924,7 +1924,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 31
+      "rank": 32
     },
     {
       "player": {
@@ -1949,7 +1949,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 31
+      "rank": 32
     },
     {
       "player": {
@@ -1974,7 +1974,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 31
+      "rank": 32
     },
     {
       "player": {
@@ -1999,7 +1999,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 31
+      "rank": 32
     },
     {
       "player": {
@@ -2024,7 +2024,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 31
+      "rank": 32
     },
     {
       "player": {
@@ -2049,7 +2049,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 31
+      "rank": 32
     },
     {
       "player": {
@@ -2074,7 +2074,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 31
+      "rank": 32
     },
     {
       "player": {
@@ -2099,7 +2099,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 31
+      "rank": 32
     },
     {
       "player": {
@@ -2124,7 +2124,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 31
+      "rank": 32
     },
     {
       "player": {
@@ -2149,7 +2149,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 31
+      "rank": 32
     },
     {
       "player": {
@@ -2174,7 +2174,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 31
+      "rank": 32
     },
     {
       "player": {
@@ -2199,7 +2199,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 31
+      "rank": 32
     },
     {
       "player": {
@@ -2224,7 +2224,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 31
+      "rank": 32
     },
     {
       "player": {
@@ -2249,7 +2249,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 31
+      "rank": 32
     },
     {
       "player": {
@@ -2274,7 +2274,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 31
+      "rank": 32
     },
     {
       "player": {
@@ -2299,7 +2299,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 31
+      "rank": 32
     },
     {
       "player": {
@@ -2324,7 +2324,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 31
+      "rank": 32
     },
     {
       "player": {
@@ -2349,7 +2349,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 31
+      "rank": 32
     },
     {
       "player": {
@@ -2374,7 +2374,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 31
+      "rank": 32
     },
     {
       "player": {
@@ -2399,7 +2399,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 31
+      "rank": 32
     },
     {
       "player": {
@@ -2449,7 +2449,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 31
+      "rank": 32
     },
     {
       "player": {
@@ -2474,7 +2474,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 31
+      "rank": 32
     },
     {
       "player": {
@@ -2499,7 +2499,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 31
+      "rank": 32
     }
   ],
   "assisters": [
@@ -2527,6 +2527,31 @@
       "yellowRedCards": 0,
       "playedMatches": 3,
       "rank": 1
+    },
+    {
+      "player": {
+        "id": 3374,
+        "name": "Kylian Mbappé",
+        "firstName": "Kylian",
+        "lastName": "Mbappé",
+        "position": "",
+        "nationality": "France"
+      },
+      "team": {
+        "id": 773,
+        "name": "France",
+        "shortName": "France",
+        "tla": "FRA",
+        "crest": "https://crests.football-data.org/773.svg"
+      },
+      "goals": 4,
+      "penalties": 0,
+      "assists": 2,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 3,
+      "rank": 2
     },
     {
       "player": {
@@ -2630,6 +2655,31 @@
     },
     {
       "player": {
+        "id": 3373,
+        "name": "Ousmane Dembélé",
+        "firstName": "Ousmane",
+        "lastName": "Dembélé",
+        "position": "",
+        "nationality": "France"
+      },
+      "team": {
+        "id": 773,
+        "name": "France",
+        "shortName": "France",
+        "tla": "FRA",
+        "crest": "https://crests.football-data.org/773.svg"
+      },
+      "goals": 4,
+      "penalties": 0,
+      "assists": 1,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 3,
+      "rank": 7
+    },
+    {
+      "player": {
         "id": 1556,
         "name": "Vinicius Junior",
         "firstName": "",
@@ -2651,7 +2701,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 6
+      "rank": 7
     },
     {
       "player": {
@@ -2676,7 +2726,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 6
+      "rank": 7
     },
     {
       "player": {
@@ -2701,7 +2751,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 6
+      "rank": 7
     },
     {
       "player": {
@@ -2726,7 +2776,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 6
+      "rank": 7
     },
     {
       "player": {
@@ -2751,7 +2801,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 6
+      "rank": 7
     },
     {
       "player": {
@@ -2776,7 +2826,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 6
+      "rank": 7
     },
     {
       "player": {
@@ -2801,7 +2851,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 6
+      "rank": 7
     },
     {
       "player": {
@@ -2826,7 +2876,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 6
+      "rank": 7
     },
     {
       "player": {
@@ -2851,7 +2901,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 6
+      "rank": 7
     },
     {
       "player": {
@@ -2876,7 +2926,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 6
+      "rank": 7
     },
     {
       "player": {
@@ -2901,7 +2951,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 6
+      "rank": 7
     },
     {
       "player": {
@@ -2926,7 +2976,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 1,
-      "rank": 6
+      "rank": 7
     },
     {
       "player": {
@@ -2951,7 +3001,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 6
+      "rank": 7
     },
     {
       "player": {
@@ -2976,7 +3026,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 6
+      "rank": 7
     },
     {
       "player": {
@@ -3001,7 +3051,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 6
+      "rank": 7
     },
     {
       "player": {
@@ -3026,32 +3076,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 6
-    },
-    {
-      "player": {
-        "id": 3373,
-        "name": "Ousmane Dembélé",
-        "firstName": "Ousmane",
-        "lastName": "Dembélé",
-        "position": "",
-        "nationality": "France"
-      },
-      "team": {
-        "id": 773,
-        "name": "France",
-        "shortName": "France",
-        "tla": "FRA",
-        "crest": "https://crests.football-data.org/773.svg"
-      },
-      "goals": 1,
-      "penalties": 0,
-      "assists": 1,
-      "yellowCards": 0,
-      "redCards": 0,
-      "yellowRedCards": 0,
-      "playedMatches": 3,
-      "rank": 6
+      "rank": 7
     },
     {
       "player": {
@@ -3076,7 +3101,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 6
+      "rank": 7
     },
     {
       "player": {
@@ -3101,7 +3126,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 6
+      "rank": 7
     }
   ],
   "carded": []
