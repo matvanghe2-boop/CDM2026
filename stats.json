@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-26T20:45:11.564Z",
+  "updatedAt": "2026-06-26T20:56:21.987Z",
   "scorers": [
     {
       "player": {
@@ -428,6 +428,31 @@
     },
     {
       "player": {
+        "id": 633,
+        "name": "Pape Gueye",
+        "firstName": "Pape",
+        "lastName": "Gueye",
+        "position": "",
+        "nationality": "Senegal"
+      },
+      "team": {
+        "id": 804,
+        "name": "Senegal",
+        "shortName": "Senegal",
+        "tla": "SEN",
+        "crest": "https://crests.football-data.org/senegal.svg"
+      },
+      "goals": 2,
+      "penalties": 0,
+      "assists": 1,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 3,
+      "rank": 7
+    },
+    {
+      "player": {
         "id": 31913,
         "name": "Ruben Vargas",
         "firstName": "Rubén",
@@ -699,31 +724,6 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 13
-    },
-    {
-      "player": {
-        "id": 633,
-        "name": "Pape Gueye",
-        "firstName": "Pape",
-        "lastName": "Gueye",
-        "position": "",
-        "nationality": "Senegal"
-      },
-      "team": {
-        "id": 804,
-        "name": "Senegal",
-        "shortName": "Senegal",
-        "tla": "SEN",
-        "crest": "https://crests.football-data.org/senegal.svg"
-      },
-      "goals": 2,
-      "penalties": 0,
-      "assists": 0,
-      "yellowCards": 0,
-      "redCards": 0,
-      "yellowRedCards": 0,
-      "playedMatches": 3,
       "rank": 13
     },
     {
@@ -2876,6 +2876,31 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
+      "rank": 7
+    },
+    {
+      "player": {
+        "id": 633,
+        "name": "Pape Gueye",
+        "firstName": "Pape",
+        "lastName": "Gueye",
+        "position": "",
+        "nationality": "Senegal"
+      },
+      "team": {
+        "id": 804,
+        "name": "Senegal",
+        "shortName": "Senegal",
+        "tla": "SEN",
+        "crest": "https://crests.football-data.org/senegal.svg"
+      },
+      "goals": 2,
+      "penalties": 0,
+      "assists": 1,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 3,
       "rank": 7
     },
     {
