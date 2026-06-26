@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-26T20:56:21.987Z",
+  "updatedAt": "2026-06-26T21:55:55.871Z",
   "scorers": [
     {
       "player": {
@@ -878,6 +878,31 @@
     },
     {
       "player": {
+        "id": 172762,
+        "name": "Bradley Barcola",
+        "firstName": "Bradley",
+        "lastName": "Barcola",
+        "position": "",
+        "nationality": "France"
+      },
+      "team": {
+        "id": 773,
+        "name": "France",
+        "shortName": "France",
+        "tla": "FRA",
+        "crest": "https://crests.football-data.org/773.svg"
+      },
+      "goals": 1,
+      "penalties": 0,
+      "assists": 1,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 3,
+      "rank": 7
+    },
+    {
+      "player": {
         "id": 101074,
         "name": "Felix Kalu Nmecha",
         "firstName": "Felix",
@@ -1341,31 +1366,6 @@
         "shortName": "Qatar",
         "tla": "QAT",
         "crest": "https://crests.football-data.org/8030.svg"
-      },
-      "goals": 1,
-      "penalties": 0,
-      "assists": 0,
-      "yellowCards": 0,
-      "redCards": 0,
-      "yellowRedCards": 0,
-      "playedMatches": 3,
-      "rank": 33
-    },
-    {
-      "player": {
-        "id": 172762,
-        "name": "Bradley Barcola",
-        "firstName": "Bradley",
-        "lastName": "Barcola",
-        "position": "",
-        "nationality": "France"
-      },
-      "team": {
-        "id": 773,
-        "name": "France",
-        "shortName": "France",
-        "tla": "FRA",
-        "crest": "https://crests.football-data.org/773.svg"
       },
       "goals": 1,
       "penalties": 0,
@@ -2920,6 +2920,31 @@
         "crest": "https://crests.football-data.org/788.svg"
       },
       "goals": 2,
+      "penalties": 0,
+      "assists": 1,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 3,
+      "rank": 7
+    },
+    {
+      "player": {
+        "id": 172762,
+        "name": "Bradley Barcola",
+        "firstName": "Bradley",
+        "lastName": "Barcola",
+        "position": "",
+        "nationality": "France"
+      },
+      "team": {
+        "id": 773,
+        "name": "France",
+        "shortName": "France",
+        "tla": "FRA",
+        "crest": "https://crests.football-data.org/773.svg"
+      },
+      "goals": 1,
       "penalties": 0,
       "assists": 1,
       "yellowCards": 0,
