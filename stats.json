@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T21:55:54.001Z",
+  "updatedAt": "2026-06-27T22:55:54.394Z",
   "scorers": [
     {
       "player": {
@@ -328,6 +328,31 @@
     },
     {
       "player": {
+        "id": 8004,
+        "name": "Harry Kane",
+        "firstName": "Harry",
+        "lastName": "Kane",
+        "position": "",
+        "nationality": "England"
+      },
+      "team": {
+        "id": 770,
+        "name": "England",
+        "shortName": "England",
+        "tla": "ENG",
+        "crest": "https://crests.football-data.org/770.svg"
+      },
+      "goals": 3,
+      "penalties": 1,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 3,
+      "rank": 6
+    },
+    {
+      "player": {
         "id": 119460,
         "name": "Ayase Ueda",
         "firstName": "Ayase",
@@ -391,6 +416,31 @@
         "shortName": "Netherlands",
         "tla": "NED",
         "crest": "https://crests.football-data.org/8601.svg"
+      },
+      "goals": 2,
+      "penalties": 0,
+      "assists": 1,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 3,
+      "rank": 7
+    },
+    {
+      "player": {
+        "id": 125010,
+        "name": "Jude Bellingham",
+        "firstName": "Jude",
+        "lastName": "Bellingham",
+        "position": "",
+        "nationality": "England"
+      },
+      "team": {
+        "id": 770,
+        "name": "England",
+        "shortName": "England",
+        "tla": "ENG",
+        "crest": "https://crests.football-data.org/770.svg"
       },
       "goals": 2,
       "penalties": 0,
@@ -549,7 +599,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 14
+      "rank": 15
     },
     {
       "player": {
@@ -573,8 +623,8 @@
       "yellowCards": 0,
       "redCards": 0,
       "yellowRedCards": 0,
-      "playedMatches": 2,
-      "rank": 14
+      "playedMatches": 3,
+      "rank": 15
     },
     {
       "player": {
@@ -599,7 +649,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 14
+      "rank": 15
     },
     {
       "player": {
@@ -624,7 +674,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 14
+      "rank": 15
     },
     {
       "player": {
@@ -648,8 +698,8 @@
       "yellowCards": 0,
       "redCards": 0,
       "yellowRedCards": 0,
-      "playedMatches": 1,
-      "rank": 14
+      "playedMatches": 2,
+      "rank": 15
     },
     {
       "player": {
@@ -674,7 +724,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 14
+      "rank": 15
     },
     {
       "player": {
@@ -699,7 +749,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 14
+      "rank": 15
     },
     {
       "player": {
@@ -724,7 +774,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 14
+      "rank": 15
     },
     {
       "player": {
@@ -749,7 +799,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 14
+      "rank": 15
     },
     {
       "player": {
@@ -774,7 +824,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 14
+      "rank": 15
     },
     {
       "player": {
@@ -799,32 +849,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 14
-    },
-    {
-      "player": {
-        "id": 8004,
-        "name": "Harry Kane",
-        "firstName": "Harry",
-        "lastName": "Kane",
-        "position": "",
-        "nationality": "England"
-      },
-      "team": {
-        "id": 770,
-        "name": "England",
-        "shortName": "England",
-        "tla": "ENG",
-        "crest": "https://crests.football-data.org/770.svg"
-      },
-      "goals": 2,
-      "penalties": 1,
-      "assists": 0,
-      "yellowCards": 0,
-      "redCards": 0,
-      "yellowRedCards": 0,
-      "playedMatches": 3,
-      "rank": 14
+      "rank": 15
     },
     {
       "player": {
@@ -849,7 +874,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 14
+      "rank": 15
     },
     {
       "player": {
@@ -1048,7 +1073,7 @@
       "yellowCards": 0,
       "redCards": 0,
       "yellowRedCards": 0,
-      "playedMatches": 1,
+      "playedMatches": 2,
       "rank": 7
     },
     {
@@ -1198,8 +1223,8 @@
       "yellowCards": 0,
       "redCards": 0,
       "yellowRedCards": 0,
-      "playedMatches": 2,
-      "rank": 35
+      "playedMatches": 3,
+      "rank": 36
     },
     {
       "player": {
@@ -1224,7 +1249,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 35
+      "rank": 36
     },
     {
       "player": {
@@ -1249,7 +1274,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 35
+      "rank": 36
     },
     {
       "player": {
@@ -1274,7 +1299,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 35
+      "rank": 36
     },
     {
       "player": {
@@ -1299,7 +1324,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 35
+      "rank": 36
     },
     {
       "player": {
@@ -1324,7 +1349,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 35
+      "rank": 36
     },
     {
       "player": {
@@ -1349,7 +1374,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 35
+      "rank": 36
     },
     {
       "player": {
@@ -1374,7 +1399,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 35
+      "rank": 36
     },
     {
       "player": {
@@ -1399,7 +1424,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 35
+      "rank": 36
     },
     {
       "player": {
@@ -1424,7 +1449,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 35
+      "rank": 36
     },
     {
       "player": {
@@ -1449,7 +1474,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 35
+      "rank": 36
     },
     {
       "player": {
@@ -1474,7 +1499,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 35
+      "rank": 36
     },
     {
       "player": {
@@ -1499,7 +1524,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 35
+      "rank": 36
     },
     {
       "player": {
@@ -1524,7 +1549,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 35
+      "rank": 36
     },
     {
       "player": {
@@ -1549,7 +1574,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 35
+      "rank": 36
     },
     {
       "player": {
@@ -1574,7 +1599,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 35
+      "rank": 36
     },
     {
       "player": {
@@ -1599,7 +1624,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 35
+      "rank": 36
     },
     {
       "player": {
@@ -1624,7 +1649,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 35
+      "rank": 36
     },
     {
       "player": {
@@ -1649,7 +1674,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 35
+      "rank": 36
     },
     {
       "player": {
@@ -1673,8 +1698,8 @@
       "yellowCards": 0,
       "redCards": 0,
       "yellowRedCards": 0,
-      "playedMatches": 1,
-      "rank": 35
+      "playedMatches": 2,
+      "rank": 36
     },
     {
       "player": {
@@ -1698,8 +1723,8 @@
       "yellowCards": 0,
       "redCards": 0,
       "yellowRedCards": 0,
-      "playedMatches": 2,
-      "rank": 35
+      "playedMatches": 3,
+      "rank": 36
     },
     {
       "player": {
@@ -1724,7 +1749,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 35
+      "rank": 36
     },
     {
       "player": {
@@ -1749,32 +1774,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 35
-    },
-    {
-      "player": {
-        "id": 125010,
-        "name": "Jude Bellingham",
-        "firstName": "Jude",
-        "lastName": "Bellingham",
-        "position": "",
-        "nationality": "England"
-      },
-      "team": {
-        "id": 770,
-        "name": "England",
-        "shortName": "England",
-        "tla": "ENG",
-        "crest": "https://crests.football-data.org/770.svg"
-      },
-      "goals": 1,
-      "penalties": 0,
-      "assists": 0,
-      "yellowCards": 0,
-      "redCards": 0,
-      "yellowRedCards": 0,
-      "playedMatches": 3,
-      "rank": 35
+      "rank": 36
     },
     {
       "player": {
@@ -1799,7 +1799,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 35
+      "rank": 36
     },
     {
       "player": {
@@ -1824,7 +1824,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 35
+      "rank": 36
     },
     {
       "player": {
@@ -1849,7 +1849,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 35
+      "rank": 36
     },
     {
       "player": {
@@ -1874,7 +1874,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 35
+      "rank": 36
     },
     {
       "player": {
@@ -1899,7 +1899,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 35
+      "rank": 36
     },
     {
       "player": {
@@ -1924,7 +1924,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 35
+      "rank": 36
     },
     {
       "player": {
@@ -1949,7 +1949,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 35
+      "rank": 36
     },
     {
       "player": {
@@ -1974,7 +1974,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 35
+      "rank": 36
     },
     {
       "player": {
@@ -1999,7 +1999,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 35
+      "rank": 36
     },
     {
       "player": {
@@ -2024,7 +2024,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 35
+      "rank": 36
     },
     {
       "player": {
@@ -2049,7 +2049,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 35
+      "rank": 36
     },
     {
       "player": {
@@ -2074,7 +2074,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 35
+      "rank": 36
     },
     {
       "player": {
@@ -2099,7 +2099,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 35
+      "rank": 36
     },
     {
       "player": {
@@ -2124,7 +2124,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 35
+      "rank": 36
     },
     {
       "player": {
@@ -2149,7 +2149,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 35
+      "rank": 36
     },
     {
       "player": {
@@ -2174,7 +2174,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 35
+      "rank": 36
     },
     {
       "player": {
@@ -2199,7 +2199,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 35
+      "rank": 36
     },
     {
       "player": {
@@ -2224,7 +2224,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 35
+      "rank": 36
     },
     {
       "player": {
@@ -2248,8 +2248,8 @@
       "yellowCards": 0,
       "redCards": 0,
       "yellowRedCards": 0,
-      "playedMatches": 2,
-      "rank": 35
+      "playedMatches": 3,
+      "rank": 36
     },
     {
       "player": {
@@ -2274,7 +2274,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 35
+      "rank": 36
     },
     {
       "player": {
@@ -2299,7 +2299,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 35
+      "rank": 36
     },
     {
       "player": {
@@ -2324,7 +2324,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 35
+      "rank": 36
     },
     {
       "player": {
@@ -2349,7 +2349,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 35
+      "rank": 36
     },
     {
       "player": {
@@ -2374,7 +2374,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 35
+      "rank": 36
     },
     {
       "player": {
@@ -2398,8 +2398,8 @@
       "yellowCards": 0,
       "redCards": 0,
       "yellowRedCards": 0,
-      "playedMatches": 1,
-      "rank": 35
+      "playedMatches": 2,
+      "rank": 36
     },
     {
       "player": {
@@ -2449,7 +2449,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 35
+      "rank": 36
     },
     {
       "player": {
@@ -2474,7 +2474,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 35
+      "rank": 36
     },
     {
       "player": {
@@ -2499,7 +2499,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 35
+      "rank": 36
     }
   ],
   "assisters": [
@@ -2830,6 +2830,31 @@
     },
     {
       "player": {
+        "id": 125010,
+        "name": "Jude Bellingham",
+        "firstName": "Jude",
+        "lastName": "Bellingham",
+        "position": "",
+        "nationality": "England"
+      },
+      "team": {
+        "id": 770,
+        "name": "England",
+        "shortName": "England",
+        "tla": "ENG",
+        "crest": "https://crests.football-data.org/770.svg"
+      },
+      "goals": 2,
+      "penalties": 0,
+      "assists": 1,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 3,
+      "rank": 7
+    },
+    {
+      "player": {
         "id": 28770,
         "name": "Maximiliano Araújo",
         "firstName": "Maxi",
@@ -3075,7 +3100,7 @@
       "yellowCards": 0,
       "redCards": 0,
       "yellowRedCards": 0,
-      "playedMatches": 1,
+      "playedMatches": 2,
       "rank": 7
     },
     {
