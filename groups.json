@@ -319,43 +319,43 @@
     "teams": [
       {
         "name": "Spain",
-        "mp": 2,
-        "w": 1,
+        "mp": 3,
+        "w": 2,
         "d": 1,
         "l": 0,
-        "gf": 4,
+        "gf": 5,
         "ga": 0,
-        "pts": 4
-      },
-      {
-        "name": "Uruguay",
-        "mp": 2,
-        "w": 0,
-        "d": 2,
-        "l": 0,
-        "gf": 3,
-        "ga": 3,
-        "pts": 2
+        "pts": 7
       },
       {
         "name": "Cape Verde",
-        "mp": 2,
+        "mp": 3,
         "w": 0,
-        "d": 2,
+        "d": 3,
         "l": 0,
         "gf": 2,
         "ga": 2,
+        "pts": 3
+      },
+      {
+        "name": "Uruguay",
+        "mp": 3,
+        "w": 0,
+        "d": 2,
+        "l": 1,
+        "gf": 3,
+        "ga": 4,
         "pts": 2
       },
       {
         "name": "Saudi Arabia",
-        "mp": 2,
+        "mp": 3,
         "w": 0,
-        "d": 1,
+        "d": 2,
         "l": 1,
         "gf": 1,
         "ga": 5,
-        "pts": 1
+        "pts": 2
       }
     ]
   },
