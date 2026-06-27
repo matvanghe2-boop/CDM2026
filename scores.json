@@ -606,7 +606,7 @@
     "as": 1,
     "date": "2026-06-26T00:00:00.000Z",
     "finished": "FALSE",
-    "phase": "90",
+    "phase": "PRE",
     "type": "group",
     "tv": false
   },
@@ -619,7 +619,7 @@
     "as": 0,
     "date": "2026-06-26T22:00:00.000Z",
     "finished": "FALSE",
-    "phase": "90",
+    "phase": "PRE",
     "type": "group",
     "tv": false
   },
@@ -683,8 +683,8 @@
     "hs": 1,
     "as": 4,
     "date": "2026-06-26T19:00:00.000Z",
-    "finished": "TRUE",
-    "phase": "FT",
+    "finished": "FALSE",
+    "phase": "PRE",
     "type": "group",
     "tv": true
   },
@@ -696,8 +696,8 @@
     "hs": 5,
     "as": 0,
     "date": "2026-06-26T19:00:00.000Z",
-    "finished": "TRUE",
-    "phase": "FT",
+    "finished": "FALSE",
+    "phase": "PRE",
     "type": "group",
     "tv": true
   },
