@@ -605,8 +605,8 @@
     "hs": 0,
     "as": 1,
     "date": "2026-06-26T00:00:00.000Z",
-    "finished": "FALSE",
-    "phase": "PRE",
+    "finished": "TRUE",
+    "phase": "FT",
     "type": "group",
     "tv": false
   },
@@ -618,8 +618,8 @@
     "hs": 0,
     "as": 0,
     "date": "2026-06-26T22:00:00.000Z",
-    "finished": "FALSE",
-    "phase": "PRE",
+    "finished": "TRUE",
+    "phase": "FT",
     "type": "group",
     "tv": false
   },
