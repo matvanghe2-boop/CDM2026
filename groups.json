@@ -454,42 +454,42 @@
     "teams": [
       {
         "name": "Colombia",
-        "mp": 2,
+        "mp": 3,
         "w": 2,
-        "d": 0,
+        "d": 1,
         "l": 0,
         "gf": 4,
         "ga": 1,
-        "pts": 6
+        "pts": 7
       },
       {
         "name": "Portugal",
-        "mp": 2,
+        "mp": 3,
         "w": 1,
-        "d": 1,
+        "d": 2,
         "l": 0,
         "gf": 6,
         "ga": 1,
-        "pts": 4
+        "pts": 5
       },
       {
         "name": "DR Congo",
-        "mp": 2,
-        "w": 0,
+        "mp": 3,
+        "w": 1,
         "d": 1,
         "l": 1,
-        "gf": 1,
-        "ga": 2,
-        "pts": 1
+        "gf": 4,
+        "ga": 3,
+        "pts": 4
       },
       {
         "name": "Uzbekistan",
-        "mp": 2,
+        "mp": 3,
         "w": 0,
         "d": 0,
-        "l": 2,
-        "gf": 1,
-        "ga": 8,
+        "l": 3,
+        "gf": 2,
+        "ga": 11,
         "pts": 0
       }
     ]
