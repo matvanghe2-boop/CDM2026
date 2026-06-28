@@ -917,8 +917,8 @@
     "hs": 0,
     "as": 2,
     "date": "2026-06-27T22:00:00.000Z",
-    "finished": "TRUE",
-    "phase": "FT",
+    "finished": "FALSE",
+    "phase": "PRE",
     "type": "group",
     "tv": true
   },
@@ -930,8 +930,8 @@
     "hs": 2,
     "as": 1,
     "date": "2026-06-27T22:00:00.000Z",
-    "finished": "TRUE",
-    "phase": "FT",
+    "finished": "FALSE",
+    "phase": "PRE",
     "type": "group",
     "tv": true
   }
