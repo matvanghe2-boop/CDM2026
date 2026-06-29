@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-29T21:56:00.604Z",
+  "updatedAt": "2026-06-29T22:55:54.934Z",
   "scorers": [
     {
       "player": {
@@ -1178,6 +1178,31 @@
     },
     {
       "player": {
+        "id": 165622,
+        "name": "Matías Galarza",
+        "firstName": "Matías",
+        "lastName": "Galarza Fonda",
+        "position": "",
+        "nationality": "Paraguay"
+      },
+      "team": {
+        "id": 761,
+        "name": "Paraguay",
+        "shortName": "Paraguay",
+        "tla": "PAR",
+        "crest": "https://crests.football-data.org/761.svg"
+      },
+      "goals": 1,
+      "penalties": 0,
+      "assists": 1,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 4,
+      "rank": 8
+    },
+    {
+      "player": {
         "id": 295848,
         "name": "Mostafa Ziko",
         "firstName": "Mostafa",
@@ -2074,31 +2099,6 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 39
-    },
-    {
-      "player": {
-        "id": 165622,
-        "name": "Matías Galarza",
-        "firstName": "Matías",
-        "lastName": "Galarza Fonda",
-        "position": "",
-        "nationality": "Paraguay"
-      },
-      "team": {
-        "id": 761,
-        "name": "Paraguay",
-        "shortName": "Paraguay",
-        "tla": "PAR",
-        "crest": "https://crests.football-data.org/761.svg"
-      },
-      "goals": 1,
-      "penalties": 0,
-      "assists": 0,
-      "yellowCards": 0,
-      "redCards": 0,
-      "yellowRedCards": 0,
-      "playedMatches": 4,
       "rank": 39
     },
     {
@@ -3151,6 +3151,31 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
+      "rank": 8
+    },
+    {
+      "player": {
+        "id": 165622,
+        "name": "Matías Galarza",
+        "firstName": "Matías",
+        "lastName": "Galarza Fonda",
+        "position": "",
+        "nationality": "Paraguay"
+      },
+      "team": {
+        "id": 761,
+        "name": "Paraguay",
+        "shortName": "Paraguay",
+        "tla": "PAR",
+        "crest": "https://crests.football-data.org/761.svg"
+      },
+      "goals": 1,
+      "penalties": 0,
+      "assists": 1,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 4,
       "rank": 8
     },
     {
