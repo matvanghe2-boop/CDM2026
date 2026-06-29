@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-29T20:55:56.107Z",
+  "updatedAt": "2026-06-29T21:56:00.604Z",
   "scorers": [
     {
       "player": {
@@ -353,6 +353,31 @@
     },
     {
       "player": {
+        "id": 171,
+        "name": "Kai Havertz",
+        "firstName": "Kai",
+        "lastName": "Havertz",
+        "position": "",
+        "nationality": "Germany"
+      },
+      "team": {
+        "id": 759,
+        "name": "Germany",
+        "shortName": "Germany",
+        "tla": "GER",
+        "crest": "https://crests.football-data.org/759.svg"
+      },
+      "goals": 3,
+      "penalties": 1,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "playedMatches": 4,
+      "rank": 6
+    },
+    {
+      "player": {
         "id": 612,
         "name": "Yoane Wissa",
         "firstName": "Yoane",
@@ -649,7 +674,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 16
+      "rank": 17
     },
     {
       "player": {
@@ -674,7 +699,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 16
+      "rank": 17
     },
     {
       "player": {
@@ -699,7 +724,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 4,
-      "rank": 16
+      "rank": 17
     },
     {
       "player": {
@@ -724,7 +749,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 4,
-      "rank": 16
+      "rank": 17
     },
     {
       "player": {
@@ -749,7 +774,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 16
+      "rank": 17
     },
     {
       "player": {
@@ -774,7 +799,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 16
+      "rank": 17
     },
     {
       "player": {
@@ -799,7 +824,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 16
+      "rank": 17
     },
     {
       "player": {
@@ -824,7 +849,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 16
+      "rank": 17
     },
     {
       "player": {
@@ -849,7 +874,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 16
+      "rank": 17
     },
     {
       "player": {
@@ -874,7 +899,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 2,
-      "rank": 16
+      "rank": 17
     },
     {
       "player": {
@@ -899,32 +924,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 16
-    },
-    {
-      "player": {
-        "id": 171,
-        "name": "Kai Havertz",
-        "firstName": "Kai",
-        "lastName": "Havertz",
-        "position": "",
-        "nationality": "Germany"
-      },
-      "team": {
-        "id": 759,
-        "name": "Germany",
-        "shortName": "Germany",
-        "tla": "GER",
-        "crest": "https://crests.football-data.org/759.svg"
-      },
-      "goals": 2,
-      "penalties": 1,
-      "assists": 0,
-      "yellowCards": 0,
-      "redCards": 0,
-      "yellowRedCards": 0,
-      "playedMatches": 4,
-      "rank": 16
+      "rank": 17
     },
     {
       "player": {
@@ -949,7 +949,7 @@
       "redCards": 0,
       "yellowRedCards": 0,
       "playedMatches": 3,
-      "rank": 16
+      "rank": 17
     },
     {
       "player": {
